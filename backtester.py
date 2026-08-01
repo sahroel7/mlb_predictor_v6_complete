@@ -1,5 +1,5 @@
 """
-backtester.py - Historical Backtesting Engine v6.0
+backtester.py - test Historical Backtesting Engine v6.0
 Tests model performance on real MLB historical games & actual scores from MLB Stats API
 """
 
