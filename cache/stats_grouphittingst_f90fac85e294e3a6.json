@@ -1,0 +1,59 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "gamesPlayed": 103,
+            "groundOuts": 967,
+            "airOuts": 850,
+            "runs": 516,
+            "doubles": 185,
+            "triples": 16,
+            "homeRuns": 96,
+            "strikeOuts": 847,
+            "baseOnBalls": 426,
+            "intentionalWalks": 19,
+            "hits": 883,
+            "hitByPitch": 23,
+            "avg": ".252",
+            "atBats": 3498,
+            "obp": ".335",
+            "slg": ".397",
+            "ops": ".732",
+            "caughtStealing": 29,
+            "stolenBases": 100,
+            "stolenBasePercentage": ".775",
+            "caughtStealingPercentage": ".225",
+            "groundIntoDoublePlay": 58,
+            "numberOfPitches": 15916,
+            "plateAppearances": 4003,
+            "totalBases": 1388,
+            "rbi": 490,
+            "leftOnBase": 773,
+            "sacBunts": 25,
+            "sacFlies": 24,
+            "babip": ".305",
+            "groundOutsToAirouts": "1.14",
+            "catchersInterference": 7,
+            "atBatsPerHomeRun": "36.44"
+          },
+          "team": {
+            "id": 158,
+            "name": "Milwaukee Brewers",
+            "link": "/api/v1/teams/158"
+          }
+        }
+      ]
+    }
+  ]
+}

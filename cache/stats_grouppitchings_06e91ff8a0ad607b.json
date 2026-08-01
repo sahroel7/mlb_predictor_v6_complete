@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 29,
+            "gamesPlayed": 20,
+            "gamesStarted": 20,
+            "groundOuts": 106,
+            "airOuts": 110,
+            "runs": 43,
+            "doubles": 27,
+            "triples": 0,
+            "homeRuns": 6,
+            "strikeOuts": 100,
+            "baseOnBalls": 33,
+            "intentionalWalks": 0,
+            "hits": 108,
+            "hitByPitch": 6,
+            "avg": ".257",
+            "atBats": 421,
+            "obp": ".318",
+            "slg": ".363",
+            "ops": ".681",
+            "caughtStealing": 3,
+            "stolenBases": 7,
+            "stolenBasePercentage": ".700",
+            "caughtStealingPercentage": ".300",
+            "groundIntoDoublePlay": 12,
+            "numberOfPitches": 1780,
+            "era": "3.49",
+            "inningsPitched": "111.0",
+            "wins": 9,
+            "losses": 5,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 43,
+            "whip": "1.27",
+            "battersFaced": 463,
+            "outs": 333,
+            "gamesPitched": 20,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 1145,
+            "strikePercentage": ".640",
+            "hitBatsmen": 6,
+            "balks": 1,
+            "wildPitches": 7,
+            "pickoffs": 1,
+            "totalBases": 153,
+            "groundOutsToAirouts": "0.96",
+            "winPercentage": ".643",
+            "pitchesPerInning": "16.04",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "3.03",
+            "strikeoutsPer9Inn": "8.11",
+            "walksPer9Inn": "2.68",
+            "hitsPer9Inn": "8.76",
+            "runsScoredPer9": "3.49",
+            "homeRunsPer9": "0.49",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 1,
+            "sacFlies": 2
+          },
+          "team": {
+            "id": 145,
+            "name": "Chicago White Sox",
+            "link": "/api/v1/teams/145"
+          },
+          "player": {
+            "id": 663436,
+            "fullName": "Davis Martin",
+            "link": "/api/v1/people/663436"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

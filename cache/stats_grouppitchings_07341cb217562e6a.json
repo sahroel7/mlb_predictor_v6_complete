@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 30,
+            "gamesPlayed": 21,
+            "gamesStarted": 21,
+            "groundOuts": 83,
+            "airOuts": 127,
+            "runs": 54,
+            "doubles": 24,
+            "triples": 0,
+            "homeRuns": 16,
+            "strikeOuts": 131,
+            "baseOnBalls": 25,
+            "intentionalWalks": 0,
+            "hits": 101,
+            "hitByPitch": 5,
+            "avg": ".230",
+            "atBats": 439,
+            "obp": ".278",
+            "slg": ".394",
+            "ops": ".672",
+            "caughtStealing": 4,
+            "stolenBases": 15,
+            "stolenBasePercentage": ".789",
+            "caughtStealingPercentage": ".211",
+            "groundIntoDoublePlay": 2,
+            "numberOfPitches": 1897,
+            "era": "3.38",
+            "inningsPitched": "114.1",
+            "wins": 6,
+            "losses": 6,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 43,
+            "whip": "1.10",
+            "battersFaced": 472,
+            "outs": 343,
+            "gamesPitched": 21,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 1280,
+            "strikePercentage": ".670",
+            "hitBatsmen": 5,
+            "balks": 0,
+            "wildPitches": 2,
+            "pickoffs": 1,
+            "totalBases": 173,
+            "groundOutsToAirouts": "0.65",
+            "winPercentage": ".500",
+            "pitchesPerInning": "16.59",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "5.24",
+            "strikeoutsPer9Inn": "10.31",
+            "walksPer9Inn": "1.97",
+            "hitsPer9Inn": "7.95",
+            "runsScoredPer9": "4.25",
+            "homeRunsPer9": "1.26",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 0,
+            "sacFlies": 3
+          },
+          "team": {
+            "id": 142,
+            "name": "Minnesota Twins",
+            "link": "/api/v1/teams/142"
+          },
+          "player": {
+            "id": 657746,
+            "fullName": "Joe Ryan",
+            "link": "/api/v1/people/657746"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

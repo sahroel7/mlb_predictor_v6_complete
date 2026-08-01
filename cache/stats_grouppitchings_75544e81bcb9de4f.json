@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 31,
+            "gamesPlayed": 21,
+            "gamesStarted": 19,
+            "groundOuts": 102,
+            "airOuts": 108,
+            "runs": 50,
+            "doubles": 15,
+            "triples": 3,
+            "homeRuns": 14,
+            "strikeOuts": 80,
+            "baseOnBalls": 40,
+            "intentionalWalks": 0,
+            "hits": 95,
+            "hitByPitch": 19,
+            "avg": ".253",
+            "atBats": 375,
+            "obp": ".351",
+            "slg": ".421",
+            "ops": ".772",
+            "caughtStealing": 2,
+            "stolenBases": 8,
+            "stolenBasePercentage": ".800",
+            "caughtStealingPercentage": ".200",
+            "groundIntoDoublePlay": 7,
+            "numberOfPitches": 1797,
+            "era": "4.21",
+            "inningsPitched": "98.1",
+            "wins": 7,
+            "losses": 4,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 46,
+            "whip": "1.37",
+            "battersFaced": 444,
+            "outs": 295,
+            "gamesPitched": 21,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 1099,
+            "strikePercentage": ".610",
+            "hitBatsmen": 19,
+            "balks": 2,
+            "wildPitches": 3,
+            "pickoffs": 0,
+            "totalBases": 158,
+            "groundOutsToAirouts": "0.94",
+            "winPercentage": ".636",
+            "pitchesPerInning": "18.27",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "2.00",
+            "strikeoutsPer9Inn": "7.32",
+            "walksPer9Inn": "3.66",
+            "hitsPer9Inn": "8.69",
+            "runsScoredPer9": "4.58",
+            "homeRunsPer9": "1.28",
+            "inheritedRunners": 1,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 5,
+            "sacFlies": 5
+          },
+          "team": {
+            "id": 145,
+            "name": "Chicago White Sox",
+            "link": "/api/v1/teams/145"
+          },
+          "player": {
+            "id": 641743,
+            "fullName": "Anthony Kay",
+            "link": "/api/v1/people/641743"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

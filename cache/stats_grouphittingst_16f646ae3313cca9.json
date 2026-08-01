@@ -1,0 +1,59 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "gamesPlayed": 104,
+            "groundOuts": 810,
+            "airOuts": 1007,
+            "runs": 539,
+            "doubles": 175,
+            "triples": 11,
+            "homeRuns": 135,
+            "strikeOuts": 821,
+            "baseOnBalls": 411,
+            "intentionalWalks": 19,
+            "hits": 911,
+            "hitByPitch": 38,
+            "avg": ".260",
+            "atBats": 3498,
+            "obp": ".341",
+            "slg": ".433",
+            "ops": ".774",
+            "caughtStealing": 14,
+            "stolenBases": 41,
+            "stolenBasePercentage": ".745",
+            "caughtStealingPercentage": ".255",
+            "groundIntoDoublePlay": 87,
+            "numberOfPitches": 15795,
+            "plateAppearances": 4001,
+            "totalBases": 1513,
+            "rbi": 507,
+            "leftOnBase": 736,
+            "sacBunts": 12,
+            "sacFlies": 39,
+            "babip": ".301",
+            "groundOutsToAirouts": "0.80",
+            "catchersInterference": 3,
+            "atBatsPerHomeRun": "25.91"
+          },
+          "team": {
+            "id": 119,
+            "name": "Los Angeles Dodgers",
+            "link": "/api/v1/teams/119"
+          }
+        }
+      ]
+    }
+  ]
+}

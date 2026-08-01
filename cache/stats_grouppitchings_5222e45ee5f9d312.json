@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 25,
+            "gamesPlayed": 14,
+            "gamesStarted": 14,
+            "groundOuts": 90,
+            "airOuts": 58,
+            "runs": 43,
+            "doubles": 12,
+            "triples": 1,
+            "homeRuns": 7,
+            "strikeOuts": 57,
+            "baseOnBalls": 23,
+            "intentionalWalks": 0,
+            "hits": 69,
+            "hitByPitch": 12,
+            "avg": ".255",
+            "atBats": 271,
+            "obp": ".338",
+            "slg": ".384",
+            "ops": ".722",
+            "caughtStealing": 1,
+            "stolenBases": 8,
+            "stolenBasePercentage": ".889",
+            "caughtStealingPercentage": ".111",
+            "groundIntoDoublePlay": 6,
+            "numberOfPitches": 1137,
+            "era": "5.12",
+            "inningsPitched": "70.1",
+            "wins": 3,
+            "losses": 7,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 40,
+            "whip": "1.31",
+            "battersFaced": 310,
+            "outs": 211,
+            "gamesPitched": 14,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 718,
+            "strikePercentage": ".630",
+            "hitBatsmen": 12,
+            "balks": 1,
+            "wildPitches": 5,
+            "pickoffs": 0,
+            "totalBases": 104,
+            "groundOutsToAirouts": "1.55",
+            "winPercentage": ".300",
+            "pitchesPerInning": "16.17",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "2.48",
+            "strikeoutsPer9Inn": "7.29",
+            "walksPer9Inn": "2.94",
+            "hitsPer9Inn": "8.83",
+            "runsScoredPer9": "5.50",
+            "homeRunsPer9": "0.90",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 1,
+            "sacBunts": 1,
+            "sacFlies": 2
+          },
+          "team": {
+            "id": 137,
+            "name": "San Francisco Giants",
+            "link": "/api/v1/teams/137"
+          },
+          "player": {
+            "id": 686790,
+            "fullName": "Trevor McDonald",
+            "link": "/api/v1/people/686790"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

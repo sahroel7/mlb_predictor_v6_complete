@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 30,
+            "gamesPlayed": 19,
+            "gamesStarted": 19,
+            "groundOuts": 82,
+            "airOuts": 82,
+            "runs": 36,
+            "doubles": 13,
+            "triples": 0,
+            "homeRuns": 7,
+            "strikeOuts": 167,
+            "baseOnBalls": 48,
+            "intentionalWalks": 0,
+            "hits": 75,
+            "hitByPitch": 3,
+            "avg": ".186",
+            "atBats": 404,
+            "obp": ".276",
+            "slg": ".270",
+            "ops": ".546",
+            "caughtStealing": 4,
+            "stolenBases": 17,
+            "stolenBasePercentage": ".810",
+            "caughtStealingPercentage": ".190",
+            "groundIntoDoublePlay": 6,
+            "numberOfPitches": 1939,
+            "era": "2.46",
+            "inningsPitched": "113.1",
+            "wins": 7,
+            "losses": 5,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 31,
+            "whip": "1.09",
+            "battersFaced": 457,
+            "outs": 340,
+            "gamesPitched": 19,
+            "completeGames": 1,
+            "shutouts": 1,
+            "strikes": 1219,
+            "strikePercentage": ".630",
+            "hitBatsmen": 3,
+            "balks": 1,
+            "wildPitches": 3,
+            "pickoffs": 0,
+            "totalBases": 109,
+            "groundOutsToAirouts": "1.00",
+            "winPercentage": ".583",
+            "pitchesPerInning": "17.11",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "3.48",
+            "strikeoutsPer9Inn": "13.26",
+            "walksPer9Inn": "3.81",
+            "hitsPer9Inn": "5.96",
+            "runsScoredPer9": "2.86",
+            "homeRunsPer9": "0.56",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 1,
+            "sacFlies": 1
+          },
+          "team": {
+            "id": 141,
+            "name": "Toronto Blue Jays",
+            "link": "/api/v1/teams/141"
+          },
+          "player": {
+            "id": 656302,
+            "fullName": "Dylan Cease",
+            "link": "/api/v1/people/656302"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

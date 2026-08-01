@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 31,
+            "gamesPlayed": 27,
+            "gamesStarted": 16,
+            "groundOuts": 77,
+            "airOuts": 74,
+            "runs": 44,
+            "doubles": 10,
+            "triples": 0,
+            "homeRuns": 13,
+            "strikeOuts": 82,
+            "baseOnBalls": 27,
+            "intentionalWalks": 1,
+            "hits": 72,
+            "hitByPitch": 2,
+            "avg": ".242",
+            "atBats": 297,
+            "obp": ".306",
+            "slg": ".407",
+            "ops": ".713",
+            "caughtStealing": 3,
+            "stolenBases": 10,
+            "stolenBasePercentage": ".769",
+            "caughtStealingPercentage": ".231",
+            "groundIntoDoublePlay": 9,
+            "numberOfPitches": 1231,
+            "era": "3.89",
+            "inningsPitched": "81.0",
+            "wins": 6,
+            "losses": 7,
+            "saves": 0,
+            "saveOpportunities": 2,
+            "holds": 2,
+            "blownSaves": 2,
+            "earnedRuns": 35,
+            "whip": "1.22",
+            "battersFaced": 334,
+            "outs": 243,
+            "gamesPitched": 27,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 788,
+            "strikePercentage": ".640",
+            "hitBatsmen": 2,
+            "balks": 0,
+            "wildPitches": 2,
+            "pickoffs": 1,
+            "totalBases": 121,
+            "groundOutsToAirouts": "1.04",
+            "winPercentage": ".462",
+            "pitchesPerInning": "15.20",
+            "gamesFinished": 1,
+            "strikeoutWalkRatio": "3.04",
+            "strikeoutsPer9Inn": "9.11",
+            "walksPer9Inn": "3.00",
+            "hitsPer9Inn": "8.00",
+            "runsScoredPer9": "4.89",
+            "homeRunsPer9": "1.44",
+            "inheritedRunners": 5,
+            "inheritedRunnersScored": 4,
+            "catchersInterference": 0,
+            "sacBunts": 4,
+            "sacFlies": 4
+          },
+          "team": {
+            "id": 139,
+            "name": "Tampa Bay Rays",
+            "link": "/api/v1/teams/139"
+          },
+          "player": {
+            "id": 643377,
+            "fullName": "Griffin Jax",
+            "link": "/api/v1/people/643377"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

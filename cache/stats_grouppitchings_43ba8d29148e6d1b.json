@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 26,
+            "gamesPlayed": 19,
+            "gamesStarted": 1,
+            "groundOuts": 26,
+            "airOuts": 20,
+            "runs": 13,
+            "doubles": 1,
+            "triples": 0,
+            "homeRuns": 4,
+            "strikeOuts": 21,
+            "baseOnBalls": 10,
+            "intentionalWalks": 0,
+            "hits": 27,
+            "hitByPitch": 1,
+            "avg": ".293",
+            "atBats": 92,
+            "obp": ".362",
+            "slg": ".435",
+            "ops": ".797",
+            "caughtStealing": 1,
+            "stolenBases": 2,
+            "stolenBasePercentage": ".667",
+            "caughtStealingPercentage": ".333",
+            "groundIntoDoublePlay": 3,
+            "numberOfPitches": 389,
+            "era": "3.86",
+            "inningsPitched": "23.1",
+            "wins": 1,
+            "losses": 1,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 1,
+            "blownSaves": 0,
+            "earnedRuns": 10,
+            "whip": "1.59",
+            "battersFaced": 105,
+            "outs": 70,
+            "gamesPitched": 19,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 247,
+            "strikePercentage": ".630",
+            "hitBatsmen": 1,
+            "balks": 0,
+            "wildPitches": 3,
+            "pickoffs": 0,
+            "totalBases": 40,
+            "groundOutsToAirouts": "1.30",
+            "winPercentage": ".500",
+            "pitchesPerInning": "16.67",
+            "gamesFinished": 8,
+            "strikeoutWalkRatio": "2.10",
+            "strikeoutsPer9Inn": "8.10",
+            "walksPer9Inn": "3.86",
+            "hitsPer9Inn": "10.41",
+            "runsScoredPer9": "5.01",
+            "homeRunsPer9": "1.54",
+            "inheritedRunners": 6,
+            "inheritedRunnersScored": 1,
+            "catchersInterference": 0,
+            "sacBunts": 0,
+            "sacFlies": 2
+          },
+          "team": {
+            "id": 118,
+            "name": "Kansas City Royals",
+            "link": "/api/v1/teams/118"
+          },
+          "player": {
+            "id": 694360,
+            "fullName": "Beck Way",
+            "link": "/api/v1/people/694360"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

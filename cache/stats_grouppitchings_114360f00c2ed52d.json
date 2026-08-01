@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 25,
+            "gamesPlayed": 20,
+            "gamesStarted": 20,
+            "groundOuts": 81,
+            "airOuts": 129,
+            "runs": 47,
+            "doubles": 21,
+            "triples": 0,
+            "homeRuns": 17,
+            "strikeOuts": 129,
+            "baseOnBalls": 46,
+            "intentionalWalks": 0,
+            "hits": 94,
+            "hitByPitch": 2,
+            "avg": ".219",
+            "atBats": 430,
+            "obp": ".296",
+            "slg": ".386",
+            "ops": ".682",
+            "caughtStealing": 0,
+            "stolenBases": 8,
+            "stolenBasePercentage": "1.000",
+            "caughtStealingPercentage": ".000",
+            "groundIntoDoublePlay": 6,
+            "numberOfPitches": 1948,
+            "era": "3.69",
+            "inningsPitched": "114.2",
+            "wins": 9,
+            "losses": 4,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 47,
+            "whip": "1.22",
+            "battersFaced": 481,
+            "outs": 344,
+            "gamesPitched": 20,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 1227,
+            "strikePercentage": ".630",
+            "hitBatsmen": 2,
+            "balks": 0,
+            "wildPitches": 5,
+            "pickoffs": 0,
+            "totalBases": 166,
+            "groundOutsToAirouts": "0.63",
+            "winPercentage": ".692",
+            "pitchesPerInning": "16.99",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "2.80",
+            "strikeoutsPer9Inn": "10.13",
+            "walksPer9Inn": "3.61",
+            "hitsPer9Inn": "7.38",
+            "runsScoredPer9": "3.69",
+            "homeRunsPer9": "1.33",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 1,
+            "sacFlies": 2
+          },
+          "team": {
+            "id": 142,
+            "name": "Minnesota Twins",
+            "link": "/api/v1/teams/142"
+          },
+          "player": {
+            "id": 671737,
+            "fullName": "Taj Bradley",
+            "link": "/api/v1/people/671737"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

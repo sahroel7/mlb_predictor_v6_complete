@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 34,
+            "gamesPlayed": 22,
+            "gamesStarted": 21,
+            "groundOuts": 113,
+            "airOuts": 106,
+            "runs": 82,
+            "doubles": 27,
+            "triples": 6,
+            "homeRuns": 16,
+            "strikeOuts": 78,
+            "baseOnBalls": 39,
+            "intentionalWalks": 0,
+            "hits": 141,
+            "hitByPitch": 5,
+            "avg": ".327",
+            "atBats": 431,
+            "obp": ".385",
+            "slg": ".529",
+            "ops": ".914",
+            "caughtStealing": 1,
+            "stolenBases": 3,
+            "stolenBasePercentage": ".750",
+            "caughtStealingPercentage": ".250",
+            "groundIntoDoublePlay": 8,
+            "numberOfPitches": 1841,
+            "era": "6.53",
+            "inningsPitched": "100.2",
+            "wins": 3,
+            "losses": 9,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 73,
+            "whip": "1.79",
+            "battersFaced": 482,
+            "outs": 302,
+            "gamesPitched": 22,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 1134,
+            "strikePercentage": ".620",
+            "hitBatsmen": 5,
+            "balks": 1,
+            "wildPitches": 3,
+            "pickoffs": 0,
+            "totalBases": 228,
+            "groundOutsToAirouts": "1.07",
+            "winPercentage": ".250",
+            "pitchesPerInning": "18.29",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "2.00",
+            "strikeoutsPer9Inn": "6.97",
+            "walksPer9Inn": "3.49",
+            "hitsPer9Inn": "12.61",
+            "runsScoredPer9": "7.33",
+            "homeRunsPer9": "1.43",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 1,
+            "sacFlies": 6
+          },
+          "team": {
+            "id": 115,
+            "name": "Colorado Rockies",
+            "link": "/api/v1/teams/115"
+          },
+          "player": {
+            "id": 547179,
+            "fullName": "Michael Lorenzen",
+            "link": "/api/v1/people/547179"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

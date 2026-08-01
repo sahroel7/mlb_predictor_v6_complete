@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 33,
+            "gamesPlayed": 21,
+            "gamesStarted": 21,
+            "groundOuts": 87,
+            "airOuts": 133,
+            "runs": 79,
+            "doubles": 19,
+            "triples": 4,
+            "homeRuns": 27,
+            "strikeOuts": 86,
+            "baseOnBalls": 39,
+            "intentionalWalks": 0,
+            "hits": 112,
+            "hitByPitch": 2,
+            "avg": ".271",
+            "atBats": 413,
+            "obp": ".333",
+            "slg": ".533",
+            "ops": ".866",
+            "caughtStealing": 3,
+            "stolenBases": 5,
+            "stolenBasePercentage": ".625",
+            "caughtStealingPercentage": ".375",
+            "groundIntoDoublePlay": 5,
+            "numberOfPitches": 1789,
+            "era": "6.23",
+            "inningsPitched": "104.0",
+            "wins": 3,
+            "losses": 10,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 72,
+            "whip": "1.45",
+            "battersFaced": 459,
+            "outs": 312,
+            "gamesPitched": 21,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 1131,
+            "strikePercentage": ".630",
+            "hitBatsmen": 2,
+            "balks": 1,
+            "wildPitches": 0,
+            "pickoffs": 4,
+            "totalBases": 220,
+            "groundOutsToAirouts": "0.65",
+            "winPercentage": ".231",
+            "pitchesPerInning": "17.20",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "2.21",
+            "strikeoutsPer9Inn": "7.44",
+            "walksPer9Inn": "3.38",
+            "hitsPer9Inn": "9.69",
+            "runsScoredPer9": "6.84",
+            "homeRunsPer9": "2.34",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 0,
+            "sacFlies": 5
+          },
+          "team": {
+            "id": 133,
+            "name": "Athletics",
+            "link": "/api/v1/teams/133"
+          },
+          "player": {
+            "id": 605488,
+            "fullName": "Jeffrey Springs",
+            "link": "/api/v1/people/605488"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

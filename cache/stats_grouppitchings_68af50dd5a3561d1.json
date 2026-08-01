@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 27,
+            "gamesPlayed": 21,
+            "gamesStarted": 11,
+            "groundOuts": 75,
+            "airOuts": 84,
+            "runs": 37,
+            "doubles": 19,
+            "triples": 2,
+            "homeRuns": 6,
+            "strikeOuts": 82,
+            "baseOnBalls": 23,
+            "intentionalWalks": 0,
+            "hits": 75,
+            "hitByPitch": 3,
+            "avg": ".241",
+            "atBats": 311,
+            "obp": ".296",
+            "slg": ".373",
+            "ops": ".669",
+            "caughtStealing": 2,
+            "stolenBases": 4,
+            "stolenBasePercentage": ".667",
+            "caughtStealingPercentage": ".333",
+            "groundIntoDoublePlay": 5,
+            "numberOfPitches": 1275,
+            "era": "3.51",
+            "inningsPitched": "82.0",
+            "wins": 5,
+            "losses": 4,
+            "saves": 1,
+            "saveOpportunities": 1,
+            "holds": 2,
+            "blownSaves": 0,
+            "earnedRuns": 32,
+            "whip": "1.20",
+            "battersFaced": 342,
+            "outs": 246,
+            "gamesPitched": 21,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 835,
+            "strikePercentage": ".650",
+            "hitBatsmen": 3,
+            "balks": 0,
+            "wildPitches": 0,
+            "pickoffs": 1,
+            "totalBases": 116,
+            "groundOutsToAirouts": "0.89",
+            "winPercentage": ".556",
+            "pitchesPerInning": "15.55",
+            "gamesFinished": 3,
+            "strikeoutWalkRatio": "3.57",
+            "strikeoutsPer9Inn": "9.00",
+            "walksPer9Inn": "2.52",
+            "hitsPer9Inn": "8.23",
+            "runsScoredPer9": "4.06",
+            "homeRunsPer9": "0.66",
+            "inheritedRunners": 4,
+            "inheritedRunnersScored": 2,
+            "catchersInterference": 0,
+            "sacBunts": 1,
+            "sacFlies": 4
+          },
+          "team": {
+            "id": 158,
+            "name": "Milwaukee Brewers",
+            "link": "/api/v1/teams/158"
+          },
+          "player": {
+            "id": 675660,
+            "fullName": "Shane Drohan",
+            "link": "/api/v1/people/675660"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 35,
+            "gamesPlayed": 11,
+            "gamesStarted": 11,
+            "groundOuts": 55,
+            "airOuts": 59,
+            "runs": 26,
+            "doubles": 10,
+            "triples": 0,
+            "homeRuns": 6,
+            "strikeOuts": 55,
+            "baseOnBalls": 17,
+            "intentionalWalks": 0,
+            "hits": 56,
+            "hitByPitch": 4,
+            "avg": ".249",
+            "atBats": 225,
+            "obp": ".313",
+            "slg": ".373",
+            "ops": ".686",
+            "caughtStealing": 1,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".000",
+            "caughtStealingPercentage": "1.000",
+            "groundIntoDoublePlay": 4,
+            "numberOfPitches": 955,
+            "era": "3.81",
+            "inningsPitched": "59.0",
+            "wins": 6,
+            "losses": 1,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 25,
+            "whip": "1.24",
+            "battersFaced": 246,
+            "outs": 177,
+            "gamesPitched": 11,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 625,
+            "strikePercentage": ".650",
+            "hitBatsmen": 4,
+            "balks": 0,
+            "wildPitches": 1,
+            "pickoffs": 1,
+            "totalBases": 84,
+            "groundOutsToAirouts": "0.93",
+            "winPercentage": ".857",
+            "pitchesPerInning": "16.19",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "3.24",
+            "strikeoutsPer9Inn": "8.39",
+            "walksPer9Inn": "2.59",
+            "hitsPer9Inn": "8.54",
+            "runsScoredPer9": "3.97",
+            "homeRunsPer9": "0.92",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 0,
+            "sacFlies": 0
+          },
+          "team": {
+            "id": 112,
+            "name": "Chicago Cubs",
+            "link": "/api/v1/teams/112"
+          },
+          "player": {
+            "id": 571510,
+            "fullName": "Matthew Boyd",
+            "link": "/api/v1/people/571510"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

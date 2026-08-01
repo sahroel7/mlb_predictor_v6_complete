@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 29,
+            "gamesPlayed": 15,
+            "gamesStarted": 15,
+            "groundOuts": 77,
+            "airOuts": 73,
+            "runs": 48,
+            "doubles": 18,
+            "triples": 1,
+            "homeRuns": 15,
+            "strikeOuts": 54,
+            "baseOnBalls": 29,
+            "intentionalWalks": 0,
+            "hits": 74,
+            "hitByPitch": 1,
+            "avg": ".267",
+            "atBats": 277,
+            "obp": ".338",
+            "slg": ".502",
+            "ops": ".840",
+            "caughtStealing": 3,
+            "stolenBases": 10,
+            "stolenBasePercentage": ".769",
+            "caughtStealingPercentage": ".231",
+            "groundIntoDoublePlay": 5,
+            "numberOfPitches": 1157,
+            "era": "5.73",
+            "inningsPitched": "70.2",
+            "wins": 3,
+            "losses": 5,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 45,
+            "whip": "1.46",
+            "battersFaced": 308,
+            "outs": 212,
+            "gamesPitched": 15,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 720,
+            "strikePercentage": ".620",
+            "hitBatsmen": 1,
+            "balks": 0,
+            "wildPitches": 2,
+            "pickoffs": 1,
+            "totalBases": 139,
+            "groundOutsToAirouts": "1.05",
+            "winPercentage": ".375",
+            "pitchesPerInning": "16.37",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "1.86",
+            "strikeoutsPer9Inn": "6.88",
+            "walksPer9Inn": "3.69",
+            "hitsPer9Inn": "9.42",
+            "runsScoredPer9": "6.11",
+            "homeRunsPer9": "1.91",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 0,
+            "sacFlies": 1
+          },
+          "team": {
+            "id": 115,
+            "name": "Colorado Rockies",
+            "link": "/api/v1/teams/115"
+          },
+          "player": {
+            "id": 663372,
+            "fullName": "Ryan Feltner",
+            "link": "/api/v1/people/663372"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

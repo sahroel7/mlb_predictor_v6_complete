@@ -1,0 +1,59 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "gamesPlayed": 103,
+            "groundOuts": 798,
+            "airOuts": 909,
+            "runs": 481,
+            "doubles": 153,
+            "triples": 14,
+            "homeRuns": 148,
+            "strikeOuts": 929,
+            "baseOnBalls": 383,
+            "intentionalWalks": 13,
+            "hits": 798,
+            "hitByPitch": 22,
+            "avg": ".234",
+            "atBats": 3403,
+            "obp": ".314",
+            "slg": ".418",
+            "ops": ".732",
+            "caughtStealing": 31,
+            "stolenBases": 98,
+            "stolenBasePercentage": ".760",
+            "caughtStealingPercentage": ".240",
+            "groundIntoDoublePlay": 60,
+            "numberOfPitches": 15258,
+            "plateAppearances": 3842,
+            "totalBases": 1423,
+            "rbi": 458,
+            "leftOnBase": 641,
+            "sacBunts": 6,
+            "sacFlies": 25,
+            "babip": ".276",
+            "groundOutsToAirouts": "0.88",
+            "catchersInterference": 3,
+            "atBatsPerHomeRun": "22.99"
+          },
+          "team": {
+            "id": 147,
+            "name": "New York Yankees",
+            "link": "/api/v1/teams/147"
+          }
+        }
+      ]
+    }
+  ]
+}

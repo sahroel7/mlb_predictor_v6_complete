@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 36,
+            "gamesPlayed": 16,
+            "gamesStarted": 16,
+            "groundOuts": 90,
+            "airOuts": 83,
+            "runs": 24,
+            "doubles": 13,
+            "triples": 0,
+            "homeRuns": 11,
+            "strikeOuts": 117,
+            "baseOnBalls": 22,
+            "intentionalWalks": 0,
+            "hits": 66,
+            "hitByPitch": 2,
+            "avg": ".186",
+            "atBats": 355,
+            "obp": ".237",
+            "slg": ".315",
+            "ops": ".552",
+            "caughtStealing": 3,
+            "stolenBases": 2,
+            "stolenBasePercentage": ".400",
+            "caughtStealingPercentage": ".600",
+            "groundIntoDoublePlay": 7,
+            "numberOfPitches": 1546,
+            "era": "2.16",
+            "inningsPitched": "100.0",
+            "wins": 10,
+            "losses": 2,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 24,
+            "whip": "0.88",
+            "battersFaced": 380,
+            "outs": 300,
+            "gamesPitched": 16,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 994,
+            "strikePercentage": ".640",
+            "hitBatsmen": 2,
+            "balks": 0,
+            "wildPitches": 1,
+            "pickoffs": 2,
+            "totalBases": 112,
+            "groundOutsToAirouts": "1.08",
+            "winPercentage": ".833",
+            "pitchesPerInning": "15.46",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "5.32",
+            "strikeoutsPer9Inn": "10.53",
+            "walksPer9Inn": "1.98",
+            "hitsPer9Inn": "5.94",
+            "runsScoredPer9": "2.16",
+            "homeRunsPer9": "0.99",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 0,
+            "sacFlies": 1
+          },
+          "team": {
+            "id": 143,
+            "name": "Philadelphia Phillies",
+            "link": "/api/v1/teams/143"
+          },
+          "player": {
+            "id": 554430,
+            "fullName": "Zack Wheeler",
+            "link": "/api/v1/people/554430"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

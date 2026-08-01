@@ -1,0 +1,59 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "gamesPlayed": 104,
+            "groundOuts": 923,
+            "airOuts": 998,
+            "runs": 469,
+            "doubles": 178,
+            "triples": 24,
+            "homeRuns": 101,
+            "strikeOuts": 763,
+            "baseOnBalls": 344,
+            "intentionalWalks": 7,
+            "hits": 839,
+            "hitByPitch": 32,
+            "avg": ".242",
+            "atBats": 3468,
+            "obp": ".313",
+            "slg": ".394",
+            "ops": ".707",
+            "caughtStealing": 18,
+            "stolenBases": 71,
+            "stolenBasePercentage": ".798",
+            "caughtStealingPercentage": ".202",
+            "groundIntoDoublePlay": 61,
+            "numberOfPitches": 15322,
+            "plateAppearances": 3901,
+            "totalBases": 1368,
+            "rbi": 447,
+            "leftOnBase": 690,
+            "sacBunts": 22,
+            "sacFlies": 33,
+            "babip": ".280",
+            "groundOutsToAirouts": "0.92",
+            "catchersInterference": 2,
+            "atBatsPerHomeRun": "34.34"
+          },
+          "team": {
+            "id": 109,
+            "name": "Arizona Diamondbacks",
+            "link": "/api/v1/teams/109"
+          }
+        }
+      ]
+    }
+  ]
+}

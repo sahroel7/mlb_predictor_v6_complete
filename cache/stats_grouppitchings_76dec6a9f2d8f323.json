@@ -1,0 +1,85 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "gamesPlayed": 105,
+            "gamesStarted": 105,
+            "groundOuts": 746,
+            "airOuts": 1020,
+            "runs": 523,
+            "doubles": 136,
+            "triples": 15,
+            "homeRuns": 142,
+            "strikeOuts": 923,
+            "baseOnBalls": 457,
+            "intentionalWalks": 3,
+            "hits": 837,
+            "hitByPitch": 66,
+            "avg": ".240",
+            "atBats": 3489,
+            "obp": ".337",
+            "slg": ".410",
+            "ops": ".747",
+            "caughtStealing": 26,
+            "stolenBases": 88,
+            "stolenBasePercentage": ".772",
+            "caughtStealingPercentage": ".228",
+            "groundIntoDoublePlay": 70,
+            "numberOfPitches": 16059,
+            "era": "4.71",
+            "inningsPitched": "930.1",
+            "wins": 51,
+            "losses": 54,
+            "saves": 30,
+            "saveOpportunities": 36,
+            "holds": 50,
+            "blownSaves": 6,
+            "earnedRuns": 487,
+            "whip": "1.39",
+            "battersFaced": 4049,
+            "outs": 2791,
+            "gamesPitched": 105,
+            "completeGames": 0,
+            "shutouts": 7,
+            "strikes": 9954,
+            "strikePercentage": ".620",
+            "hitBatsmen": 66,
+            "balks": 4,
+            "wildPitches": 34,
+            "pickoffs": 7,
+            "totalBases": 1429,
+            "groundOutsToAirouts": "0.73",
+            "winPercentage": ".486",
+            "pitchesPerInning": "17.26",
+            "gamesFinished": 105,
+            "strikeoutWalkRatio": "2.02",
+            "strikeoutsPer9Inn": "8.93",
+            "walksPer9Inn": "4.42",
+            "hitsPer9Inn": "8.10",
+            "runsScoredPer9": "5.06",
+            "homeRunsPer9": "1.37",
+            "catchersInterference": 0,
+            "sacBunts": 14,
+            "sacFlies": 23
+          },
+          "team": {
+            "id": 117,
+            "name": "Houston Astros",
+            "link": "/api/v1/teams/117"
+          }
+        }
+      ]
+    }
+  ]
+}

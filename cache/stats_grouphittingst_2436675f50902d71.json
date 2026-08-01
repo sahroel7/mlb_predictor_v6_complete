@@ -1,0 +1,59 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "gamesPlayed": 104,
+            "groundOuts": 908,
+            "airOuts": 1023,
+            "runs": 409,
+            "doubles": 157,
+            "triples": 5,
+            "homeRuns": 103,
+            "strikeOuts": 755,
+            "baseOnBalls": 283,
+            "intentionalWalks": 10,
+            "hits": 838,
+            "hitByPitch": 39,
+            "avg": ".241",
+            "atBats": 3480,
+            "obp": ".303",
+            "slg": ".378",
+            "ops": ".681",
+            "caughtStealing": 10,
+            "stolenBases": 44,
+            "stolenBasePercentage": ".815",
+            "caughtStealingPercentage": ".185",
+            "groundIntoDoublePlay": 71,
+            "numberOfPitches": 14638,
+            "plateAppearances": 3849,
+            "totalBases": 1314,
+            "rbi": 392,
+            "leftOnBase": 686,
+            "sacBunts": 14,
+            "sacFlies": 30,
+            "babip": ".277",
+            "groundOutsToAirouts": "0.89",
+            "catchersInterference": 3,
+            "atBatsPerHomeRun": "33.79"
+          },
+          "team": {
+            "id": 141,
+            "name": "Toronto Blue Jays",
+            "link": "/api/v1/teams/141"
+          }
+        }
+      ]
+    }
+  ]
+}

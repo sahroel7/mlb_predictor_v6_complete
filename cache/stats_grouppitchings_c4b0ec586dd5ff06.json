@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 26,
+            "gamesPlayed": 14,
+            "gamesStarted": 3,
+            "groundOuts": 26,
+            "airOuts": 47,
+            "runs": 19,
+            "doubles": 10,
+            "triples": 0,
+            "homeRuns": 9,
+            "strikeOuts": 32,
+            "baseOnBalls": 8,
+            "intentionalWalks": 3,
+            "hits": 43,
+            "hitByPitch": 1,
+            "avg": ".297",
+            "atBats": 145,
+            "obp": ".333",
+            "slg": ".552",
+            "ops": ".885",
+            "caughtStealing": 2,
+            "stolenBases": 3,
+            "stolenBasePercentage": ".600",
+            "caughtStealingPercentage": ".400",
+            "groundIntoDoublePlay": 1,
+            "numberOfPitches": 596,
+            "era": "4.54",
+            "inningsPitched": "35.2",
+            "wins": 0,
+            "losses": 3,
+            "saves": 1,
+            "saveOpportunities": 1,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 18,
+            "whip": "1.43",
+            "battersFaced": 157,
+            "outs": 107,
+            "gamesPitched": 14,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 406,
+            "strikePercentage": ".680",
+            "hitBatsmen": 1,
+            "balks": 0,
+            "wildPitches": 3,
+            "pickoffs": 0,
+            "totalBases": 80,
+            "groundOutsToAirouts": "0.55",
+            "winPercentage": ".000",
+            "pitchesPerInning": "16.71",
+            "gamesFinished": 6,
+            "strikeoutWalkRatio": "4.00",
+            "strikeoutsPer9Inn": "8.07",
+            "walksPer9Inn": "2.02",
+            "hitsPer9Inn": "10.85",
+            "runsScoredPer9": "4.79",
+            "homeRunsPer9": "2.27",
+            "inheritedRunners": 6,
+            "inheritedRunnersScored": 3,
+            "catchersInterference": 0,
+            "sacBunts": 1,
+            "sacFlies": 2
+          },
+          "team": {
+            "id": 139,
+            "name": "Tampa Bay Rays",
+            "link": "/api/v1/teams/139"
+          },
+          "player": {
+            "id": 669438,
+            "fullName": "Mason Englert",
+            "link": "/api/v1/people/669438"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

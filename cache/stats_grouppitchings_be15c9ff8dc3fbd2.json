@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 36,
+            "gamesPlayed": 19,
+            "gamesStarted": 19,
+            "groundOuts": 109,
+            "airOuts": 102,
+            "runs": 34,
+            "doubles": 21,
+            "triples": 1,
+            "homeRuns": 12,
+            "strikeOuts": 93,
+            "baseOnBalls": 28,
+            "intentionalWalks": 0,
+            "hits": 96,
+            "hitByPitch": 3,
+            "avg": ".241",
+            "atBats": 398,
+            "obp": ".295",
+            "slg": ".389",
+            "ops": ".684",
+            "caughtStealing": 3,
+            "stolenBases": 10,
+            "stolenBasePercentage": ".769",
+            "caughtStealingPercentage": ".231",
+            "groundIntoDoublePlay": 7,
+            "numberOfPitches": 1558,
+            "era": "2.78",
+            "inningsPitched": "106.2",
+            "wins": 12,
+            "losses": 2,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 33,
+            "whip": "1.16",
+            "battersFaced": 431,
+            "outs": 320,
+            "gamesPitched": 19,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 1005,
+            "strikePercentage": ".650",
+            "hitBatsmen": 3,
+            "balks": 1,
+            "wildPitches": 0,
+            "pickoffs": 1,
+            "totalBases": 155,
+            "groundOutsToAirouts": "1.07",
+            "winPercentage": ".857",
+            "pitchesPerInning": "14.61",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "3.32",
+            "strikeoutsPer9Inn": "7.85",
+            "walksPer9Inn": "2.36",
+            "hitsPer9Inn": "8.10",
+            "runsScoredPer9": "2.87",
+            "homeRunsPer9": "1.01",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 0,
+            "sacFlies": 2
+          },
+          "team": {
+            "id": 111,
+            "name": "Boston Red Sox",
+            "link": "/api/v1/teams/111"
+          },
+          "player": {
+            "id": 543243,
+            "fullName": "Sonny Gray",
+            "link": "/api/v1/people/543243"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

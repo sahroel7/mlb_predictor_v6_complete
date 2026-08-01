@@ -1,0 +1,59 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "gamesPlayed": 103,
+            "groundOuts": 921,
+            "airOuts": 949,
+            "runs": 456,
+            "doubles": 138,
+            "triples": 11,
+            "homeRuns": 110,
+            "strikeOuts": 797,
+            "baseOnBalls": 330,
+            "intentionalWalks": 12,
+            "hits": 825,
+            "hitByPitch": 68,
+            "avg": ".240",
+            "atBats": 3443,
+            "obp": ".316",
+            "slg": ".382",
+            "ops": ".698",
+            "caughtStealing": 19,
+            "stolenBases": 63,
+            "stolenBasePercentage": ".768",
+            "caughtStealingPercentage": ".232",
+            "groundIntoDoublePlay": 77,
+            "numberOfPitches": 14966,
+            "plateAppearances": 3891,
+            "totalBases": 1315,
+            "rbi": 444,
+            "leftOnBase": 702,
+            "sacBunts": 16,
+            "sacFlies": 33,
+            "babip": ".278",
+            "groundOutsToAirouts": "0.97",
+            "catchersInterference": 1,
+            "atBatsPerHomeRun": "31.30"
+          },
+          "team": {
+            "id": 138,
+            "name": "St. Louis Cardinals",
+            "link": "/api/v1/teams/138"
+          }
+        }
+      ]
+    }
+  ]
+}

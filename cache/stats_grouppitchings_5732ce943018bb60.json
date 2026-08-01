@@ -1,0 +1,85 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "gamesPlayed": 105,
+            "gamesStarted": 105,
+            "groundOuts": 817,
+            "airOuts": 943,
+            "runs": 434,
+            "doubles": 162,
+            "triples": 13,
+            "homeRuns": 119,
+            "strikeOuts": 960,
+            "baseOnBalls": 347,
+            "intentionalWalks": 12,
+            "hits": 838,
+            "hitByPitch": 32,
+            "avg": ".239",
+            "atBats": 3512,
+            "obp": ".310",
+            "slg": ".394",
+            "ops": ".704",
+            "caughtStealing": 14,
+            "stolenBases": 76,
+            "stolenBasePercentage": ".844",
+            "caughtStealingPercentage": ".156",
+            "groundIntoDoublePlay": 58,
+            "numberOfPitches": 15444,
+            "era": "3.77",
+            "inningsPitched": "932.2",
+            "wins": 54,
+            "losses": 51,
+            "saves": 33,
+            "saveOpportunities": 43,
+            "holds": 86,
+            "blownSaves": 10,
+            "earnedRuns": 391,
+            "whip": "1.27",
+            "battersFaced": 3937,
+            "outs": 2798,
+            "gamesPitched": 105,
+            "completeGames": 0,
+            "shutouts": 3,
+            "strikes": 9848,
+            "strikePercentage": ".640",
+            "hitBatsmen": 32,
+            "balks": 1,
+            "wildPitches": 38,
+            "pickoffs": 10,
+            "totalBases": 1383,
+            "groundOutsToAirouts": "0.87",
+            "winPercentage": ".514",
+            "pitchesPerInning": "16.56",
+            "gamesFinished": 105,
+            "strikeoutWalkRatio": "2.77",
+            "strikeoutsPer9Inn": "9.26",
+            "walksPer9Inn": "3.35",
+            "hitsPer9Inn": "8.09",
+            "runsScoredPer9": "4.19",
+            "homeRunsPer9": "1.15",
+            "catchersInterference": 0,
+            "sacBunts": 13,
+            "sacFlies": 33
+          },
+          "team": {
+            "id": 114,
+            "name": "Cleveland Guardians",
+            "link": "/api/v1/teams/114"
+          }
+        }
+      ]
+    }
+  ]
+}

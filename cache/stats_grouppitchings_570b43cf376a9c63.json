@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 28,
+            "gamesPlayed": 27,
+            "gamesStarted": 11,
+            "groundOuts": 94,
+            "airOuts": 86,
+            "runs": 36,
+            "doubles": 12,
+            "triples": 2,
+            "homeRuns": 10,
+            "strikeOuts": 63,
+            "baseOnBalls": 38,
+            "intentionalWalks": 0,
+            "hits": 77,
+            "hitByPitch": 3,
+            "avg": ".241",
+            "atBats": 319,
+            "obp": ".328",
+            "slg": ".386",
+            "ops": ".714",
+            "caughtStealing": 4,
+            "stolenBases": 12,
+            "stolenBasePercentage": ".750",
+            "caughtStealingPercentage": ".250",
+            "groundIntoDoublePlay": 9,
+            "numberOfPitches": 1357,
+            "era": "3.52",
+            "inningsPitched": "84.1",
+            "wins": 2,
+            "losses": 5,
+            "saves": 2,
+            "saveOpportunities": 3,
+            "holds": 0,
+            "blownSaves": 1,
+            "earnedRuns": 33,
+            "whip": "1.36",
+            "battersFaced": 362,
+            "outs": 253,
+            "gamesPitched": 27,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 859,
+            "strikePercentage": ".630",
+            "hitBatsmen": 3,
+            "balks": 0,
+            "wildPitches": 4,
+            "pickoffs": 0,
+            "totalBases": 123,
+            "groundOutsToAirouts": "1.09",
+            "winPercentage": ".286",
+            "pitchesPerInning": "16.09",
+            "gamesFinished": 8,
+            "strikeoutWalkRatio": "1.66",
+            "strikeoutsPer9Inn": "6.72",
+            "walksPer9Inn": "4.06",
+            "hitsPer9Inn": "8.22",
+            "runsScoredPer9": "3.84",
+            "homeRunsPer9": "1.07",
+            "inheritedRunners": 6,
+            "inheritedRunnersScored": 2,
+            "catchersInterference": 1,
+            "sacBunts": 1,
+            "sacFlies": 0
+          },
+          "team": {
+            "id": 146,
+            "name": "Miami Marlins",
+            "link": "/api/v1/teams/146"
+          },
+          "player": {
+            "id": 663969,
+            "fullName": "Tyler Phillips",
+            "link": "/api/v1/people/663969"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

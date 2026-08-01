@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 23,
+            "gamesPlayed": 19,
+            "gamesStarted": 19,
+            "groundOuts": 76,
+            "airOuts": 113,
+            "runs": 29,
+            "doubles": 17,
+            "triples": 2,
+            "homeRuns": 12,
+            "strikeOuts": 124,
+            "baseOnBalls": 39,
+            "intentionalWalks": 0,
+            "hits": 80,
+            "hitByPitch": 0,
+            "avg": ".204",
+            "atBats": 392,
+            "obp": ".275",
+            "slg": ".349",
+            "ops": ".624",
+            "caughtStealing": 4,
+            "stolenBases": 17,
+            "stolenBasePercentage": ".810",
+            "caughtStealingPercentage": ".190",
+            "groundIntoDoublePlay": 6,
+            "numberOfPitches": 1768,
+            "era": "2.42",
+            "inningsPitched": "107.2",
+            "wins": 12,
+            "losses": 1,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 29,
+            "whip": "1.11",
+            "battersFaced": 433,
+            "outs": 323,
+            "gamesPitched": 19,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 1111,
+            "strikePercentage": ".630",
+            "hitBatsmen": 0,
+            "balks": 0,
+            "wildPitches": 3,
+            "pickoffs": 2,
+            "totalBases": 137,
+            "groundOutsToAirouts": "0.67",
+            "winPercentage": ".923",
+            "pitchesPerInning": "16.42",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "3.18",
+            "strikeoutsPer9Inn": "10.37",
+            "walksPer9Inn": "3.26",
+            "hitsPer9Inn": "6.69",
+            "runsScoredPer9": "2.42",
+            "homeRunsPer9": "1.00",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 1,
+            "sacBunts": 0,
+            "sacFlies": 1
+          },
+          "team": {
+            "id": 113,
+            "name": "Cincinnati Reds",
+            "link": "/api/v1/teams/113"
+          },
+          "player": {
+            "id": 695505,
+            "fullName": "Chase Burns",
+            "link": "/api/v1/people/695505"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

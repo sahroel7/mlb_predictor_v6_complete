@@ -1,0 +1,59 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "gamesPlayed": 104,
+            "groundOuts": 891,
+            "airOuts": 954,
+            "runs": 569,
+            "doubles": 181,
+            "triples": 21,
+            "homeRuns": 151,
+            "strikeOuts": 865,
+            "baseOnBalls": 357,
+            "intentionalWalks": 11,
+            "hits": 905,
+            "hitByPitch": 50,
+            "avg": ".253",
+            "atBats": 3579,
+            "obp": ".327",
+            "slg": ".442",
+            "ops": ".769",
+            "caughtStealing": 25,
+            "stolenBases": 113,
+            "stolenBasePercentage": ".819",
+            "caughtStealingPercentage": ".181",
+            "groundIntoDoublePlay": 64,
+            "numberOfPitches": 15347,
+            "plateAppearances": 4025,
+            "totalBases": 1581,
+            "rbi": 541,
+            "leftOnBase": 678,
+            "sacBunts": 12,
+            "sacFlies": 24,
+            "babip": ".291",
+            "groundOutsToAirouts": "0.93",
+            "catchersInterference": 3,
+            "atBatsPerHomeRun": "23.70"
+          },
+          "team": {
+            "id": 120,
+            "name": "Washington Nationals",
+            "link": "/api/v1/teams/120"
+          }
+        }
+      ]
+    }
+  ]
+}

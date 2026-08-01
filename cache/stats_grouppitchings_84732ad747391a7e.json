@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 29,
+            "gamesPlayed": 21,
+            "gamesStarted": 21,
+            "groundOuts": 94,
+            "airOuts": 139,
+            "runs": 48,
+            "doubles": 30,
+            "triples": 0,
+            "homeRuns": 15,
+            "strikeOuts": 133,
+            "baseOnBalls": 27,
+            "intentionalWalks": 1,
+            "hits": 98,
+            "hitByPitch": 5,
+            "avg": ".213",
+            "atBats": 460,
+            "obp": ".263",
+            "slg": ".376",
+            "ops": ".639",
+            "caughtStealing": 2,
+            "stolenBases": 9,
+            "stolenBasePercentage": ".818",
+            "caughtStealingPercentage": ".182",
+            "groundIntoDoublePlay": 9,
+            "numberOfPitches": 1971,
+            "era": "3.44",
+            "inningsPitched": "125.2",
+            "wins": 8,
+            "losses": 6,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 48,
+            "whip": "0.99",
+            "battersFaced": 496,
+            "outs": 377,
+            "gamesPitched": 21,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 1303,
+            "strikePercentage": ".660",
+            "hitBatsmen": 5,
+            "balks": 0,
+            "wildPitches": 3,
+            "pickoffs": 2,
+            "totalBases": 173,
+            "groundOutsToAirouts": "0.68",
+            "winPercentage": ".571",
+            "pitchesPerInning": "15.68",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "4.93",
+            "strikeoutsPer9Inn": "9.53",
+            "walksPer9Inn": "1.93",
+            "hitsPer9Inn": "7.02",
+            "runsScoredPer9": "3.44",
+            "homeRunsPer9": "1.07",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 1,
+            "sacFlies": 3
+          },
+          "team": {
+            "id": 136,
+            "name": "Seattle Mariners",
+            "link": "/api/v1/teams/136"
+          },
+          "player": {
+            "id": 669302,
+            "fullName": "Logan Gilbert",
+            "link": "/api/v1/people/669302"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

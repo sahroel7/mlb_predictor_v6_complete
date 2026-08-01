@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 29,
+            "gamesPlayed": 45,
+            "gamesStarted": 6,
+            "groundOuts": 41,
+            "airOuts": 42,
+            "runs": 16,
+            "doubles": 5,
+            "triples": 0,
+            "homeRuns": 2,
+            "strikeOuts": 43,
+            "baseOnBalls": 17,
+            "intentionalWalks": 2,
+            "hits": 39,
+            "hitByPitch": 4,
+            "avg": ".250",
+            "atBats": 156,
+            "obp": ".330",
+            "slg": ".321",
+            "ops": ".651",
+            "caughtStealing": 0,
+            "stolenBases": 6,
+            "stolenBasePercentage": "1.000",
+            "caughtStealingPercentage": ".000",
+            "groundIntoDoublePlay": 4,
+            "numberOfPitches": 720,
+            "era": "2.86",
+            "inningsPitched": "44.0",
+            "wins": 3,
+            "losses": 3,
+            "saves": 4,
+            "saveOpportunities": 7,
+            "holds": 6,
+            "blownSaves": 3,
+            "earnedRuns": 14,
+            "whip": "1.27",
+            "battersFaced": 187,
+            "outs": 132,
+            "gamesPitched": 45,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 470,
+            "strikePercentage": ".650",
+            "hitBatsmen": 4,
+            "balks": 2,
+            "wildPitches": 0,
+            "pickoffs": 2,
+            "totalBases": 50,
+            "groundOutsToAirouts": "0.98",
+            "winPercentage": ".500",
+            "pitchesPerInning": "16.36",
+            "gamesFinished": 9,
+            "strikeoutWalkRatio": "2.53",
+            "strikeoutsPer9Inn": "8.80",
+            "walksPer9Inn": "3.48",
+            "hitsPer9Inn": "7.98",
+            "runsScoredPer9": "3.27",
+            "homeRunsPer9": "0.41",
+            "inheritedRunners": 17,
+            "inheritedRunnersScored": 10,
+            "catchersInterference": 1,
+            "sacBunts": 4,
+            "sacFlies": 5
+          },
+          "team": {
+            "id": 145,
+            "name": "Chicago White Sox",
+            "link": "/api/v1/teams/145"
+          },
+          "player": {
+            "id": 663542,
+            "fullName": "Bryan Hudson",
+            "link": "/api/v1/people/663542"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

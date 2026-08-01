@@ -1,0 +1,85 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "gamesPlayed": 104,
+            "gamesStarted": 104,
+            "groundOuts": 849,
+            "airOuts": 911,
+            "runs": 380,
+            "doubles": 145,
+            "triples": 6,
+            "homeRuns": 116,
+            "strikeOuts": 930,
+            "baseOnBalls": 309,
+            "intentionalWalks": 17,
+            "hits": 732,
+            "hitByPitch": 38,
+            "avg": ".216",
+            "atBats": 3394,
+            "obp": ".287",
+            "slg": ".364",
+            "ops": ".651",
+            "caughtStealing": 15,
+            "stolenBases": 58,
+            "stolenBasePercentage": ".795",
+            "caughtStealingPercentage": ".205",
+            "groundIntoDoublePlay": 55,
+            "numberOfPitches": 14679,
+            "era": "3.53",
+            "inningsPitched": "919.1",
+            "wins": 66,
+            "losses": 38,
+            "saves": 28,
+            "saveOpportunities": 39,
+            "holds": 65,
+            "blownSaves": 11,
+            "earnedRuns": 361,
+            "whip": "1.13",
+            "battersFaced": 3769,
+            "outs": 2758,
+            "gamesPitched": 104,
+            "completeGames": 1,
+            "shutouts": 10,
+            "strikes": 9540,
+            "strikePercentage": ".650",
+            "hitBatsmen": 38,
+            "balks": 6,
+            "wildPitches": 23,
+            "pickoffs": 3,
+            "totalBases": 1237,
+            "groundOutsToAirouts": "0.93",
+            "winPercentage": ".635",
+            "pitchesPerInning": "15.97",
+            "gamesFinished": 103,
+            "strikeoutWalkRatio": "3.01",
+            "strikeoutsPer9Inn": "9.10",
+            "walksPer9Inn": "3.03",
+            "hitsPer9Inn": "7.17",
+            "runsScoredPer9": "3.72",
+            "homeRunsPer9": "1.14",
+            "catchersInterference": 0,
+            "sacBunts": 13,
+            "sacFlies": 15
+          },
+          "team": {
+            "id": 119,
+            "name": "Los Angeles Dodgers",
+            "link": "/api/v1/teams/119"
+          }
+        }
+      ]
+    }
+  ]
+}

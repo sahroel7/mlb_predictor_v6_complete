@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 34,
+            "gamesPlayed": 22,
+            "gamesStarted": 8,
+            "groundOuts": 73,
+            "airOuts": 95,
+            "runs": 50,
+            "doubles": 20,
+            "triples": 4,
+            "homeRuns": 12,
+            "strikeOuts": 84,
+            "baseOnBalls": 28,
+            "intentionalWalks": 0,
+            "hits": 88,
+            "hitByPitch": 9,
+            "avg": ".263",
+            "atBats": 334,
+            "obp": ".333",
+            "slg": ".455",
+            "ops": ".788",
+            "caughtStealing": 3,
+            "stolenBases": 6,
+            "stolenBasePercentage": ".667",
+            "caughtStealingPercentage": ".333",
+            "groundIntoDoublePlay": 5,
+            "numberOfPitches": 1519,
+            "era": "4.52",
+            "inningsPitched": "85.2",
+            "wins": 2,
+            "losses": 5,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 43,
+            "whip": "1.35",
+            "battersFaced": 377,
+            "outs": 257,
+            "gamesPitched": 22,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 998,
+            "strikePercentage": ".660",
+            "hitBatsmen": 9,
+            "balks": 0,
+            "wildPitches": 2,
+            "pickoffs": 1,
+            "totalBases": 152,
+            "groundOutsToAirouts": "0.77",
+            "winPercentage": ".286",
+            "pitchesPerInning": "17.73",
+            "gamesFinished": 6,
+            "strikeoutWalkRatio": "3.00",
+            "strikeoutsPer9Inn": "8.82",
+            "walksPer9Inn": "2.94",
+            "hitsPer9Inn": "9.25",
+            "runsScoredPer9": "5.25",
+            "homeRunsPer9": "1.26",
+            "inheritedRunners": 11,
+            "inheritedRunnersScored": 7,
+            "catchersInterference": 0,
+            "sacBunts": 2,
+            "sacFlies": 4
+          },
+          "team": {
+            "id": 121,
+            "name": "New York Mets",
+            "link": "/api/v1/teams/121"
+          },
+          "player": {
+            "id": 640455,
+            "fullName": "Sean Manaea",
+            "link": "/api/v1/people/640455"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

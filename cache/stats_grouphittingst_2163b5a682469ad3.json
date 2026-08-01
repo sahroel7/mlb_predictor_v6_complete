@@ -1,0 +1,59 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "gamesPlayed": 105,
+            "groundOuts": 828,
+            "airOuts": 1005,
+            "runs": 420,
+            "doubles": 161,
+            "triples": 11,
+            "homeRuns": 104,
+            "strikeOuts": 876,
+            "baseOnBalls": 378,
+            "intentionalWalks": 10,
+            "hits": 807,
+            "hitByPitch": 32,
+            "avg": ".232",
+            "atBats": 3472,
+            "obp": ".312",
+            "slg": ".375",
+            "ops": ".687",
+            "caughtStealing": 20,
+            "stolenBases": 103,
+            "stolenBasePercentage": ".837",
+            "caughtStealingPercentage": ".163",
+            "groundIntoDoublePlay": 57,
+            "numberOfPitches": 15624,
+            "plateAppearances": 3928,
+            "totalBases": 1302,
+            "rbi": 402,
+            "leftOnBase": 729,
+            "sacBunts": 20,
+            "sacFlies": 24,
+            "babip": ".279",
+            "groundOutsToAirouts": "0.82",
+            "catchersInterference": 2,
+            "atBatsPerHomeRun": "33.38"
+          },
+          "team": {
+            "id": 114,
+            "name": "Cleveland Guardians",
+            "link": "/api/v1/teams/114"
+          }
+        }
+      ]
+    }
+  ]
+}

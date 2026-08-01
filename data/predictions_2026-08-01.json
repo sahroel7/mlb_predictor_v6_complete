@@ -1,0 +1,737 @@
+[
+  {
+    "game_pk": 822781,
+    "away_team": "St. Louis Cardinals",
+    "home_team": "Toronto Blue Jays",
+    "away_win_prob": 0.497,
+    "home_win_prob": 0.503,
+    "predicted_away_score": 4.51,
+    "predicted_home_score": 4.64,
+    "predicted_total": 9.1,
+    "confidence": 0.006,
+    "confidence_level": "LOW",
+    "pick": "Toronto Blue Jays",
+    "value_bet": {
+      "expected_value": -0.04,
+      "is_positive_ev": false,
+      "recommended_stake_pct": 0.0
+    },
+    "model_breakdown": {
+      "elo": 0.507,
+      "offense": 0.5,
+      "pitcher": 0.5,
+      "bullpen": 0.5,
+      "monte_carlo": 0.516,
+      "weather": 0.5,
+      "momentum": 0.493,
+      "injury": 0.5
+    },
+    "pitcher_comparison": {
+      "away_grade": 50.0,
+      "home_grade": 57.5,
+      "advantage": 0.0
+    },
+    "weather_impact": {
+      "offense": 0.0,
+      "pitching": 0.0,
+      "overall": 0.0
+    },
+    "mc_simulation": {
+      "away_avg_runs": 4.51,
+      "home_avg_runs": 4.64,
+      "away_win_prob": 0.42,
+      "home_win_prob": 0.447,
+      "tie_prob": 0.133,
+      "over_under_line": 9.1,
+      "away_score_std": 2.12,
+      "home_score_std": 2.17
+    },
+    "date": "2026-08-01"
+  },
+  {
+    "game_pk": 823109,
+    "away_team": "Minnesota Twins",
+    "home_team": "Seattle Mariners",
+    "away_win_prob": 0.476,
+    "home_win_prob": 0.524,
+    "predicted_away_score": 4.25,
+    "predicted_home_score": 4.92,
+    "predicted_total": 9.2,
+    "confidence": 0.047,
+    "confidence_level": "LOW",
+    "pick": "Seattle Mariners",
+    "value_bet": {
+      "expected_value": 0.0,
+      "is_positive_ev": false,
+      "recommended_stake_pct": 0.0
+    },
+    "model_breakdown": {
+      "elo": 0.506,
+      "offense": 0.5,
+      "pitcher": 0.544,
+      "bullpen": 0.51,
+      "monte_carlo": 0.6,
+      "weather": 0.5,
+      "momentum": 0.493,
+      "injury": 0.5
+    },
+    "pitcher_comparison": {
+      "away_grade": 55.1,
+      "home_grade": 72.6,
+      "advantage": -0.221
+    },
+    "weather_impact": {
+      "offense": 0.0,
+      "pitching": 0.0,
+      "overall": 0.0
+    },
+    "mc_simulation": {
+      "away_avg_runs": 4.25,
+      "home_avg_runs": 4.92,
+      "away_win_prob": 0.347,
+      "home_win_prob": 0.52,
+      "tie_prob": 0.133,
+      "over_under_line": 9.2,
+      "away_score_std": 2.06,
+      "home_score_std": 2.21
+    },
+    "date": "2026-08-01"
+  },
+  {
+    "game_pk": 822944,
+    "away_team": "Chicago White Sox",
+    "home_team": "Tampa Bay Rays",
+    "away_win_prob": 0.467,
+    "home_win_prob": 0.533,
+    "predicted_away_score": 4.37,
+    "predicted_home_score": 4.79,
+    "predicted_total": 9.2,
+    "confidence": 0.067,
+    "confidence_level": "LOW",
+    "pick": "Tampa Bay Rays",
+    "value_bet": {
+      "expected_value": 0.019,
+      "is_positive_ev": false,
+      "recommended_stake_pct": 0.5
+    },
+    "model_breakdown": {
+      "elo": 0.589,
+      "offense": 0.5,
+      "pitcher": 0.528,
+      "bullpen": 0.511,
+      "monte_carlo": 0.563,
+      "weather": 0.5,
+      "momentum": 0.514,
+      "injury": 0.5
+    },
+    "pitcher_comparison": {
+      "away_grade": 64.7,
+      "home_grade": 76.4,
+      "advantage": -0.141
+    },
+    "weather_impact": {
+      "offense": 0.0,
+      "pitching": 0.0,
+      "overall": 0.0
+    },
+    "mc_simulation": {
+      "away_avg_runs": 4.37,
+      "home_avg_runs": 4.79,
+      "away_win_prob": 0.38,
+      "home_win_prob": 0.489,
+      "tie_prob": 0.131,
+      "over_under_line": 9.2,
+      "away_score_std": 2.09,
+      "home_score_std": 2.18
+    },
+    "date": "2026-08-01"
+  },
+  {
+    "game_pk": 823594,
+    "away_team": "Miami Marlins",
+    "home_team": "New York Mets",
+    "away_win_prob": 0.477,
+    "home_win_prob": 0.523,
+    "predicted_away_score": 4.16,
+    "predicted_home_score": 5.15,
+    "predicted_total": 9.3,
+    "confidence": 0.046,
+    "confidence_level": "LOW",
+    "pick": "New York Mets",
+    "value_bet": {
+      "expected_value": -0.001,
+      "is_positive_ev": false,
+      "recommended_stake_pct": 0.0
+    },
+    "model_breakdown": {
+      "elo": 0.452,
+      "offense": 0.5,
+      "pitcher": 0.574,
+      "bullpen": 0.5,
+      "monte_carlo": 0.644,
+      "weather": 0.505,
+      "momentum": 0.479,
+      "injury": 0.5
+    },
+    "pitcher_comparison": {
+      "away_grade": 53.0,
+      "home_grade": 76.8,
+      "advantage": -0.372
+    },
+    "weather_impact": {
+      "offense": 0.1,
+      "pitching": 0.0,
+      "overall": 0.1
+    },
+    "mc_simulation": {
+      "away_avg_runs": 4.16,
+      "home_avg_runs": 5.15,
+      "away_win_prob": 0.31,
+      "home_win_prob": 0.562,
+      "tie_prob": 0.128,
+      "over_under_line": 9.3,
+      "away_score_std": 2.04,
+      "home_score_std": 2.25
+    },
+    "date": "2026-08-01"
+  },
+  {
+    "game_pk": 824485,
+    "away_team": "Pittsburgh Pirates",
+    "home_team": "Cincinnati Reds",
+    "away_win_prob": 0.513,
+    "home_win_prob": 0.487,
+    "predicted_away_score": 4.67,
+    "predicted_home_score": 4.29,
+    "predicted_total": 9.0,
+    "confidence": 0.026,
+    "confidence_level": "LOW",
+    "pick": "Pittsburgh Pirates",
+    "value_bet": {
+      "expected_value": -0.02,
+      "is_positive_ev": false,
+      "recommended_stake_pct": 0.0
+    },
+    "model_breakdown": {
+      "elo": 0.517,
+      "offense": 0.5,
+      "pitcher": 0.458,
+      "bullpen": 0.5,
+      "monte_carlo": 0.445,
+      "weather": 0.495,
+      "momentum": 0.495,
+      "injury": 0.5
+    },
+    "pitcher_comparison": {
+      "away_grade": 63.9,
+      "home_grade": 50.2,
+      "advantage": 0.212
+    },
+    "weather_impact": {
+      "offense": 0.0,
+      "pitching": -0.1,
+      "overall": -0.1
+    },
+    "mc_simulation": {
+      "away_avg_runs": 4.67,
+      "home_avg_runs": 4.29,
+      "away_win_prob": 0.48,
+      "home_win_prob": 0.385,
+      "tie_prob": 0.134,
+      "over_under_line": 9.0,
+      "away_score_std": 2.13,
+      "home_score_std": 2.06
+    },
+    "date": "2026-08-01"
+  },
+  {
+    "game_pk": 824808,
+    "away_team": "Philadelphia Phillies",
+    "home_team": "Baltimore Orioles",
+    "away_win_prob": 0.519,
+    "home_win_prob": 0.481,
+    "predicted_away_score": 4.87,
+    "predicted_home_score": 4.37,
+    "predicted_total": 9.2,
+    "confidence": 0.038,
+    "confidence_level": "LOW",
+    "pick": "Philadelphia Phillies",
+    "value_bet": {
+      "expected_value": -0.009,
+      "is_positive_ev": false,
+      "recommended_stake_pct": 0.0
+    },
+    "model_breakdown": {
+      "elo": 0.507,
+      "offense": 0.5,
+      "pitcher": 0.446,
+      "bullpen": 0.5,
+      "monte_carlo": 0.43,
+      "weather": 0.505,
+      "momentum": 0.493,
+      "injury": 0.5
+    },
+    "pitcher_comparison": {
+      "away_grade": 77.5,
+      "home_grade": 57.4,
+      "advantage": 0.268
+    },
+    "weather_impact": {
+      "offense": 0.1,
+      "pitching": 0.0,
+      "overall": 0.1
+    },
+    "mc_simulation": {
+      "away_avg_runs": 4.87,
+      "home_avg_runs": 4.37,
+      "away_win_prob": 0.495,
+      "home_win_prob": 0.374,
+      "tie_prob": 0.132,
+      "over_under_line": 9.2,
+      "away_score_std": 2.23,
+      "home_score_std": 2.08
+    },
+    "date": "2026-08-01"
+  },
+  {
+    "game_pk": 824162,
+    "away_team": "Texas Rangers",
+    "home_team": "Houston Astros",
+    "away_win_prob": 0.537,
+    "home_win_prob": 0.463,
+    "predicted_away_score": 5.09,
+    "predicted_home_score": 3.96,
+    "predicted_total": 9.1,
+    "confidence": 0.074,
+    "confidence_level": "LOW",
+    "pick": "Texas Rangers",
+    "value_bet": {
+      "expected_value": 0.026,
+      "is_positive_ev": true,
+      "recommended_stake_pct": 0.7
+    },
+    "model_breakdown": {
+      "elo": 0.539,
+      "offense": 0.5,
+      "pitcher": 0.387,
+      "bullpen": 0.5,
+      "monte_carlo": 0.334,
+      "weather": 0.497,
+      "momentum": 0.501,
+      "injury": 0.5
+    },
+    "pitcher_comparison": {
+      "away_grade": 71.4,
+      "home_grade": 40.6,
+      "advantage": 0.565
+    },
+    "weather_impact": {
+      "offense": -0.05,
+      "pitching": 0.15,
+      "overall": -0.05
+    },
+    "mc_simulation": {
+      "away_avg_runs": 5.09,
+      "home_avg_runs": 3.96,
+      "away_win_prob": 0.582,
+      "home_win_prob": 0.292,
+      "tie_prob": 0.126,
+      "over_under_line": 9.1,
+      "away_score_std": 2.26,
+      "home_score_std": 1.98
+    },
+    "date": "2026-08-01"
+  },
+  {
+    "game_pk": 824405,
+    "away_team": "Arizona Diamondbacks",
+    "home_team": "Cleveland Guardians",
+    "away_win_prob": 0.45,
+    "home_win_prob": 0.55,
+    "predicted_away_score": 3.96,
+    "predicted_home_score": 5.34,
+    "predicted_total": 9.3,
+    "confidence": 0.101,
+    "confidence_level": "LOW",
+    "pick": "Cleveland Guardians",
+    "value_bet": {
+      "expected_value": 0.051,
+      "is_positive_ev": true,
+      "recommended_stake_pct": 1.4
+    },
+    "model_breakdown": {
+      "elo": 0.513,
+      "offense": 0.5,
+      "pitcher": 0.606,
+      "bullpen": 0.51,
+      "monte_carlo": 0.699,
+      "weather": 0.505,
+      "momentum": 0.494,
+      "injury": 0.5
+    },
+    "pitcher_comparison": {
+      "away_grade": 46.8,
+      "home_grade": 76.7,
+      "advantage": -0.528
+    },
+    "weather_impact": {
+      "offense": 0.1,
+      "pitching": 0.0,
+      "overall": 0.1
+    },
+    "mc_simulation": {
+      "away_avg_runs": 3.96,
+      "home_avg_runs": 5.34,
+      "away_win_prob": 0.267,
+      "home_win_prob": 0.619,
+      "tie_prob": 0.114,
+      "over_under_line": 9.3,
+      "away_score_std": 1.97,
+      "home_score_std": 2.32
+    },
+    "date": "2026-08-01"
+  },
+  {
+    "game_pk": 824890,
+    "away_team": "Washington Nationals",
+    "home_team": "Atlanta Braves",
+    "away_win_prob": 0.456,
+    "home_win_prob": 0.544,
+    "predicted_away_score": 4.24,
+    "predicted_home_score": 4.78,
+    "predicted_total": 9.0,
+    "confidence": 0.089,
+    "confidence_level": "LOW",
+    "pick": "Atlanta Braves",
+    "value_bet": {
+      "expected_value": 0.04,
+      "is_positive_ev": true,
+      "recommended_stake_pct": 1.1
+    },
+    "model_breakdown": {
+      "elo": 0.629,
+      "offense": 0.5,
+      "pitcher": 0.536,
+      "bullpen": 0.508,
+      "monte_carlo": 0.579,
+      "weather": 0.495,
+      "momentum": 0.524,
+      "injury": 0.5
+    },
+    "pitcher_comparison": {
+      "away_grade": 30.6,
+      "home_grade": 56.4,
+      "advantage": -0.181
+    },
+    "weather_impact": {
+      "offense": 0.0,
+      "pitching": -0.1,
+      "overall": -0.1
+    },
+    "mc_simulation": {
+      "away_avg_runs": 4.24,
+      "home_avg_runs": 4.78,
+      "away_win_prob": 0.365,
+      "home_win_prob": 0.501,
+      "tie_prob": 0.135,
+      "over_under_line": 9.0,
+      "away_score_std": 2.06,
+      "home_score_std": 2.18
+    },
+    "date": "2026-08-01"
+  },
+  {
+    "game_pk": 824649,
+    "away_team": "New York Yankees",
+    "home_team": "Chicago Cubs",
+    "away_win_prob": 0.532,
+    "home_win_prob": 0.468,
+    "predicted_away_score": 4.95,
+    "predicted_home_score": 4.05,
+    "predicted_total": 9.0,
+    "confidence": 0.064,
+    "confidence_level": "LOW",
+    "pick": "New York Yankees",
+    "value_bet": {
+      "expected_value": 0.016,
+      "is_positive_ev": false,
+      "recommended_stake_pct": 0.4
+    },
+    "model_breakdown": {
+      "elo": 0.534,
+      "offense": 0.5,
+      "pitcher": 0.411,
+      "bullpen": 0.48,
+      "monte_carlo": 0.368,
+      "weather": 0.495,
+      "momentum": 0.5,
+      "injury": 0.5
+    },
+    "pitcher_comparison": {
+      "away_grade": 75.0,
+      "home_grade": 37.6,
+      "advantage": 0.447
+    },
+    "weather_impact": {
+      "offense": 0.0,
+      "pitching": -0.1,
+      "overall": -0.1
+    },
+    "mc_simulation": {
+      "away_avg_runs": 4.95,
+      "home_avg_runs": 4.05,
+      "away_win_prob": 0.551,
+      "home_win_prob": 0.321,
+      "tie_prob": 0.129,
+      "over_under_line": 9.0,
+      "away_score_std": 2.22,
+      "home_score_std": 2.01
+    },
+    "date": "2026-08-01"
+  },
+  {
+    "game_pk": 824326,
+    "away_team": "Kansas City Royals",
+    "home_team": "Colorado Rockies",
+    "away_win_prob": 0.505,
+    "home_win_prob": 0.495,
+    "predicted_away_score": 4.77,
+    "predicted_home_score": 4.65,
+    "predicted_total": 9.4,
+    "confidence": 0.01,
+    "confidence_level": "LOW",
+    "pick": "Kansas City Royals",
+    "value_bet": {
+      "expected_value": -0.036,
+      "is_positive_ev": false,
+      "recommended_stake_pct": 0.0
+    },
+    "model_breakdown": {
+      "elo": 0.511,
+      "offense": 0.5,
+      "pitcher": 0.478,
+      "bullpen": 0.5,
+      "monte_carlo": 0.482,
+      "weather": 0.51,
+      "momentum": 0.494,
+      "injury": 0.5
+    },
+    "pitcher_comparison": {
+      "away_grade": 42.3,
+      "home_grade": 30.8,
+      "advantage": 0.111
+    },
+    "weather_impact": {
+      "offense": 0.2,
+      "pitching": 0.0,
+      "overall": 0.2
+    },
+    "mc_simulation": {
+      "away_avg_runs": 4.77,
+      "home_avg_runs": 4.65,
+      "away_win_prob": 0.451,
+      "home_win_prob": 0.42,
+      "tie_prob": 0.13,
+      "over_under_line": 9.4,
+      "away_score_std": 2.19,
+      "home_score_std": 2.15
+    },
+    "date": "2026-08-01"
+  },
+  {
+    "game_pk": 823269,
+    "away_team": "San Francisco Giants",
+    "home_team": "San Diego Padres",
+    "away_win_prob": 0.473,
+    "home_win_prob": 0.527,
+    "predicted_away_score": 4.62,
+    "predicted_home_score": 4.82,
+    "predicted_total": 9.4,
+    "confidence": 0.054,
+    "confidence_level": "LOW",
+    "pick": "San Diego Padres",
+    "value_bet": {
+      "expected_value": 0.006,
+      "is_positive_ev": false,
+      "recommended_stake_pct": 0.2
+    },
+    "model_breakdown": {
+      "elo": 0.615,
+      "offense": 0.5,
+      "pitcher": 0.499,
+      "bullpen": 0.5,
+      "monte_carlo": 0.53,
+      "weather": 0.51,
+      "momentum": 0.52,
+      "injury": 0.5
+    },
+    "pitcher_comparison": {
+      "away_grade": 45.7,
+      "home_grade": 44.8,
+      "advantage": 0.005
+    },
+    "weather_impact": {
+      "offense": 0.2,
+      "pitching": 0.0,
+      "overall": 0.2
+    },
+    "mc_simulation": {
+      "away_avg_runs": 4.62,
+      "home_avg_runs": 4.82,
+      "away_win_prob": 0.408,
+      "home_win_prob": 0.46,
+      "tie_prob": 0.132,
+      "over_under_line": 9.4,
+      "away_score_std": 2.16,
+      "home_score_std": 2.19
+    },
+    "date": "2026-08-01"
+  },
+  {
+    "game_pk": 823920,
+    "away_team": "Boston Red Sox",
+    "home_team": "Los Angeles Dodgers",
+    "away_win_prob": 0.459,
+    "home_win_prob": 0.541,
+    "predicted_away_score": 4.52,
+    "predicted_home_score": 4.96,
+    "predicted_total": 9.5,
+    "confidence": 0.081,
+    "confidence_level": "LOW",
+    "pick": "Los Angeles Dodgers",
+    "value_bet": {
+      "expected_value": 0.033,
+      "is_positive_ev": true,
+      "recommended_stake_pct": 0.9
+    },
+    "model_breakdown": {
+      "elo": 0.629,
+      "offense": 0.5,
+      "pitcher": 0.524,
+      "bullpen": 0.506,
+      "monte_carlo": 0.567,
+      "weather": 0.512,
+      "momentum": 0.524,
+      "injury": 0.5
+    },
+    "pitcher_comparison": {
+      "away_grade": 70.7,
+      "home_grade": 77.6,
+      "advantage": -0.12
+    },
+    "weather_impact": {
+      "offense": 0.25,
+      "pitching": -0.15,
+      "overall": 0.25
+    },
+    "mc_simulation": {
+      "away_avg_runs": 4.52,
+      "home_avg_runs": 4.96,
+      "away_win_prob": 0.376,
+      "home_win_prob": 0.492,
+      "tie_prob": 0.131,
+      "over_under_line": 9.5,
+      "away_score_std": 2.14,
+      "home_score_std": 2.23
+    },
+    "date": "2026-08-01"
+  },
+  {
+    "game_pk": 824000,
+    "away_team": "Milwaukee Brewers",
+    "home_team": "Los Angeles Angels",
+    "away_win_prob": 0.534,
+    "home_win_prob": 0.466,
+    "predicted_away_score": 4.52,
+    "predicted_home_score": 4.89,
+    "predicted_total": 9.4,
+    "confidence": 0.068,
+    "confidence_level": "LOW",
+    "pick": "Milwaukee Brewers",
+    "value_bet": {
+      "expected_value": 0.02,
+      "is_positive_ev": false,
+      "recommended_stake_pct": 0.5
+    },
+    "model_breakdown": {
+      "elo": 0.3,
+      "offense": 0.5,
+      "pitcher": 0.52,
+      "bullpen": 0.479,
+      "monte_carlo": 0.554,
+      "weather": 0.51,
+      "momentum": 0.44,
+      "injury": 0.5
+    },
+    "pitcher_comparison": {
+      "away_grade": 50.2,
+      "home_grade": 65.1,
+      "advantage": -0.102
+    },
+    "weather_impact": {
+      "offense": 0.2,
+      "pitching": 0.0,
+      "overall": 0.2
+    },
+    "mc_simulation": {
+      "away_avg_runs": 4.52,
+      "home_avg_runs": 4.89,
+      "away_win_prob": 0.386,
+      "home_win_prob": 0.48,
+      "tie_prob": 0.135,
+      "over_under_line": 9.4,
+      "away_score_std": 2.13,
+      "home_score_std": 2.2
+    },
+    "date": "2026-08-01"
+  },
+  {
+    "game_pk": 824972,
+    "away_team": "Detroit Tigers",
+    "home_team": "Athletics",
+    "away_win_prob": 0.513,
+    "home_win_prob": 0.487,
+    "predicted_away_score": 4.73,
+    "predicted_home_score": 4.67,
+    "predicted_total": 9.4,
+    "confidence": 0.026,
+    "confidence_level": "LOW",
+    "pick": "Detroit Tigers",
+    "value_bet": {
+      "expected_value": -0.02,
+      "is_positive_ev": false,
+      "recommended_stake_pct": 0.0
+    },
+    "model_breakdown": {
+      "elo": 0.47,
+      "offense": 0.5,
+      "pitcher": 0.482,
+      "bullpen": 0.489,
+      "monte_carlo": 0.491,
+      "weather": 0.51,
+      "momentum": 0.484,
+      "injury": 0.5
+    },
+    "pitcher_comparison": {
+      "away_grade": 48.7,
+      "home_grade": 40.2,
+      "advantage": 0.09
+    },
+    "weather_impact": {
+      "offense": 0.2,
+      "pitching": 0.0,
+      "overall": 0.2
+    },
+    "mc_simulation": {
+      "away_avg_runs": 4.73,
+      "home_avg_runs": 4.67,
+      "away_win_prob": 0.442,
+      "home_win_prob": 0.426,
+      "tie_prob": 0.133,
+      "over_under_line": 9.4,
+      "away_score_std": 2.19,
+      "home_score_std": 2.16
+    },
+    "date": "2026-08-01"
+  }
+]

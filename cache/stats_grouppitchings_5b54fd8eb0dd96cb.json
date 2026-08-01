@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 31,
+            "gamesPlayed": 4,
+            "gamesStarted": 2,
+            "groundOuts": 29,
+            "airOuts": 15,
+            "runs": 3,
+            "doubles": 3,
+            "triples": 0,
+            "homeRuns": 2,
+            "strikeOuts": 10,
+            "baseOnBalls": 9,
+            "intentionalWalks": 0,
+            "hits": 17,
+            "hitByPitch": 0,
+            "avg": ".239",
+            "atBats": 71,
+            "obp": ".325",
+            "slg": ".366",
+            "ops": ".691",
+            "caughtStealing": 1,
+            "stolenBases": 2,
+            "stolenBasePercentage": ".667",
+            "caughtStealingPercentage": ".333",
+            "groundIntoDoublePlay": 0,
+            "numberOfPitches": 331,
+            "era": "1.42",
+            "inningsPitched": "19.0",
+            "wins": 0,
+            "losses": 0,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 3,
+            "whip": "1.37",
+            "battersFaced": 80,
+            "outs": 57,
+            "gamesPitched": 4,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 205,
+            "strikePercentage": ".620",
+            "hitBatsmen": 0,
+            "balks": 0,
+            "wildPitches": 0,
+            "pickoffs": 1,
+            "totalBases": 26,
+            "groundOutsToAirouts": "1.93",
+            "winPercentage": ".---",
+            "pitchesPerInning": "17.42",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "1.11",
+            "strikeoutsPer9Inn": "4.74",
+            "walksPer9Inn": "4.26",
+            "hitsPer9Inn": "8.05",
+            "runsScoredPer9": "1.42",
+            "homeRunsPer9": "0.95",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 0,
+            "sacFlies": 0
+          },
+          "team": {
+            "id": 118,
+            "name": "Kansas City Royals",
+            "link": "/api/v1/teams/118"
+          },
+          "player": {
+            "id": 677976,
+            "fullName": "Randy Dobnak",
+            "link": "/api/v1/people/677976"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

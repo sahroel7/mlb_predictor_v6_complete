@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 35,
+            "gamesPlayed": 21,
+            "gamesStarted": 17,
+            "groundOuts": 118,
+            "airOuts": 106,
+            "runs": 59,
+            "doubles": 19,
+            "triples": 1,
+            "homeRuns": 17,
+            "strikeOuts": 81,
+            "baseOnBalls": 38,
+            "intentionalWalks": 0,
+            "hits": 112,
+            "hitByPitch": 7,
+            "avg": ".271",
+            "atBats": 413,
+            "obp": ".342",
+            "slg": ".446",
+            "ops": ".788",
+            "caughtStealing": 5,
+            "stolenBases": 4,
+            "stolenBasePercentage": ".444",
+            "caughtStealingPercentage": ".556",
+            "groundIntoDoublePlay": 5,
+            "numberOfPitches": 1756,
+            "era": "4.85",
+            "inningsPitched": "105.2",
+            "wins": 7,
+            "losses": 7,
+            "saves": 1,
+            "saveOpportunities": 1,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 57,
+            "whip": "1.42",
+            "battersFaced": 462,
+            "outs": 317,
+            "gamesPitched": 21,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 1120,
+            "strikePercentage": ".640",
+            "hitBatsmen": 7,
+            "balks": 1,
+            "wildPitches": 1,
+            "pickoffs": 4,
+            "totalBases": 184,
+            "groundOutsToAirouts": "1.11",
+            "winPercentage": ".500",
+            "pitchesPerInning": "16.62",
+            "gamesFinished": 1,
+            "strikeoutWalkRatio": "2.13",
+            "strikeoutsPer9Inn": "6.90",
+            "walksPer9Inn": "3.24",
+            "hitsPer9Inn": "9.54",
+            "runsScoredPer9": "5.03",
+            "homeRunsPer9": "1.45",
+            "inheritedRunners": 1,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 3,
+            "sacFlies": 1
+          },
+          "team": {
+            "id": 112,
+            "name": "Chicago Cubs",
+            "link": "/api/v1/teams/112"
+          },
+          "player": {
+            "id": 607067,
+            "fullName": "Colin Rea",
+            "link": "/api/v1/people/607067"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

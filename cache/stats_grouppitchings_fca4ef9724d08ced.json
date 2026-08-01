@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 27,
+            "gamesPlayed": 20,
+            "gamesStarted": 20,
+            "groundOuts": 124,
+            "airOuts": 81,
+            "runs": 52,
+            "doubles": 24,
+            "triples": 2,
+            "homeRuns": 8,
+            "strikeOuts": 113,
+            "baseOnBalls": 45,
+            "intentionalWalks": 0,
+            "hits": 91,
+            "hitByPitch": 3,
+            "avg": ".224",
+            "atBats": 406,
+            "obp": ".305",
+            "slg": ".352",
+            "ops": ".657",
+            "caughtStealing": 3,
+            "stolenBases": 6,
+            "stolenBasePercentage": ".667",
+            "caughtStealingPercentage": ".333",
+            "groundIntoDoublePlay": 11,
+            "numberOfPitches": 1924,
+            "era": "3.93",
+            "inningsPitched": "110.0",
+            "wins": 7,
+            "losses": 8,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 48,
+            "whip": "1.24",
+            "battersFaced": 457,
+            "outs": 330,
+            "gamesPitched": 20,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 1164,
+            "strikePercentage": ".600",
+            "hitBatsmen": 3,
+            "balks": 0,
+            "wildPitches": 1,
+            "pickoffs": 0,
+            "totalBases": 143,
+            "groundOutsToAirouts": "1.53",
+            "winPercentage": ".467",
+            "pitchesPerInning": "17.49",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "2.51",
+            "strikeoutsPer9Inn": "9.25",
+            "walksPer9Inn": "3.68",
+            "hitsPer9Inn": "7.45",
+            "runsScoredPer9": "4.25",
+            "homeRunsPer9": "0.65",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 1,
+            "sacFlies": 2
+          },
+          "team": {
+            "id": 137,
+            "name": "San Francisco Giants",
+            "link": "/api/v1/teams/137"
+          },
+          "player": {
+            "id": 694738,
+            "fullName": "Landen Roupp",
+            "link": "/api/v1/people/694738"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

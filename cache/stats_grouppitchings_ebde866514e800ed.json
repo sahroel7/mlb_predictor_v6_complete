@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 26,
+            "gamesPlayed": 34,
+            "gamesStarted": 3,
+            "groundOuts": 41,
+            "airOuts": 28,
+            "runs": 15,
+            "doubles": 4,
+            "triples": 0,
+            "homeRuns": 2,
+            "strikeOuts": 45,
+            "baseOnBalls": 18,
+            "intentionalWalks": 2,
+            "hits": 39,
+            "hitByPitch": 2,
+            "avg": ".255",
+            "atBats": 153,
+            "obp": ".341",
+            "slg": ".320",
+            "ops": ".661",
+            "caughtStealing": 2,
+            "stolenBases": 2,
+            "stolenBasePercentage": ".500",
+            "caughtStealingPercentage": ".500",
+            "groundIntoDoublePlay": 4,
+            "numberOfPitches": 692,
+            "era": "2.75",
+            "inningsPitched": "39.1",
+            "wins": 3,
+            "losses": 4,
+            "saves": 2,
+            "saveOpportunities": 3,
+            "holds": 12,
+            "blownSaves": 1,
+            "earnedRuns": 12,
+            "whip": "1.45",
+            "battersFaced": 173,
+            "outs": 118,
+            "gamesPitched": 34,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 438,
+            "strikePercentage": ".630",
+            "hitBatsmen": 2,
+            "balks": 0,
+            "wildPitches": 1,
+            "pickoffs": 0,
+            "totalBases": 49,
+            "groundOutsToAirouts": "1.46",
+            "winPercentage": ".429",
+            "pitchesPerInning": "17.59",
+            "gamesFinished": 4,
+            "strikeoutWalkRatio": "2.50",
+            "strikeoutsPer9Inn": "10.30",
+            "walksPer9Inn": "4.12",
+            "hitsPer9Inn": "8.92",
+            "runsScoredPer9": "3.43",
+            "homeRunsPer9": "0.46",
+            "inheritedRunners": 15,
+            "inheritedRunnersScored": 8,
+            "catchersInterference": 0,
+            "sacBunts": 0,
+            "sacFlies": 0
+          },
+          "team": {
+            "id": 119,
+            "name": "Los Angeles Dodgers",
+            "link": "/api/v1/teams/119"
+          },
+          "player": {
+            "id": 694361,
+            "fullName": "Will Klein",
+            "link": "/api/v1/people/694361"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

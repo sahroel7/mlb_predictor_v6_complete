@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 27,
+            "gamesPlayed": 9,
+            "gamesStarted": 9,
+            "groundOuts": 48,
+            "airOuts": 38,
+            "runs": 20,
+            "doubles": 4,
+            "triples": 0,
+            "homeRuns": 5,
+            "strikeOuts": 50,
+            "baseOnBalls": 28,
+            "intentionalWalks": 0,
+            "hits": 32,
+            "hitByPitch": 4,
+            "avg": ".192",
+            "atBats": 167,
+            "obp": ".320",
+            "slg": ".305",
+            "ops": ".625",
+            "caughtStealing": 4,
+            "stolenBases": 12,
+            "stolenBasePercentage": ".750",
+            "caughtStealingPercentage": ".250",
+            "groundIntoDoublePlay": 2,
+            "numberOfPitches": 822,
+            "era": "3.45",
+            "inningsPitched": "47.0",
+            "wins": 2,
+            "losses": 1,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 18,
+            "whip": "1.28",
+            "battersFaced": 200,
+            "outs": 141,
+            "gamesPitched": 9,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 482,
+            "strikePercentage": ".590",
+            "hitBatsmen": 4,
+            "balks": 0,
+            "wildPitches": 1,
+            "pickoffs": 0,
+            "totalBases": 51,
+            "groundOutsToAirouts": "1.26",
+            "winPercentage": ".667",
+            "pitchesPerInning": "17.49",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "1.79",
+            "strikeoutsPer9Inn": "9.57",
+            "walksPer9Inn": "5.36",
+            "hitsPer9Inn": "6.13",
+            "runsScoredPer9": "3.83",
+            "homeRunsPer9": "0.96",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 0,
+            "sacFlies": 1
+          },
+          "team": {
+            "id": 117,
+            "name": "Houston Astros",
+            "link": "/api/v1/teams/117"
+          },
+          "player": {
+            "id": 686613,
+            "fullName": "Hunter Brown",
+            "link": "/api/v1/people/686613"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

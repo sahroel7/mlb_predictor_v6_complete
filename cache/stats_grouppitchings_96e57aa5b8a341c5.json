@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 29,
+            "gamesPlayed": 20,
+            "gamesStarted": 20,
+            "groundOuts": 104,
+            "airOuts": 111,
+            "runs": 57,
+            "doubles": 17,
+            "triples": 2,
+            "homeRuns": 21,
+            "strikeOuts": 88,
+            "baseOnBalls": 32,
+            "intentionalWalks": 0,
+            "hits": 111,
+            "hitByPitch": 8,
+            "avg": ".270",
+            "atBats": 411,
+            "obp": ".333",
+            "slg": ".474",
+            "ops": ".807",
+            "caughtStealing": 3,
+            "stolenBases": 10,
+            "stolenBasePercentage": ".769",
+            "caughtStealingPercentage": ".231",
+            "groundIntoDoublePlay": 5,
+            "numberOfPitches": 1772,
+            "era": "4.53",
+            "inningsPitched": "103.1",
+            "wins": 5,
+            "losses": 9,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 52,
+            "whip": "1.38",
+            "battersFaced": 454,
+            "outs": 310,
+            "gamesPitched": 20,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 1100,
+            "strikePercentage": ".620",
+            "hitBatsmen": 8,
+            "balks": 0,
+            "wildPitches": 2,
+            "pickoffs": 1,
+            "totalBases": 195,
+            "groundOutsToAirouts": "0.94",
+            "winPercentage": ".357",
+            "pitchesPerInning": "17.15",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "2.75",
+            "strikeoutsPer9Inn": "7.66",
+            "walksPer9Inn": "2.79",
+            "hitsPer9Inn": "9.67",
+            "runsScoredPer9": "4.96",
+            "homeRunsPer9": "1.83",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 1,
+            "sacFlies": 2
+          },
+          "team": {
+            "id": 113,
+            "name": "Cincinnati Reds",
+            "link": "/api/v1/teams/113"
+          },
+          "player": {
+            "id": 663903,
+            "fullName": "Brady Singer",
+            "link": "/api/v1/people/663903"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

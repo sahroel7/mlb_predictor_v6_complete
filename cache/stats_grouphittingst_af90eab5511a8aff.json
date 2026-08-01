@@ -1,0 +1,59 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "gamesPlayed": 105,
+            "groundOuts": 802,
+            "airOuts": 1046,
+            "runs": 498,
+            "doubles": 170,
+            "triples": 14,
+            "homeRuns": 126,
+            "strikeOuts": 864,
+            "baseOnBalls": 349,
+            "intentionalWalks": 7,
+            "hits": 869,
+            "hitByPitch": 56,
+            "avg": ".245",
+            "atBats": 3544,
+            "obp": ".320",
+            "slg": ".408",
+            "ops": ".728",
+            "caughtStealing": 27,
+            "stolenBases": 63,
+            "stolenBasePercentage": ".700",
+            "caughtStealingPercentage": ".300",
+            "groundIntoDoublePlay": 63,
+            "numberOfPitches": 15449,
+            "plateAppearances": 3986,
+            "totalBases": 1445,
+            "rbi": 475,
+            "leftOnBase": 709,
+            "sacBunts": 5,
+            "sacFlies": 31,
+            "babip": ".287",
+            "groundOutsToAirouts": "0.77",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "28.13"
+          },
+          "team": {
+            "id": 142,
+            "name": "Minnesota Twins",
+            "link": "/api/v1/teams/142"
+          }
+        }
+      ]
+    }
+  ]
+}

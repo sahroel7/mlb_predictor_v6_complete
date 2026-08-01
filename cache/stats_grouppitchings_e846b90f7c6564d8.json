@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 30,
+            "gamesPlayed": 14,
+            "gamesStarted": 14,
+            "groundOuts": 75,
+            "airOuts": 82,
+            "runs": 43,
+            "doubles": 13,
+            "triples": 2,
+            "homeRuns": 11,
+            "strikeOuts": 57,
+            "baseOnBalls": 20,
+            "intentionalWalks": 0,
+            "hits": 80,
+            "hitByPitch": 1,
+            "avg": ".274",
+            "atBats": 292,
+            "obp": ".321",
+            "slg": ".445",
+            "ops": ".766",
+            "caughtStealing": 3,
+            "stolenBases": 7,
+            "stolenBasePercentage": ".700",
+            "caughtStealingPercentage": ".300",
+            "groundIntoDoublePlay": 8,
+            "numberOfPitches": 1189,
+            "era": "4.89",
+            "inningsPitched": "73.2",
+            "wins": 4,
+            "losses": 6,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 40,
+            "whip": "1.36",
+            "battersFaced": 316,
+            "outs": 221,
+            "gamesPitched": 14,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 786,
+            "strikePercentage": ".660",
+            "hitBatsmen": 1,
+            "balks": 0,
+            "wildPitches": 1,
+            "pickoffs": 0,
+            "totalBases": 130,
+            "groundOutsToAirouts": "0.91",
+            "winPercentage": ".400",
+            "pitchesPerInning": "16.14",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "2.85",
+            "strikeoutsPer9Inn": "6.96",
+            "walksPer9Inn": "2.44",
+            "hitsPer9Inn": "9.77",
+            "runsScoredPer9": "5.25",
+            "homeRunsPer9": "1.34",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 1,
+            "sacBunts": 0,
+            "sacFlies": 2
+          },
+          "team": {
+            "id": 146,
+            "name": "Miami Marlins",
+            "link": "/api/v1/teams/146"
+          },
+          "player": {
+            "id": 676083,
+            "fullName": "Janson Junk",
+            "link": "/api/v1/people/676083"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

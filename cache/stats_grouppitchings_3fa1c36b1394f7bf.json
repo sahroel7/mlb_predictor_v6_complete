@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 27,
+            "gamesPlayed": 19,
+            "gamesStarted": 19,
+            "groundOuts": 92,
+            "airOuts": 115,
+            "runs": 37,
+            "doubles": 14,
+            "triples": 0,
+            "homeRuns": 13,
+            "strikeOuts": 97,
+            "baseOnBalls": 26,
+            "intentionalWalks": 0,
+            "hits": 80,
+            "hitByPitch": 4,
+            "avg": ".209",
+            "atBats": 382,
+            "obp": ".266",
+            "slg": ".348",
+            "ops": ".614",
+            "caughtStealing": 1,
+            "stolenBases": 7,
+            "stolenBasePercentage": ".875",
+            "caughtStealingPercentage": ".125",
+            "groundIntoDoublePlay": 11,
+            "numberOfPitches": 1627,
+            "era": "3.16",
+            "inningsPitched": "105.1",
+            "wins": 6,
+            "losses": 4,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 37,
+            "whip": "1.01",
+            "battersFaced": 414,
+            "outs": 316,
+            "gamesPitched": 19,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 1042,
+            "strikePercentage": ".640",
+            "hitBatsmen": 4,
+            "balks": 0,
+            "wildPitches": 4,
+            "pickoffs": 1,
+            "totalBases": 133,
+            "groundOutsToAirouts": "0.80",
+            "winPercentage": ".600",
+            "pitchesPerInning": "15.45",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "3.73",
+            "strikeoutsPer9Inn": "8.29",
+            "walksPer9Inn": "2.22",
+            "hitsPer9Inn": "6.84",
+            "runsScoredPer9": "3.16",
+            "homeRunsPer9": "1.11",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 0,
+            "sacFlies": 2
+          },
+          "team": {
+            "id": 136,
+            "name": "Seattle Mariners",
+            "link": "/api/v1/teams/136"
+          },
+          "player": {
+            "id": 676106,
+            "fullName": "Emerson Hancock",
+            "link": "/api/v1/people/676106"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

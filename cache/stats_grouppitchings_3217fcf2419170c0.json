@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 26,
+            "gamesPlayed": 42,
+            "gamesStarted": 5,
+            "groundOuts": 38,
+            "airOuts": 22,
+            "runs": 18,
+            "doubles": 7,
+            "triples": 0,
+            "homeRuns": 4,
+            "strikeOuts": 63,
+            "baseOnBalls": 19,
+            "intentionalWalks": 0,
+            "hits": 31,
+            "hitByPitch": 0,
+            "avg": ".203",
+            "atBats": 153,
+            "obp": ".289",
+            "slg": ".327",
+            "ops": ".616",
+            "caughtStealing": 0,
+            "stolenBases": 5,
+            "stolenBasePercentage": "1.000",
+            "caughtStealingPercentage": ".000",
+            "groundIntoDoublePlay": 1,
+            "numberOfPitches": 727,
+            "era": "3.70",
+            "inningsPitched": "41.1",
+            "wins": 3,
+            "losses": 3,
+            "saves": 1,
+            "saveOpportunities": 3,
+            "holds": 9,
+            "blownSaves": 2,
+            "earnedRuns": 17,
+            "whip": "1.21",
+            "battersFaced": 173,
+            "outs": 124,
+            "gamesPitched": 42,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 464,
+            "strikePercentage": ".640",
+            "hitBatsmen": 0,
+            "balks": 0,
+            "wildPitches": 2,
+            "pickoffs": 0,
+            "totalBases": 50,
+            "groundOutsToAirouts": "1.73",
+            "winPercentage": ".500",
+            "pitchesPerInning": "17.59",
+            "gamesFinished": 7,
+            "strikeoutWalkRatio": "3.32",
+            "strikeoutsPer9Inn": "13.72",
+            "walksPer9Inn": "4.14",
+            "hitsPer9Inn": "6.75",
+            "runsScoredPer9": "3.92",
+            "homeRunsPer9": "0.87",
+            "inheritedRunners": 21,
+            "inheritedRunnersScored": 4,
+            "catchersInterference": 0,
+            "sacBunts": 0,
+            "sacFlies": 1
+          },
+          "team": {
+            "id": 134,
+            "name": "Pittsburgh Pirates",
+            "link": "/api/v1/teams/134"
+          },
+          "player": {
+            "id": 682254,
+            "fullName": "Mason Montgomery",
+            "link": "/api/v1/people/682254"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 29,
+            "gamesPlayed": 18,
+            "gamesStarted": 18,
+            "groundOuts": 148,
+            "airOuts": 92,
+            "runs": 53,
+            "doubles": 13,
+            "triples": 5,
+            "homeRuns": 9,
+            "strikeOuts": 89,
+            "baseOnBalls": 29,
+            "intentionalWalks": 0,
+            "hits": 98,
+            "hitByPitch": 6,
+            "avg": ".231",
+            "atBats": 425,
+            "obp": ".289",
+            "slg": ".348",
+            "ops": ".637",
+            "caughtStealing": 4,
+            "stolenBases": 14,
+            "stolenBasePercentage": ".778",
+            "caughtStealingPercentage": ".222",
+            "groundIntoDoublePlay": 9,
+            "numberOfPitches": 1693,
+            "era": "3.98",
+            "inningsPitched": "113.0",
+            "wins": 5,
+            "losses": 7,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 50,
+            "whip": "1.12",
+            "battersFaced": 463,
+            "outs": 339,
+            "gamesPitched": 18,
+            "completeGames": 1,
+            "shutouts": 0,
+            "strikes": 1110,
+            "strikePercentage": ".660",
+            "hitBatsmen": 6,
+            "balks": 0,
+            "wildPitches": 1,
+            "pickoffs": 0,
+            "totalBases": 148,
+            "groundOutsToAirouts": "1.61",
+            "winPercentage": ".417",
+            "pitchesPerInning": "14.98",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "3.07",
+            "strikeoutsPer9Inn": "7.09",
+            "walksPer9Inn": "2.31",
+            "hitsPer9Inn": "7.81",
+            "runsScoredPer9": "4.22",
+            "homeRunsPer9": "0.72",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 1,
+            "sacBunts": 1,
+            "sacFlies": 1
+          },
+          "team": {
+            "id": 137,
+            "name": "San Francisco Giants",
+            "link": "/api/v1/teams/137"
+          },
+          "player": {
+            "id": 657277,
+            "fullName": "Logan Webb",
+            "link": "/api/v1/people/657277"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

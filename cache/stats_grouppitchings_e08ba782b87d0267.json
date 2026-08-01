@@ -1,0 +1,85 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "gamesPlayed": 104,
+            "gamesStarted": 104,
+            "groundOuts": 854,
+            "airOuts": 935,
+            "runs": 450,
+            "doubles": 149,
+            "triples": 15,
+            "homeRuns": 106,
+            "strikeOuts": 876,
+            "baseOnBalls": 358,
+            "intentionalWalks": 6,
+            "hits": 784,
+            "hitByPitch": 58,
+            "avg": ".229",
+            "atBats": 3419,
+            "obp": ".311",
+            "slg": ".375",
+            "ops": ".686",
+            "caughtStealing": 29,
+            "stolenBases": 98,
+            "stolenBasePercentage": ".772",
+            "caughtStealingPercentage": ".228",
+            "groundIntoDoublePlay": 62,
+            "numberOfPitches": 14977,
+            "era": "4.05",
+            "inningsPitched": "913.0",
+            "wins": 52,
+            "losses": 52,
+            "saves": 23,
+            "saveOpportunities": 36,
+            "holds": 58,
+            "blownSaves": 13,
+            "earnedRuns": 411,
+            "whip": "1.25",
+            "battersFaced": 3868,
+            "outs": 2739,
+            "gamesPitched": 104,
+            "completeGames": 1,
+            "shutouts": 8,
+            "strikes": 9626,
+            "strikePercentage": ".640",
+            "hitBatsmen": 58,
+            "balks": 3,
+            "wildPitches": 33,
+            "pickoffs": 0,
+            "totalBases": 1281,
+            "groundOutsToAirouts": "0.91",
+            "winPercentage": ".500",
+            "pitchesPerInning": "16.40",
+            "gamesFinished": 103,
+            "strikeoutWalkRatio": "2.45",
+            "strikeoutsPer9Inn": "8.64",
+            "walksPer9Inn": "3.53",
+            "hitsPer9Inn": "7.73",
+            "runsScoredPer9": "4.44",
+            "homeRunsPer9": "1.04",
+            "catchersInterference": 3,
+            "sacBunts": 8,
+            "sacFlies": 22
+          },
+          "team": {
+            "id": 146,
+            "name": "Miami Marlins",
+            "link": "/api/v1/teams/146"
+          }
+        }
+      ]
+    }
+  ]
+}

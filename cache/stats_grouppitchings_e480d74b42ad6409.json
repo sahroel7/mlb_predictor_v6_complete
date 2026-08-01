@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 24,
+            "gamesPlayed": 4,
+            "gamesStarted": 3,
+            "groundOuts": 16,
+            "airOuts": 20,
+            "runs": 6,
+            "doubles": 4,
+            "triples": 1,
+            "homeRuns": 0,
+            "strikeOuts": 19,
+            "baseOnBalls": 6,
+            "intentionalWalks": 0,
+            "hits": 16,
+            "hitByPitch": 0,
+            "avg": ".229",
+            "atBats": 70,
+            "obp": ".286",
+            "slg": ".314",
+            "ops": ".600",
+            "caughtStealing": 0,
+            "stolenBases": 2,
+            "stolenBasePercentage": "1.000",
+            "caughtStealingPercentage": ".000",
+            "groundIntoDoublePlay": 2,
+            "numberOfPitches": 317,
+            "era": "2.79",
+            "inningsPitched": "19.1",
+            "wins": 0,
+            "losses": 2,
+            "saves": 1,
+            "saveOpportunities": 1,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 6,
+            "whip": "1.14",
+            "battersFaced": 77,
+            "outs": 58,
+            "gamesPitched": 4,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 215,
+            "strikePercentage": ".680",
+            "hitBatsmen": 0,
+            "balks": 0,
+            "wildPitches": 1,
+            "pickoffs": 1,
+            "totalBases": 22,
+            "groundOutsToAirouts": "0.80",
+            "winPercentage": ".000",
+            "pitchesPerInning": "16.40",
+            "gamesFinished": 1,
+            "strikeoutWalkRatio": "3.17",
+            "strikeoutsPer9Inn": "8.84",
+            "walksPer9Inn": "2.79",
+            "hitsPer9Inn": "7.45",
+            "runsScoredPer9": "2.79",
+            "homeRunsPer9": "0.00",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 0,
+            "sacFlies": 1
+          },
+          "team": {
+            "id": 115,
+            "name": "Colorado Rockies",
+            "link": "/api/v1/teams/115"
+          },
+          "player": {
+            "id": 687312,
+            "fullName": "Gabriel Hughes",
+            "link": "/api/v1/people/687312"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

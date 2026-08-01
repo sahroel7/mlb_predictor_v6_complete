@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 28,
+            "gamesPlayed": 20,
+            "gamesStarted": 20,
+            "groundOuts": 90,
+            "airOuts": 103,
+            "runs": 56,
+            "doubles": 20,
+            "triples": 1,
+            "homeRuns": 7,
+            "strikeOuts": 103,
+            "baseOnBalls": 33,
+            "intentionalWalks": 0,
+            "hits": 104,
+            "hitByPitch": 7,
+            "avg": ".263",
+            "atBats": 396,
+            "obp": ".328",
+            "slg": ".371",
+            "ops": ".699",
+            "caughtStealing": 4,
+            "stolenBases": 6,
+            "stolenBasePercentage": ".600",
+            "caughtStealingPercentage": ".400",
+            "groundIntoDoublePlay": 10,
+            "numberOfPitches": 1681,
+            "era": "4.59",
+            "inningsPitched": "104.0",
+            "wins": 5,
+            "losses": 7,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 53,
+            "whip": "1.32",
+            "battersFaced": 441,
+            "outs": 312,
+            "gamesPitched": 20,
+            "completeGames": 1,
+            "shutouts": 1,
+            "strikes": 1097,
+            "strikePercentage": ".650",
+            "hitBatsmen": 7,
+            "balks": 0,
+            "wildPitches": 7,
+            "pickoffs": 1,
+            "totalBases": 147,
+            "groundOutsToAirouts": "0.87",
+            "winPercentage": ".417",
+            "pitchesPerInning": "16.16",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "3.12",
+            "strikeoutsPer9Inn": "8.91",
+            "walksPer9Inn": "2.86",
+            "hitsPer9Inn": "9.00",
+            "runsScoredPer9": "4.85",
+            "homeRunsPer9": "0.61",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 1,
+            "sacBunts": 1,
+            "sacFlies": 3
+          },
+          "team": {
+            "id": 138,
+            "name": "St. Louis Cardinals",
+            "link": "/api/v1/teams/138"
+          },
+          "player": {
+            "id": 669160,
+            "fullName": "Dustin May",
+            "link": "/api/v1/people/669160"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

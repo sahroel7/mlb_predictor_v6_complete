@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 33,
+            "gamesPlayed": 18,
+            "gamesStarted": 18,
+            "groundOuts": 97,
+            "airOuts": 97,
+            "runs": 78,
+            "doubles": 29,
+            "triples": 4,
+            "homeRuns": 20,
+            "strikeOuts": 83,
+            "baseOnBalls": 20,
+            "intentionalWalks": 0,
+            "hits": 127,
+            "hitByPitch": 5,
+            "avg": ".317",
+            "atBats": 401,
+            "obp": ".354",
+            "slg": ".559",
+            "ops": ".913",
+            "caughtStealing": 2,
+            "stolenBases": 10,
+            "stolenBasePercentage": ".833",
+            "caughtStealingPercentage": ".167",
+            "groundIntoDoublePlay": 6,
+            "numberOfPitches": 1542,
+            "era": "7.28",
+            "inningsPitched": "94.0",
+            "wins": 2,
+            "losses": 9,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 76,
+            "whip": "1.56",
+            "battersFaced": 429,
+            "outs": 282,
+            "gamesPitched": 18,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 1040,
+            "strikePercentage": ".670",
+            "hitBatsmen": 5,
+            "balks": 0,
+            "wildPitches": 2,
+            "pickoffs": 0,
+            "totalBases": 224,
+            "groundOutsToAirouts": "1.00",
+            "winPercentage": ".182",
+            "pitchesPerInning": "16.40",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "4.15",
+            "strikeoutsPer9Inn": "7.95",
+            "walksPer9Inn": "1.91",
+            "hitsPer9Inn": "12.16",
+            "runsScoredPer9": "7.47",
+            "homeRunsPer9": "1.91",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 0,
+            "sacFlies": 3
+          },
+          "team": {
+            "id": 115,
+            "name": "Colorado Rockies",
+            "link": "/api/v1/teams/115"
+          },
+          "player": {
+            "id": 607536,
+            "fullName": "Kyle Freeland",
+            "link": "/api/v1/people/607536"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

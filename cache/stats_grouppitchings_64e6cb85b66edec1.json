@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 31,
+            "gamesPlayed": 6,
+            "gamesStarted": 6,
+            "groundOuts": 40,
+            "airOuts": 26,
+            "runs": 16,
+            "doubles": 9,
+            "triples": 0,
+            "homeRuns": 7,
+            "strikeOuts": 22,
+            "baseOnBalls": 12,
+            "intentionalWalks": 0,
+            "hits": 32,
+            "hitByPitch": 0,
+            "avg": ".267",
+            "atBats": 120,
+            "obp": ".333",
+            "slg": ".517",
+            "ops": ".850",
+            "caughtStealing": 0,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".---",
+            "caughtStealingPercentage": ".---",
+            "groundIntoDoublePlay": 3,
+            "numberOfPitches": 519,
+            "era": "4.70",
+            "inningsPitched": "30.2",
+            "wins": 2,
+            "losses": 1,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 16,
+            "whip": "1.43",
+            "battersFaced": 132,
+            "outs": 92,
+            "gamesPitched": 6,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 321,
+            "strikePercentage": ".620",
+            "hitBatsmen": 0,
+            "balks": 0,
+            "wildPitches": 1,
+            "pickoffs": 0,
+            "totalBases": 62,
+            "groundOutsToAirouts": "1.54",
+            "winPercentage": ".667",
+            "pitchesPerInning": "16.92",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "1.83",
+            "strikeoutsPer9Inn": "6.46",
+            "walksPer9Inn": "3.52",
+            "hitsPer9Inn": "9.39",
+            "runsScoredPer9": "4.70",
+            "homeRunsPer9": "2.05",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 0,
+            "sacFlies": 0
+          },
+          "team": {
+            "id": 141,
+            "name": "Toronto Blue Jays",
+            "link": "/api/v1/teams/141"
+          },
+          "player": {
+            "id": 669456,
+            "fullName": "Shane Bieber",
+            "link": "/api/v1/people/669456"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

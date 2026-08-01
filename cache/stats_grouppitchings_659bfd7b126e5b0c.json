@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 27,
+            "gamesPlayed": 18,
+            "gamesStarted": 8,
+            "groundOuts": 80,
+            "airOuts": 65,
+            "runs": 35,
+            "doubles": 13,
+            "triples": 1,
+            "homeRuns": 8,
+            "strikeOuts": 45,
+            "baseOnBalls": 20,
+            "intentionalWalks": 0,
+            "hits": 66,
+            "hitByPitch": 4,
+            "avg": ".261",
+            "atBats": 253,
+            "obp": ".321",
+            "slg": ".415",
+            "ops": ".736",
+            "caughtStealing": 0,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".---",
+            "caughtStealingPercentage": ".---",
+            "groundIntoDoublePlay": 6,
+            "numberOfPitches": 1016,
+            "era": "4.43",
+            "inningsPitched": "65.0",
+            "wins": 5,
+            "losses": 1,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 2,
+            "blownSaves": 0,
+            "earnedRuns": 32,
+            "whip": "1.32",
+            "battersFaced": 280,
+            "outs": 195,
+            "gamesPitched": 18,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 661,
+            "strikePercentage": ".650",
+            "hitBatsmen": 4,
+            "balks": 1,
+            "wildPitches": 2,
+            "pickoffs": 0,
+            "totalBases": 105,
+            "groundOutsToAirouts": "1.23",
+            "winPercentage": ".833",
+            "pitchesPerInning": "15.63",
+            "gamesFinished": 2,
+            "strikeoutWalkRatio": "2.25",
+            "strikeoutsPer9Inn": "6.23",
+            "walksPer9Inn": "2.77",
+            "hitsPer9Inn": "9.14",
+            "runsScoredPer9": "4.85",
+            "homeRunsPer9": "1.11",
+            "inheritedRunners": 2,
+            "inheritedRunnersScored": 1,
+            "catchersInterference": 0,
+            "sacBunts": 0,
+            "sacFlies": 3
+          },
+          "team": {
+            "id": 109,
+            "name": "Arizona Diamondbacks",
+            "link": "/api/v1/teams/109"
+          },
+          "player": {
+            "id": 694297,
+            "fullName": "Brandon Pfaadt",
+            "link": "/api/v1/people/694297"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

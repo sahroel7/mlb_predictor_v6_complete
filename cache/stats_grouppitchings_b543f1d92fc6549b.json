@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 27,
+            "gamesPlayed": 35,
+            "gamesStarted": 7,
+            "groundOuts": 47,
+            "airOuts": 84,
+            "runs": 41,
+            "doubles": 14,
+            "triples": 1,
+            "homeRuns": 12,
+            "strikeOuts": 86,
+            "baseOnBalls": 27,
+            "intentionalWalks": 4,
+            "hits": 58,
+            "hitByPitch": 4,
+            "avg": ".216",
+            "atBats": 269,
+            "obp": ".293",
+            "slg": ".409",
+            "ops": ".702",
+            "caughtStealing": 1,
+            "stolenBases": 6,
+            "stolenBasePercentage": ".857",
+            "caughtStealingPercentage": ".143",
+            "groundIntoDoublePlay": 4,
+            "numberOfPitches": 1204,
+            "era": "4.64",
+            "inningsPitched": "73.2",
+            "wins": 6,
+            "losses": 3,
+            "saves": 2,
+            "saveOpportunities": 2,
+            "holds": 10,
+            "blownSaves": 0,
+            "earnedRuns": 38,
+            "whip": "1.15",
+            "battersFaced": 306,
+            "outs": 221,
+            "gamesPitched": 35,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 802,
+            "strikePercentage": ".670",
+            "hitBatsmen": 4,
+            "balks": 0,
+            "wildPitches": 2,
+            "pickoffs": 0,
+            "totalBases": 110,
+            "groundOutsToAirouts": "0.56",
+            "winPercentage": ".667",
+            "pitchesPerInning": "16.34",
+            "gamesFinished": 6,
+            "strikeoutWalkRatio": "3.19",
+            "strikeoutsPer9Inn": "10.51",
+            "walksPer9Inn": "3.30",
+            "hitsPer9Inn": "7.09",
+            "runsScoredPer9": "5.01",
+            "homeRunsPer9": "1.47",
+            "inheritedRunners": 6,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 2,
+            "sacFlies": 4
+          },
+          "team": {
+            "id": 139,
+            "name": "Tampa Bay Rays",
+            "link": "/api/v1/teams/139"
+          },
+          "player": {
+            "id": 693855,
+            "fullName": "Ian Seymour",
+            "link": "/api/v1/people/693855"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

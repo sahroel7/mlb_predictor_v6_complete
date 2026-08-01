@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 28,
+            "gamesPlayed": 12,
+            "gamesStarted": 12,
+            "groundOuts": 63,
+            "airOuts": 65,
+            "runs": 32,
+            "doubles": 11,
+            "triples": 1,
+            "homeRuns": 9,
+            "strikeOuts": 50,
+            "baseOnBalls": 27,
+            "intentionalWalks": 0,
+            "hits": 65,
+            "hitByPitch": 9,
+            "avg": ".277",
+            "atBats": 235,
+            "obp": ".365",
+            "slg": ".447",
+            "ops": ".812",
+            "caughtStealing": 2,
+            "stolenBases": 8,
+            "stolenBasePercentage": ".800",
+            "caughtStealingPercentage": ".200",
+            "groundIntoDoublePlay": 9,
+            "numberOfPitches": 1087,
+            "era": "4.60",
+            "inningsPitched": "62.2",
+            "wins": 3,
+            "losses": 2,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 32,
+            "whip": "1.47",
+            "battersFaced": 279,
+            "outs": 188,
+            "gamesPitched": 12,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 680,
+            "strikePercentage": ".630",
+            "hitBatsmen": 9,
+            "balks": 1,
+            "wildPitches": 0,
+            "pickoffs": 0,
+            "totalBases": 105,
+            "groundOutsToAirouts": "0.97",
+            "winPercentage": ".600",
+            "pitchesPerInning": "17.35",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "1.85",
+            "strikeoutsPer9Inn": "7.18",
+            "walksPer9Inn": "3.88",
+            "hitsPer9Inn": "9.34",
+            "runsScoredPer9": "4.60",
+            "homeRunsPer9": "1.29",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 2,
+            "sacFlies": 6
+          },
+          "team": {
+            "id": 113,
+            "name": "Cincinnati Reds",
+            "link": "/api/v1/teams/113"
+          },
+          "player": {
+            "id": 666157,
+            "fullName": "Nick Lodolo",
+            "link": "/api/v1/people/666157"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

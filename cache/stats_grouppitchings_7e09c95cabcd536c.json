@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 26,
+            "gamesPlayed": 21,
+            "gamesStarted": 21,
+            "groundOuts": 114,
+            "airOuts": 107,
+            "runs": 60,
+            "doubles": 20,
+            "triples": 2,
+            "homeRuns": 16,
+            "strikeOuts": 135,
+            "baseOnBalls": 30,
+            "intentionalWalks": 0,
+            "hits": 115,
+            "hitByPitch": 6,
+            "avg": ".248",
+            "atBats": 464,
+            "obp": ".298",
+            "slg": ".403",
+            "ops": ".701",
+            "caughtStealing": 3,
+            "stolenBases": 10,
+            "stolenBasePercentage": ".769",
+            "caughtStealingPercentage": ".231",
+            "groundIntoDoublePlay": 14,
+            "numberOfPitches": 1868,
+            "era": "4.05",
+            "inningsPitched": "122.1",
+            "wins": 10,
+            "losses": 4,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 55,
+            "whip": "1.19",
+            "battersFaced": 507,
+            "outs": 367,
+            "gamesPitched": 21,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 1287,
+            "strikePercentage": ".690",
+            "hitBatsmen": 6,
+            "balks": 0,
+            "wildPitches": 1,
+            "pickoffs": 1,
+            "totalBases": 187,
+            "groundOutsToAirouts": "1.07",
+            "winPercentage": ".714",
+            "pitchesPerInning": "15.27",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "4.50",
+            "strikeoutsPer9Inn": "9.93",
+            "walksPer9Inn": "2.21",
+            "hitsPer9Inn": "8.46",
+            "runsScoredPer9": "4.41",
+            "homeRunsPer9": "1.18",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 1,
+            "sacFlies": 6
+          },
+          "team": {
+            "id": 134,
+            "name": "Pittsburgh Pirates",
+            "link": "/api/v1/teams/134"
+          },
+          "player": {
+            "id": 677952,
+            "fullName": "Braxton Ashcraft",
+            "link": "/api/v1/people/677952"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

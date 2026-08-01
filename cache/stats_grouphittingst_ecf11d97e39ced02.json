@@ -1,0 +1,59 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "gamesPlayed": 104,
+            "groundOuts": 855,
+            "airOuts": 925,
+            "runs": 448,
+            "doubles": 141,
+            "triples": 15,
+            "homeRuns": 135,
+            "strikeOuts": 926,
+            "baseOnBalls": 302,
+            "intentionalWalks": 8,
+            "hits": 821,
+            "hitByPitch": 43,
+            "avg": ".235",
+            "atBats": 3492,
+            "obp": ".302",
+            "slg": ".400",
+            "ops": ".702",
+            "caughtStealing": 13,
+            "stolenBases": 77,
+            "stolenBasePercentage": ".856",
+            "caughtStealingPercentage": ".144",
+            "groundIntoDoublePlay": 54,
+            "numberOfPitches": 15094,
+            "plateAppearances": 3874,
+            "totalBases": 1397,
+            "rbi": 433,
+            "leftOnBase": 679,
+            "sacBunts": 6,
+            "sacFlies": 29,
+            "babip": ".279",
+            "groundOutsToAirouts": "0.92",
+            "catchersInterference": 2,
+            "atBatsPerHomeRun": "25.87"
+          },
+          "team": {
+            "id": 143,
+            "name": "Philadelphia Phillies",
+            "link": "/api/v1/teams/143"
+          }
+        }
+      ]
+    }
+  ]
+}

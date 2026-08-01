@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 23,
+            "gamesPlayed": 18,
+            "gamesStarted": 18,
+            "groundOuts": 75,
+            "airOuts": 100,
+            "runs": 43,
+            "doubles": 19,
+            "triples": 1,
+            "homeRuns": 13,
+            "strikeOuts": 106,
+            "baseOnBalls": 38,
+            "intentionalWalks": 0,
+            "hits": 72,
+            "hitByPitch": 8,
+            "avg": ".205",
+            "atBats": 351,
+            "obp": ".296",
+            "slg": ".376",
+            "ops": ".672",
+            "caughtStealing": 3,
+            "stolenBases": 23,
+            "stolenBasePercentage": ".885",
+            "caughtStealingPercentage": ".115",
+            "groundIntoDoublePlay": 8,
+            "numberOfPitches": 1605,
+            "era": "3.56",
+            "inningsPitched": "98.2",
+            "wins": 5,
+            "losses": 8,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 39,
+            "whip": "1.11",
+            "battersFaced": 399,
+            "outs": 296,
+            "gamesPitched": 18,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 1029,
+            "strikePercentage": ".640",
+            "hitBatsmen": 8,
+            "balks": 1,
+            "wildPitches": 3,
+            "pickoffs": 0,
+            "totalBases": 132,
+            "groundOutsToAirouts": "0.75",
+            "winPercentage": ".385",
+            "pitchesPerInning": "16.27",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "2.79",
+            "strikeoutsPer9Inn": "9.67",
+            "walksPer9Inn": "3.47",
+            "hitsPer9Inn": "6.57",
+            "runsScoredPer9": "3.92",
+            "homeRunsPer9": "1.19",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 0,
+            "sacFlies": 2
+          },
+          "team": {
+            "id": 146,
+            "name": "Miami Marlins",
+            "link": "/api/v1/teams/146"
+          },
+          "player": {
+            "id": 691587,
+            "fullName": "Eury P\u00e9rez",
+            "link": "/api/v1/people/691587"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

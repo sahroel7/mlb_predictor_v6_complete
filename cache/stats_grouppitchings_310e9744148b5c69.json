@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 28,
+            "gamesPlayed": 17,
+            "gamesStarted": 8,
+            "groundOuts": 73,
+            "airOuts": 72,
+            "runs": 29,
+            "doubles": 7,
+            "triples": 0,
+            "homeRuns": 12,
+            "strikeOuts": 42,
+            "baseOnBalls": 16,
+            "intentionalWalks": 1,
+            "hits": 57,
+            "hitByPitch": 2,
+            "avg": ".237",
+            "atBats": 241,
+            "obp": ".288",
+            "slg": ".415",
+            "ops": ".703",
+            "caughtStealing": 2,
+            "stolenBases": 1,
+            "stolenBasePercentage": ".333",
+            "caughtStealingPercentage": ".667",
+            "groundIntoDoublePlay": 8,
+            "numberOfPitches": 1023,
+            "era": "3.86",
+            "inningsPitched": "65.1",
+            "wins": 6,
+            "losses": 1,
+            "saves": 1,
+            "saveOpportunities": 1,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 28,
+            "whip": "1.12",
+            "battersFaced": 262,
+            "outs": 196,
+            "gamesPitched": 17,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 644,
+            "strikePercentage": ".630",
+            "hitBatsmen": 2,
+            "balks": 0,
+            "wildPitches": 1,
+            "pickoffs": 1,
+            "totalBases": 100,
+            "groundOutsToAirouts": "1.01",
+            "winPercentage": ".857",
+            "pitchesPerInning": "15.66",
+            "gamesFinished": 4,
+            "strikeoutWalkRatio": "2.63",
+            "strikeoutsPer9Inn": "5.79",
+            "walksPer9Inn": "2.20",
+            "hitsPer9Inn": "7.85",
+            "runsScoredPer9": "3.99",
+            "homeRunsPer9": "1.65",
+            "inheritedRunners": 9,
+            "inheritedRunnersScored": 4,
+            "catchersInterference": 0,
+            "sacBunts": 2,
+            "sacFlies": 1
+          },
+          "team": {
+            "id": 112,
+            "name": "Chicago Cubs",
+            "link": "/api/v1/teams/112"
+          },
+          "player": {
+            "id": 665871,
+            "fullName": "Javier Assad",
+            "link": "/api/v1/people/665871"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

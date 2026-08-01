@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 26,
+            "gamesPlayed": 20,
+            "gamesStarted": 20,
+            "groundOuts": 74,
+            "airOuts": 114,
+            "runs": 62,
+            "doubles": 17,
+            "triples": 1,
+            "homeRuns": 18,
+            "strikeOuts": 95,
+            "baseOnBalls": 38,
+            "intentionalWalks": 0,
+            "hits": 112,
+            "hitByPitch": 4,
+            "avg": ".289",
+            "atBats": 388,
+            "obp": ".353",
+            "slg": ".477",
+            "ops": ".830",
+            "caughtStealing": 4,
+            "stolenBases": 14,
+            "stolenBasePercentage": ".778",
+            "caughtStealingPercentage": ".222",
+            "groundIntoDoublePlay": 9,
+            "numberOfPitches": 1668,
+            "era": "5.18",
+            "inningsPitched": "99.0",
+            "wins": 5,
+            "losses": 7,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 57,
+            "whip": "1.52",
+            "battersFaced": 437,
+            "outs": 297,
+            "gamesPitched": 20,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 1069,
+            "strikePercentage": ".640",
+            "hitBatsmen": 4,
+            "balks": 0,
+            "wildPitches": 4,
+            "pickoffs": 3,
+            "totalBases": 185,
+            "groundOutsToAirouts": "0.65",
+            "winPercentage": ".417",
+            "pitchesPerInning": "16.85",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "2.50",
+            "strikeoutsPer9Inn": "8.64",
+            "walksPer9Inn": "3.45",
+            "hitsPer9Inn": "10.18",
+            "runsScoredPer9": "5.64",
+            "homeRunsPer9": "1.64",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 1,
+            "sacFlies": 6
+          },
+          "team": {
+            "id": 138,
+            "name": "St. Louis Cardinals",
+            "link": "/api/v1/teams/138"
+          },
+          "player": {
+            "id": 669461,
+            "fullName": "Matthew Liberatore",
+            "link": "/api/v1/people/669461"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

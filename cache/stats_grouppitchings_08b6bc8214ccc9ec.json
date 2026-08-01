@@ -1,0 +1,85 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "gamesPlayed": 104,
+            "gamesStarted": 104,
+            "groundOuts": 890,
+            "airOuts": 916,
+            "runs": 409,
+            "doubles": 165,
+            "triples": 15,
+            "homeRuns": 101,
+            "strikeOuts": 880,
+            "baseOnBalls": 317,
+            "intentionalWalks": 7,
+            "hits": 803,
+            "hitByPitch": 45,
+            "avg": ".233",
+            "atBats": 3448,
+            "obp": ".304",
+            "slg": ".377",
+            "ops": ".681",
+            "caughtStealing": 21,
+            "stolenBases": 64,
+            "stolenBasePercentage": ".753",
+            "caughtStealingPercentage": ".247",
+            "groundIntoDoublePlay": 67,
+            "numberOfPitches": 14772,
+            "era": "3.61",
+            "inningsPitched": "917.2",
+            "wins": 50,
+            "losses": 54,
+            "saves": 21,
+            "saveOpportunities": 43,
+            "holds": 47,
+            "blownSaves": 22,
+            "earnedRuns": 368,
+            "whip": "1.22",
+            "battersFaced": 3851,
+            "outs": 2753,
+            "gamesPitched": 104,
+            "completeGames": 0,
+            "shutouts": 8,
+            "strikes": 9521,
+            "strikePercentage": ".640",
+            "hitBatsmen": 45,
+            "balks": 3,
+            "wildPitches": 23,
+            "pickoffs": 8,
+            "totalBases": 1301,
+            "groundOutsToAirouts": "0.97",
+            "winPercentage": ".481",
+            "pitchesPerInning": "16.10",
+            "gamesFinished": 104,
+            "strikeoutWalkRatio": "2.78",
+            "strikeoutsPer9Inn": "8.63",
+            "walksPer9Inn": "3.11",
+            "hitsPer9Inn": "7.88",
+            "runsScoredPer9": "4.01",
+            "homeRunsPer9": "0.99",
+            "catchersInterference": 0,
+            "sacBunts": 20,
+            "sacFlies": 21
+          },
+          "team": {
+            "id": 116,
+            "name": "Detroit Tigers",
+            "link": "/api/v1/teams/116"
+          }
+        }
+      ]
+    }
+  ]
+}

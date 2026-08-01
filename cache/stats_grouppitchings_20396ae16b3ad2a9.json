@@ -1,0 +1,85 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "gamesPlayed": 103,
+            "gamesStarted": 103,
+            "groundOuts": 840,
+            "airOuts": 1021,
+            "runs": 432,
+            "doubles": 160,
+            "triples": 9,
+            "homeRuns": 129,
+            "strikeOuts": 821,
+            "baseOnBalls": 273,
+            "intentionalWalks": 20,
+            "hits": 800,
+            "hitByPitch": 36,
+            "avg": ".233",
+            "atBats": 3436,
+            "obp": ".294",
+            "slg": ".397",
+            "ops": ".691",
+            "caughtStealing": 25,
+            "stolenBases": 90,
+            "stolenBasePercentage": ".783",
+            "caughtStealingPercentage": ".217",
+            "groundIntoDoublePlay": 58,
+            "numberOfPitches": 14328,
+            "era": "3.83",
+            "inningsPitched": "915.0",
+            "wins": 60,
+            "losses": 43,
+            "saves": 39,
+            "saveOpportunities": 53,
+            "holds": 78,
+            "blownSaves": 14,
+            "earnedRuns": 389,
+            "whip": "1.17",
+            "battersFaced": 3792,
+            "outs": 2745,
+            "gamesPitched": 103,
+            "completeGames": 0,
+            "shutouts": 6,
+            "strikes": 9394,
+            "strikePercentage": ".660",
+            "hitBatsmen": 36,
+            "balks": 3,
+            "wildPitches": 30,
+            "pickoffs": 4,
+            "totalBases": 1365,
+            "groundOutsToAirouts": "0.82",
+            "winPercentage": ".583",
+            "pitchesPerInning": "15.66",
+            "gamesFinished": 103,
+            "strikeoutWalkRatio": "3.01",
+            "strikeoutsPer9Inn": "8.08",
+            "walksPer9Inn": "2.69",
+            "hitsPer9Inn": "7.87",
+            "runsScoredPer9": "4.25",
+            "homeRunsPer9": "1.27",
+            "catchersInterference": 1,
+            "sacBunts": 14,
+            "sacFlies": 31
+          },
+          "team": {
+            "id": 139,
+            "name": "Tampa Bay Rays",
+            "link": "/api/v1/teams/139"
+          }
+        }
+      ]
+    }
+  ]
+}

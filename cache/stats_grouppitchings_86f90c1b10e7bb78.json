@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 27,
+            "gamesPlayed": 22,
+            "gamesStarted": 22,
+            "groundOuts": 92,
+            "airOuts": 123,
+            "runs": 62,
+            "doubles": 23,
+            "triples": 3,
+            "homeRuns": 14,
+            "strikeOuts": 127,
+            "baseOnBalls": 44,
+            "intentionalWalks": 0,
+            "hits": 107,
+            "hitByPitch": 5,
+            "avg": ".241",
+            "atBats": 444,
+            "obp": ".315",
+            "slg": ".401",
+            "ops": ".716",
+            "caughtStealing": 0,
+            "stolenBases": 5,
+            "stolenBasePercentage": "1.000",
+            "caughtStealingPercentage": ".000",
+            "groundIntoDoublePlay": 6,
+            "numberOfPitches": 1973,
+            "era": "4.82",
+            "inningsPitched": "115.2",
+            "wins": 6,
+            "losses": 8,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 62,
+            "whip": "1.31",
+            "battersFaced": 498,
+            "outs": 347,
+            "gamesPitched": 22,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 1257,
+            "strikePercentage": ".640",
+            "hitBatsmen": 5,
+            "balks": 0,
+            "wildPitches": 1,
+            "pickoffs": 1,
+            "totalBases": 178,
+            "groundOutsToAirouts": "0.75",
+            "winPercentage": ".429",
+            "pitchesPerInning": "17.06",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "2.89",
+            "strikeoutsPer9Inn": "9.88",
+            "walksPer9Inn": "3.42",
+            "hitsPer9Inn": "8.33",
+            "runsScoredPer9": "4.82",
+            "homeRunsPer9": "1.09",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 2,
+            "sacFlies": 3
+          },
+          "team": {
+            "id": 140,
+            "name": "Texas Rangers",
+            "link": "/api/v1/teams/140"
+          },
+          "player": {
+            "id": 669022,
+            "fullName": "MacKenzie Gore",
+            "link": "/api/v1/people/669022"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

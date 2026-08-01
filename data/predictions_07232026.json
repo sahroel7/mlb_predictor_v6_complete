@@ -1,0 +1,212 @@
+[
+  {
+    "game_pk": 824893,
+    "away_team": "San Diego Padres",
+    "home_team": "Atlanta Braves",
+    "away_win_prob": 0.453,
+    "home_win_prob": 0.547,
+    "predicted_away_score": 3.7,
+    "predicted_home_score": 6.26,
+    "predicted_total": 10.0,
+    "confidence": 0.094,
+    "confidence_level": "LOW",
+    "pick": "Atlanta Braves",
+    "model_breakdown": {
+      "elo": 0.55,
+      "bullpen": 0.5,
+      "pitcher": 0.625,
+      "weather": 0.507,
+      "momentum": 0.528,
+      "injury": 0.5
+    },
+    "pitcher_comparison": {
+      "away_grade": 21.4,
+      "home_grade": 59.0,
+      "advantage": -0.623
+    },
+    "weather_impact": {
+      "offense": 0.15,
+      "pitching": -0.15,
+      "overall": 0.15
+    },
+    "mc_simulation": {
+      "away_avg_runs": 3.7,
+      "home_avg_runs": 6.26,
+      "away_win_prob": 0.162,
+      "home_win_prob": 0.744,
+      "tie_prob": 0.094,
+      "over_under_line": 10.0,
+      "away_score_std": 1.89,
+      "home_score_std": 2.51
+    },
+    "date": "07/23/2026"
+  },
+  {
+    "game_pk": 824406,
+    "away_team": "Minnesota Twins",
+    "home_team": "Cleveland Guardians",
+    "away_win_prob": 0.484,
+    "home_win_prob": 0.516,
+    "predicted_away_score": 4.52,
+    "predicted_home_score": 5.08,
+    "predicted_total": 9.6,
+    "confidence": 0.033,
+    "confidence_level": "LOW",
+    "pick": "Cleveland Guardians",
+    "model_breakdown": {
+      "elo": 0.55,
+      "bullpen": 0.5,
+      "pitcher": 0.509,
+      "weather": 0.507,
+      "momentum": 0.512,
+      "injury": 0.5
+    },
+    "pitcher_comparison": {
+      "away_grade": 42.1,
+      "home_grade": 43.9,
+      "advantage": -0.046
+    },
+    "weather_impact": {
+      "offense": 0.15,
+      "pitching": -0.15,
+      "overall": 0.15
+    },
+    "mc_simulation": {
+      "away_avg_runs": 4.52,
+      "home_avg_runs": 5.08,
+      "away_win_prob": 0.365,
+      "home_win_prob": 0.505,
+      "tie_prob": 0.13,
+      "over_under_line": 9.6,
+      "away_score_std": 2.12,
+      "home_score_std": 2.26
+    },
+    "date": "07/23/2026"
+  },
+  {
+    "game_pk": 822785,
+    "away_team": "Tampa Bay Rays",
+    "home_team": "Toronto Blue Jays",
+    "away_win_prob": 0.509,
+    "home_win_prob": 0.491,
+    "predicted_away_score": 5.36,
+    "predicted_home_score": 4.03,
+    "predicted_total": 9.4,
+    "confidence": 0.017,
+    "confidence_level": "LOW",
+    "pick": "Tampa Bay Rays",
+    "model_breakdown": {
+      "elo": 0.55,
+      "bullpen": 0.5,
+      "pitcher": 0.433,
+      "weather": 0.5,
+      "momentum": 0.46,
+      "injury": 0.5
+    },
+    "pitcher_comparison": {
+      "away_grade": 36.9,
+      "home_grade": 14.5,
+      "advantage": 0.333
+    },
+    "weather_impact": {
+      "offense": 0.0,
+      "pitching": 0.0,
+      "overall": 0.0
+    },
+    "mc_simulation": {
+      "away_avg_runs": 5.36,
+      "home_avg_runs": 4.03,
+      "away_win_prob": 0.604,
+      "home_win_prob": 0.272,
+      "tie_prob": 0.124,
+      "over_under_line": 9.4,
+      "away_score_std": 2.31,
+      "home_score_std": 2.0
+    },
+    "date": "07/23/2026"
+  },
+  {
+    "game_pk": 823042,
+    "away_team": "Arizona Diamondbacks",
+    "home_team": "St. Louis Cardinals",
+    "away_win_prob": 0.479,
+    "home_win_prob": 0.521,
+    "predicted_away_score": 4.34,
+    "predicted_home_score": 5.03,
+    "predicted_total": 9.4,
+    "confidence": 0.043,
+    "confidence_level": "LOW",
+    "pick": "St. Louis Cardinals",
+    "model_breakdown": {
+      "elo": 0.55,
+      "bullpen": 0.5,
+      "pitcher": 0.538,
+      "weather": 0.5,
+      "momentum": 0.498,
+      "injury": 0.5
+    },
+    "pitcher_comparison": {
+      "away_grade": 30.8,
+      "home_grade": 42.1,
+      "advantage": -0.19
+    },
+    "weather_impact": {
+      "offense": 0.0,
+      "pitching": 0.0,
+      "overall": 0.0
+    },
+    "mc_simulation": {
+      "away_avg_runs": 4.34,
+      "home_avg_runs": 5.03,
+      "away_win_prob": 0.344,
+      "home_win_prob": 0.529,
+      "tie_prob": 0.127,
+      "over_under_line": 9.4,
+      "away_score_std": 2.08,
+      "home_score_std": 2.25
+    },
+    "date": "07/23/2026"
+  },
+  {
+    "game_pk": 824247,
+    "away_team": "Kansas City Royals",
+    "home_team": "Detroit Tigers",
+    "away_win_prob": 0.467,
+    "home_win_prob": 0.533,
+    "predicted_away_score": 3.74,
+    "predicted_home_score": 5.22,
+    "predicted_total": 9.0,
+    "confidence": 0.067,
+    "confidence_level": "LOW",
+    "pick": "Detroit Tigers",
+    "model_breakdown": {
+      "elo": 0.55,
+      "bullpen": 0.5,
+      "pitcher": 0.577,
+      "weather": 0.505,
+      "momentum": 0.516,
+      "injury": 0.5
+    },
+    "pitcher_comparison": {
+      "away_grade": 33.8,
+      "home_grade": 54.7,
+      "advantage": -0.385
+    },
+    "weather_impact": {
+      "offense": 0.1,
+      "pitching": 0.0,
+      "overall": 0.1
+    },
+    "mc_simulation": {
+      "away_avg_runs": 3.74,
+      "home_avg_runs": 5.22,
+      "away_win_prob": 0.25,
+      "home_win_prob": 0.627,
+      "tie_prob": 0.122,
+      "over_under_line": 9.0,
+      "away_score_std": 1.94,
+      "home_score_std": 2.27
+    },
+    "date": "07/23/2026"
+  }
+]

@@ -1,0 +1,59 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "gamesPlayed": 104,
+            "groundOuts": 873,
+            "airOuts": 974,
+            "runs": 421,
+            "doubles": 129,
+            "triples": 12,
+            "homeRuns": 123,
+            "strikeOuts": 872,
+            "baseOnBalls": 326,
+            "intentionalWalks": 9,
+            "hits": 816,
+            "hitByPitch": 35,
+            "avg": ".233",
+            "atBats": 3497,
+            "obp": ".303",
+            "slg": ".383",
+            "ops": ".686",
+            "caughtStealing": 23,
+            "stolenBases": 51,
+            "stolenBasePercentage": ".689",
+            "caughtStealingPercentage": ".311",
+            "groundIntoDoublePlay": 73,
+            "numberOfPitches": 15288,
+            "plateAppearances": 3900,
+            "totalBases": 1338,
+            "rbi": 401,
+            "leftOnBase": 692,
+            "sacBunts": 14,
+            "sacFlies": 24,
+            "babip": ".274",
+            "groundOutsToAirouts": "0.90",
+            "catchersInterference": 4,
+            "atBatsPerHomeRun": "28.43"
+          },
+          "team": {
+            "id": 121,
+            "name": "New York Mets",
+            "link": "/api/v1/teams/121"
+          }
+        }
+      ]
+    }
+  ]
+}

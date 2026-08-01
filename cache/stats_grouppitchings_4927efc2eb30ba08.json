@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 26,
+            "gamesPlayed": 21,
+            "gamesStarted": 21,
+            "groundOuts": 112,
+            "airOuts": 98,
+            "runs": 56,
+            "doubles": 21,
+            "triples": 1,
+            "homeRuns": 20,
+            "strikeOuts": 156,
+            "baseOnBalls": 37,
+            "intentionalWalks": 0,
+            "hits": 102,
+            "hitByPitch": 3,
+            "avg": ".219",
+            "atBats": 466,
+            "obp": ".281",
+            "slg": ".397",
+            "ops": ".678",
+            "caughtStealing": 4,
+            "stolenBases": 10,
+            "stolenBasePercentage": ".714",
+            "caughtStealingPercentage": ".286",
+            "groundIntoDoublePlay": 7,
+            "numberOfPitches": 1978,
+            "era": "3.78",
+            "inningsPitched": "126.1",
+            "wins": 10,
+            "losses": 5,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 53,
+            "whip": "1.10",
+            "battersFaced": 508,
+            "outs": 379,
+            "gamesPitched": 21,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 1331,
+            "strikePercentage": ".670",
+            "hitBatsmen": 3,
+            "balks": 0,
+            "wildPitches": 3,
+            "pickoffs": 4,
+            "totalBases": 185,
+            "groundOutsToAirouts": "1.14",
+            "winPercentage": ".667",
+            "pitchesPerInning": "15.66",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "4.22",
+            "strikeoutsPer9Inn": "11.11",
+            "walksPer9Inn": "2.64",
+            "hitsPer9Inn": "7.27",
+            "runsScoredPer9": "3.99",
+            "homeRunsPer9": "1.42",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 2,
+            "sacFlies": 0
+          },
+          "team": {
+            "id": 114,
+            "name": "Cleveland Guardians",
+            "link": "/api/v1/teams/114"
+          },
+          "player": {
+            "id": 668909,
+            "fullName": "Gavin Williams",
+            "link": "/api/v1/people/668909"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 26,
+            "gamesPlayed": 22,
+            "gamesStarted": 22,
+            "groundOuts": 94,
+            "airOuts": 103,
+            "runs": 55,
+            "doubles": 22,
+            "triples": 2,
+            "homeRuns": 13,
+            "strikeOuts": 116,
+            "baseOnBalls": 53,
+            "intentionalWalks": 0,
+            "hits": 107,
+            "hitByPitch": 2,
+            "avg": ".257",
+            "atBats": 416,
+            "obp": ".342",
+            "slg": ".413",
+            "ops": ".755",
+            "caughtStealing": 5,
+            "stolenBases": 12,
+            "stolenBasePercentage": ".706",
+            "caughtStealingPercentage": ".294",
+            "groundIntoDoublePlay": 10,
+            "numberOfPitches": 1888,
+            "era": "4.02",
+            "inningsPitched": "109.2",
+            "wins": 8,
+            "losses": 6,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 49,
+            "whip": "1.46",
+            "battersFaced": 475,
+            "outs": 329,
+            "gamesPitched": 22,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 1187,
+            "strikePercentage": ".630",
+            "hitBatsmen": 2,
+            "balks": 0,
+            "wildPitches": 5,
+            "pickoffs": 0,
+            "totalBases": 172,
+            "groundOutsToAirouts": "0.91",
+            "winPercentage": ".571",
+            "pitchesPerInning": "17.22",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "2.19",
+            "strikeoutsPer9Inn": "9.52",
+            "walksPer9Inn": "4.35",
+            "hitsPer9Inn": "8.78",
+            "runsScoredPer9": "4.51",
+            "homeRunsPer9": "1.07",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 2,
+            "sacFlies": 2
+          },
+          "team": {
+            "id": 114,
+            "name": "Cleveland Guardians",
+            "link": "/api/v1/teams/114"
+          },
+          "player": {
+            "id": 676282,
+            "fullName": "Joey Cantillo",
+            "link": "/api/v1/people/676282"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

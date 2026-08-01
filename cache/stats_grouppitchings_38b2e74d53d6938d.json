@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 38,
+            "gamesPlayed": 20,
+            "gamesStarted": 20,
+            "groundOuts": 81,
+            "airOuts": 115,
+            "runs": 45,
+            "doubles": 16,
+            "triples": 1,
+            "homeRuns": 16,
+            "strikeOuts": 132,
+            "baseOnBalls": 24,
+            "intentionalWalks": 2,
+            "hits": 94,
+            "hitByPitch": 0,
+            "avg": ".224",
+            "atBats": 420,
+            "obp": ".265",
+            "slg": ".381",
+            "ops": ".646",
+            "caughtStealing": 4,
+            "stolenBases": 4,
+            "stolenBasePercentage": ".500",
+            "caughtStealingPercentage": ".500",
+            "groundIntoDoublePlay": 2,
+            "numberOfPitches": 1792,
+            "era": "3.67",
+            "inningsPitched": "110.1",
+            "wins": 7,
+            "losses": 6,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 45,
+            "whip": "1.07",
+            "battersFaced": 446,
+            "outs": 331,
+            "gamesPitched": 20,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 1184,
+            "strikePercentage": ".660",
+            "hitBatsmen": 0,
+            "balks": 0,
+            "wildPitches": 3,
+            "pickoffs": 0,
+            "totalBases": 160,
+            "groundOutsToAirouts": "0.70",
+            "winPercentage": ".538",
+            "pitchesPerInning": "16.24",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "5.50",
+            "strikeoutsPer9Inn": "10.77",
+            "walksPer9Inn": "1.96",
+            "hitsPer9Inn": "7.67",
+            "runsScoredPer9": "3.67",
+            "homeRunsPer9": "1.31",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 1,
+            "sacFlies": 1
+          },
+          "team": {
+            "id": 140,
+            "name": "Texas Rangers",
+            "link": "/api/v1/teams/140"
+          },
+          "player": {
+            "id": 594798,
+            "fullName": "Jacob deGrom",
+            "link": "/api/v1/people/594798"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

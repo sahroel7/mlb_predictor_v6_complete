@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 30,
+            "gamesPlayed": 21,
+            "gamesStarted": 21,
+            "groundOuts": 131,
+            "airOuts": 119,
+            "runs": 43,
+            "doubles": 17,
+            "triples": 0,
+            "homeRuns": 17,
+            "strikeOuts": 113,
+            "baseOnBalls": 28,
+            "intentionalWalks": 0,
+            "hits": 100,
+            "hitByPitch": 8,
+            "avg": ".217",
+            "atBats": 460,
+            "obp": ".274",
+            "slg": ".365",
+            "ops": ".639",
+            "caughtStealing": 0,
+            "stolenBases": 6,
+            "stolenBasePercentage": "1.000",
+            "caughtStealingPercentage": ".000",
+            "groundIntoDoublePlay": 14,
+            "numberOfPitches": 1976,
+            "era": "2.76",
+            "inningsPitched": "124.0",
+            "wins": 12,
+            "losses": 2,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 38,
+            "whip": "1.03",
+            "battersFaced": 499,
+            "outs": 372,
+            "gamesPitched": 21,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 1314,
+            "strikePercentage": ".660",
+            "hitBatsmen": 8,
+            "balks": 1,
+            "wildPitches": 3,
+            "pickoffs": 0,
+            "totalBases": 168,
+            "groundOutsToAirouts": "1.10",
+            "winPercentage": ".857",
+            "pitchesPerInning": "15.94",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "4.04",
+            "strikeoutsPer9Inn": "8.20",
+            "walksPer9Inn": "2.03",
+            "hitsPer9Inn": "7.26",
+            "runsScoredPer9": "3.12",
+            "homeRunsPer9": "1.23",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 2,
+            "sacFlies": 1
+          },
+          "team": {
+            "id": 120,
+            "name": "Washington Nationals",
+            "link": "/api/v1/teams/120"
+          },
+          "player": {
+            "id": 656492,
+            "fullName": "Foster Griffin",
+            "link": "/api/v1/people/656492"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 25,
+            "gamesPlayed": 14,
+            "gamesStarted": 14,
+            "groundOuts": 63,
+            "airOuts": 73,
+            "runs": 46,
+            "doubles": 11,
+            "triples": 2,
+            "homeRuns": 8,
+            "strikeOuts": 76,
+            "baseOnBalls": 26,
+            "intentionalWalks": 0,
+            "hits": 68,
+            "hitByPitch": 5,
+            "avg": ".249",
+            "atBats": 273,
+            "obp": ".321",
+            "slg": ".392",
+            "ops": ".713",
+            "caughtStealing": 1,
+            "stolenBases": 5,
+            "stolenBasePercentage": ".833",
+            "caughtStealingPercentage": ".167",
+            "groundIntoDoublePlay": 7,
+            "numberOfPitches": 1228,
+            "era": "4.73",
+            "inningsPitched": "72.1",
+            "wins": 3,
+            "losses": 5,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 38,
+            "whip": "1.30",
+            "battersFaced": 312,
+            "outs": 217,
+            "gamesPitched": 14,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 783,
+            "strikePercentage": ".640",
+            "hitBatsmen": 5,
+            "balks": 2,
+            "wildPitches": 1,
+            "pickoffs": 0,
+            "totalBases": 107,
+            "groundOutsToAirouts": "0.86",
+            "winPercentage": ".375",
+            "pitchesPerInning": "16.98",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "2.92",
+            "strikeoutsPer9Inn": "9.46",
+            "walksPer9Inn": "3.24",
+            "hitsPer9Inn": "8.46",
+            "runsScoredPer9": "5.72",
+            "homeRunsPer9": "1.00",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 1,
+            "sacBunts": 3,
+            "sacFlies": 4
+          },
+          "team": {
+            "id": 142,
+            "name": "Minnesota Twins",
+            "link": "/api/v1/teams/142"
+          },
+          "player": {
+            "id": 687570,
+            "fullName": "Connor Prielipp",
+            "link": "/api/v1/people/687570"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

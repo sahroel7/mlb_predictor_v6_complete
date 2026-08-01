@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 28,
+            "gamesPlayed": 19,
+            "gamesStarted": 19,
+            "groundOuts": 114,
+            "airOuts": 108,
+            "runs": 50,
+            "doubles": 24,
+            "triples": 2,
+            "homeRuns": 11,
+            "strikeOuts": 104,
+            "baseOnBalls": 25,
+            "intentionalWalks": 0,
+            "hits": 124,
+            "hitByPitch": 2,
+            "avg": ".276",
+            "atBats": 449,
+            "obp": ".317",
+            "slg": ".412",
+            "ops": ".729",
+            "caughtStealing": 3,
+            "stolenBases": 13,
+            "stolenBasePercentage": ".813",
+            "caughtStealingPercentage": ".188",
+            "groundIntoDoublePlay": 15,
+            "numberOfPitches": 1748,
+            "era": "3.57",
+            "inningsPitched": "116.0",
+            "wins": 8,
+            "losses": 8,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 46,
+            "whip": "1.28",
+            "battersFaced": 477,
+            "outs": 348,
+            "gamesPitched": 19,
+            "completeGames": 1,
+            "shutouts": 0,
+            "strikes": 1181,
+            "strikePercentage": ".680",
+            "hitBatsmen": 2,
+            "balks": 0,
+            "wildPitches": 0,
+            "pickoffs": 2,
+            "totalBases": 185,
+            "groundOutsToAirouts": "1.06",
+            "winPercentage": ".500",
+            "pitchesPerInning": "15.07",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "4.16",
+            "strikeoutsPer9Inn": "8.07",
+            "walksPer9Inn": "1.94",
+            "hitsPer9Inn": "9.62",
+            "runsScoredPer9": "3.88",
+            "homeRunsPer9": "0.85",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 0,
+            "sacFlies": 1
+          },
+          "team": {
+            "id": 136,
+            "name": "Seattle Mariners",
+            "link": "/api/v1/teams/136"
+          },
+          "player": {
+            "id": 669923,
+            "fullName": "George Kirby",
+            "link": "/api/v1/people/669923"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

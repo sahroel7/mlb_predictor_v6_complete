@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 22,
+            "gamesPlayed": 12,
+            "gamesStarted": 12,
+            "groundOuts": 51,
+            "airOuts": 64,
+            "runs": 39,
+            "doubles": 12,
+            "triples": 2,
+            "homeRuns": 9,
+            "strikeOuts": 49,
+            "baseOnBalls": 29,
+            "intentionalWalks": 0,
+            "hits": 54,
+            "hitByPitch": 6,
+            "avg": ".252",
+            "atBats": 214,
+            "obp": ".356",
+            "slg": ".453",
+            "ops": ".809",
+            "caughtStealing": 5,
+            "stolenBases": 4,
+            "stolenBasePercentage": ".444",
+            "caughtStealingPercentage": ".556",
+            "groundIntoDoublePlay": 4,
+            "numberOfPitches": 985,
+            "era": "6.04",
+            "inningsPitched": "56.2",
+            "wins": 3,
+            "losses": 7,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 38,
+            "whip": "1.46",
+            "battersFaced": 253,
+            "outs": 170,
+            "gamesPitched": 12,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 610,
+            "strikePercentage": ".620",
+            "hitBatsmen": 6,
+            "balks": 1,
+            "wildPitches": 2,
+            "pickoffs": 0,
+            "totalBases": 97,
+            "groundOutsToAirouts": "0.80",
+            "winPercentage": ".300",
+            "pitchesPerInning": "17.38",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "1.69",
+            "strikeoutsPer9Inn": "7.78",
+            "walksPer9Inn": "4.61",
+            "hitsPer9Inn": "8.58",
+            "runsScoredPer9": "6.19",
+            "homeRunsPer9": "1.43",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 3,
+            "sacFlies": 1
+          },
+          "team": {
+            "id": 145,
+            "name": "Chicago White Sox",
+            "link": "/api/v1/teams/145"
+          },
+          "player": {
+            "id": 702273,
+            "fullName": "Noah Schultz",
+            "link": "/api/v1/people/702273"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

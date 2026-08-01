@@ -1,0 +1,59 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "gamesPlayed": 105,
+            "groundOuts": 830,
+            "airOuts": 968,
+            "runs": 500,
+            "doubles": 192,
+            "triples": 21,
+            "homeRuns": 118,
+            "strikeOuts": 904,
+            "baseOnBalls": 331,
+            "intentionalWalks": 6,
+            "hits": 908,
+            "hitByPitch": 56,
+            "avg": ".255",
+            "atBats": 3563,
+            "obp": ".325",
+            "slg": ".420",
+            "ops": ".745",
+            "caughtStealing": 31,
+            "stolenBases": 71,
+            "stolenBasePercentage": ".696",
+            "caughtStealingPercentage": ".304",
+            "groundIntoDoublePlay": 59,
+            "numberOfPitches": 14918,
+            "plateAppearances": 3997,
+            "totalBases": 1496,
+            "rbi": 479,
+            "leftOnBase": 712,
+            "sacBunts": 13,
+            "sacFlies": 34,
+            "babip": ".307",
+            "groundOutsToAirouts": "0.86",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "30.20"
+          },
+          "team": {
+            "id": 115,
+            "name": "Colorado Rockies",
+            "link": "/api/v1/teams/115"
+          }
+        }
+      ]
+    }
+  ]
+}

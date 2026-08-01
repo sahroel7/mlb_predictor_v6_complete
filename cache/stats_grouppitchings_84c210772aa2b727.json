@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 32,
+            "gamesPlayed": 12,
+            "gamesStarted": 12,
+            "groundOuts": 70,
+            "airOuts": 67,
+            "runs": 25,
+            "doubles": 10,
+            "triples": 1,
+            "homeRuns": 1,
+            "strikeOuts": 61,
+            "baseOnBalls": 22,
+            "intentionalWalks": 0,
+            "hits": 49,
+            "hitByPitch": 2,
+            "avg": ".202",
+            "atBats": 243,
+            "obp": ".270",
+            "slg": ".263",
+            "ops": ".533",
+            "caughtStealing": 1,
+            "stolenBases": 3,
+            "stolenBasePercentage": ".750",
+            "caughtStealingPercentage": ".250",
+            "groundIntoDoublePlay": 8,
+            "numberOfPitches": 1040,
+            "era": "3.23",
+            "inningsPitched": "69.2",
+            "wins": 4,
+            "losses": 3,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 25,
+            "whip": "1.02",
+            "battersFaced": 271,
+            "outs": 209,
+            "gamesPitched": 12,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 646,
+            "strikePercentage": ".620",
+            "hitBatsmen": 2,
+            "balks": 0,
+            "wildPitches": 0,
+            "pickoffs": 2,
+            "totalBases": 64,
+            "groundOutsToAirouts": "1.04",
+            "winPercentage": ".571",
+            "pitchesPerInning": "14.93",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "2.77",
+            "strikeoutsPer9Inn": "7.88",
+            "walksPer9Inn": "2.84",
+            "hitsPer9Inn": "6.33",
+            "runsScoredPer9": "3.23",
+            "homeRunsPer9": "0.13",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 1,
+            "sacFlies": 3
+          },
+          "team": {
+            "id": 147,
+            "name": "New York Yankees",
+            "link": "/api/v1/teams/147"
+          },
+          "player": {
+            "id": 608331,
+            "fullName": "Max Fried",
+            "link": "/api/v1/people/608331"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

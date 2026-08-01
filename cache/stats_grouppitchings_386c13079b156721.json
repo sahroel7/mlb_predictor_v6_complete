@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 25,
+            "gamesPlayed": 10,
+            "gamesStarted": 10,
+            "groundOuts": 61,
+            "airOuts": 68,
+            "runs": 17,
+            "doubles": 7,
+            "triples": 0,
+            "homeRuns": 4,
+            "strikeOuts": 42,
+            "baseOnBalls": 9,
+            "intentionalWalks": 1,
+            "hits": 47,
+            "hitByPitch": 2,
+            "avg": ".220",
+            "atBats": 214,
+            "obp": ".254",
+            "slg": ".308",
+            "ops": ".562",
+            "caughtStealing": 0,
+            "stolenBases": 8,
+            "stolenBasePercentage": "1.000",
+            "caughtStealingPercentage": ".000",
+            "groundIntoDoublePlay": 7,
+            "numberOfPitches": 803,
+            "era": "2.58",
+            "inningsPitched": "59.1",
+            "wins": 6,
+            "losses": 3,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 17,
+            "whip": "0.94",
+            "battersFaced": 229,
+            "outs": 178,
+            "gamesPitched": 10,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 546,
+            "strikePercentage": ".680",
+            "hitBatsmen": 2,
+            "balks": 0,
+            "wildPitches": 2,
+            "pickoffs": 0,
+            "totalBases": 66,
+            "groundOutsToAirouts": "0.90",
+            "winPercentage": ".667",
+            "pitchesPerInning": "13.53",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "4.67",
+            "strikeoutsPer9Inn": "6.37",
+            "walksPer9Inn": "1.37",
+            "hitsPer9Inn": "7.13",
+            "runsScoredPer9": "2.58",
+            "homeRunsPer9": "0.61",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 1,
+            "sacFlies": 3
+          },
+          "team": {
+            "id": 111,
+            "name": "Boston Red Sox",
+            "link": "/api/v1/teams/111"
+          },
+          "player": {
+            "id": 687562,
+            "fullName": "Jake Bennett",
+            "link": "/api/v1/people/687562"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

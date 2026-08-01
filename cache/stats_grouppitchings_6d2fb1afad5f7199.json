@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 33,
+            "gamesPlayed": 21,
+            "gamesStarted": 21,
+            "groundOuts": 127,
+            "airOuts": 140,
+            "runs": 38,
+            "doubles": 24,
+            "triples": 3,
+            "homeRuns": 13,
+            "strikeOuts": 86,
+            "baseOnBalls": 44,
+            "intentionalWalks": 0,
+            "hits": 108,
+            "hitByPitch": 0,
+            "avg": ".236",
+            "atBats": 458,
+            "obp": ".303",
+            "slg": ".386",
+            "ops": ".689",
+            "caughtStealing": 1,
+            "stolenBases": 6,
+            "stolenBasePercentage": ".857",
+            "caughtStealingPercentage": ".143",
+            "groundIntoDoublePlay": 14,
+            "numberOfPitches": 1953,
+            "era": "2.64",
+            "inningsPitched": "122.2",
+            "wins": 9,
+            "losses": 3,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 36,
+            "whip": "1.24",
+            "battersFaced": 505,
+            "outs": 368,
+            "gamesPitched": 21,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 1222,
+            "strikePercentage": ".630",
+            "hitBatsmen": 0,
+            "balks": 1,
+            "wildPitches": 0,
+            "pickoffs": 0,
+            "totalBases": 177,
+            "groundOutsToAirouts": "0.91",
+            "winPercentage": ".750",
+            "pitchesPerInning": "15.92",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "1.95",
+            "strikeoutsPer9Inn": "6.31",
+            "walksPer9Inn": "3.23",
+            "hitsPer9Inn": "7.92",
+            "runsScoredPer9": "2.79",
+            "homeRunsPer9": "0.95",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 3,
+            "sacFlies": 0
+          },
+          "team": {
+            "id": 109,
+            "name": "Arizona Diamondbacks",
+            "link": "/api/v1/teams/109"
+          },
+          "player": {
+            "id": 593958,
+            "fullName": "Eduardo Rodriguez",
+            "link": "/api/v1/people/593958"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

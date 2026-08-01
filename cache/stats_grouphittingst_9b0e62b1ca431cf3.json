@@ -1,0 +1,59 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "gamesPlayed": 104,
+            "groundOuts": 790,
+            "airOuts": 912,
+            "runs": 448,
+            "doubles": 157,
+            "triples": 11,
+            "homeRuns": 113,
+            "strikeOuts": 987,
+            "baseOnBalls": 335,
+            "intentionalWalks": 11,
+            "hits": 838,
+            "hitByPitch": 60,
+            "avg": ".240",
+            "atBats": 3495,
+            "obp": ".315",
+            "slg": ".388",
+            "ops": ".703",
+            "caughtStealing": 18,
+            "stolenBases": 53,
+            "stolenBasePercentage": ".746",
+            "caughtStealingPercentage": ".254",
+            "groundIntoDoublePlay": 78,
+            "numberOfPitches": 15268,
+            "plateAppearances": 3924,
+            "totalBases": 1356,
+            "rbi": 432,
+            "leftOnBase": 705,
+            "sacBunts": 12,
+            "sacFlies": 20,
+            "babip": ".300",
+            "groundOutsToAirouts": "0.87",
+            "catchersInterference": 2,
+            "atBatsPerHomeRun": "30.93"
+          },
+          "team": {
+            "id": 108,
+            "name": "Los Angeles Angels",
+            "link": "/api/v1/teams/108"
+          }
+        }
+      ]
+    }
+  ]
+}

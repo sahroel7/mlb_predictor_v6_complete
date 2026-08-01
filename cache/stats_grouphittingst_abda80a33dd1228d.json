@@ -1,0 +1,59 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "gamesPlayed": 103,
+            "groundOuts": 873,
+            "airOuts": 995,
+            "runs": 424,
+            "doubles": 185,
+            "triples": 22,
+            "homeRuns": 116,
+            "strikeOuts": 812,
+            "baseOnBalls": 259,
+            "intentionalWalks": 14,
+            "hits": 888,
+            "hitByPitch": 33,
+            "avg": ".252",
+            "atBats": 3518,
+            "obp": ".307",
+            "slg": ".416",
+            "ops": ".723",
+            "caughtStealing": 12,
+            "stolenBases": 40,
+            "stolenBasePercentage": ".769",
+            "caughtStealingPercentage": ".231",
+            "groundIntoDoublePlay": 62,
+            "numberOfPitches": 14827,
+            "plateAppearances": 3860,
+            "totalBases": 1465,
+            "rbi": 408,
+            "leftOnBase": 696,
+            "sacBunts": 20,
+            "sacFlies": 30,
+            "babip": ".295",
+            "groundOutsToAirouts": "0.88",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "30.33"
+          },
+          "team": {
+            "id": 137,
+            "name": "San Francisco Giants",
+            "link": "/api/v1/teams/137"
+          }
+        }
+      ]
+    }
+  ]
+}

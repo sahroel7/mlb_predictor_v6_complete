@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 26,
+            "gamesPlayed": 17,
+            "gamesStarted": 17,
+            "groundOuts": 69,
+            "airOuts": 98,
+            "runs": 47,
+            "doubles": 10,
+            "triples": 0,
+            "homeRuns": 12,
+            "strikeOuts": 87,
+            "baseOnBalls": 50,
+            "intentionalWalks": 0,
+            "hits": 68,
+            "hitByPitch": 14,
+            "avg": ".215",
+            "atBats": 317,
+            "obp": ".344",
+            "slg": ".360",
+            "ops": ".704",
+            "caughtStealing": 3,
+            "stolenBases": 19,
+            "stolenBasePercentage": ".864",
+            "caughtStealingPercentage": ".136",
+            "groundIntoDoublePlay": 6,
+            "numberOfPitches": 1504,
+            "era": "4.60",
+            "inningsPitched": "88.0",
+            "wins": 7,
+            "losses": 5,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 45,
+            "whip": "1.34",
+            "battersFaced": 386,
+            "outs": 264,
+            "gamesPitched": 17,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 896,
+            "strikePercentage": ".600",
+            "hitBatsmen": 14,
+            "balks": 1,
+            "wildPitches": 1,
+            "pickoffs": 0,
+            "totalBases": 114,
+            "groundOutsToAirouts": "0.70",
+            "winPercentage": ".583",
+            "pitchesPerInning": "17.09",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "1.74",
+            "strikeoutsPer9Inn": "8.90",
+            "walksPer9Inn": "5.11",
+            "hitsPer9Inn": "6.95",
+            "runsScoredPer9": "4.81",
+            "homeRunsPer9": "1.23",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 2,
+            "sacFlies": 3
+          },
+          "team": {
+            "id": 117,
+            "name": "Houston Astros",
+            "link": "/api/v1/teams/117"
+          },
+          "player": {
+            "id": 681293,
+            "fullName": "Spencer Arrighetti",
+            "link": "/api/v1/people/681293"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

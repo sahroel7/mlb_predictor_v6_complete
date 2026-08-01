@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 34,
+            "gamesPlayed": 25,
+            "gamesStarted": 1,
+            "groundOuts": 36,
+            "airOuts": 55,
+            "runs": 18,
+            "doubles": 5,
+            "triples": 2,
+            "homeRuns": 3,
+            "strikeOuts": 28,
+            "baseOnBalls": 16,
+            "intentionalWalks": 1,
+            "hits": 31,
+            "hitByPitch": 3,
+            "avg": ".208",
+            "atBats": 149,
+            "obp": ".298",
+            "slg": ".329",
+            "ops": ".627",
+            "caughtStealing": 2,
+            "stolenBases": 3,
+            "stolenBasePercentage": ".600",
+            "caughtStealingPercentage": ".400",
+            "groundIntoDoublePlay": 0,
+            "numberOfPitches": 649,
+            "era": "3.86",
+            "inningsPitched": "39.2",
+            "wins": 2,
+            "losses": 0,
+            "saves": 2,
+            "saveOpportunities": 2,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 17,
+            "whip": "1.18",
+            "battersFaced": 169,
+            "outs": 119,
+            "gamesPitched": 25,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 415,
+            "strikePercentage": ".640",
+            "hitBatsmen": 3,
+            "balks": 1,
+            "wildPitches": 0,
+            "pickoffs": 3,
+            "totalBases": 49,
+            "groundOutsToAirouts": "0.65",
+            "winPercentage": "1.000",
+            "pitchesPerInning": "16.36",
+            "gamesFinished": 14,
+            "strikeoutWalkRatio": "1.75",
+            "strikeoutsPer9Inn": "6.35",
+            "walksPer9Inn": "3.63",
+            "hitsPer9Inn": "7.03",
+            "runsScoredPer9": "4.08",
+            "homeRunsPer9": "0.68",
+            "inheritedRunners": 15,
+            "inheritedRunnersScored": 6,
+            "catchersInterference": 0,
+            "sacBunts": 1,
+            "sacFlies": 0
+          },
+          "team": {
+            "id": 147,
+            "name": "New York Yankees",
+            "link": "/api/v1/teams/147"
+          },
+          "player": {
+            "id": 642232,
+            "fullName": "Ryan Yarbrough",
+            "link": "/api/v1/people/642232"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 27,
+            "gamesPlayed": 2,
+            "gamesStarted": 1,
+            "groundOuts": 7,
+            "airOuts": 6,
+            "runs": 5,
+            "doubles": 4,
+            "triples": 0,
+            "homeRuns": 0,
+            "strikeOuts": 10,
+            "baseOnBalls": 4,
+            "intentionalWalks": 0,
+            "hits": 11,
+            "hitByPitch": 0,
+            "avg": ".333",
+            "atBats": 33,
+            "obp": ".395",
+            "slg": ".455",
+            "ops": ".850",
+            "caughtStealing": 0,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".---",
+            "caughtStealingPercentage": ".---",
+            "groundIntoDoublePlay": 0,
+            "numberOfPitches": 164,
+            "era": "2.45",
+            "inningsPitched": "7.1",
+            "wins": 0,
+            "losses": 0,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 2,
+            "whip": "2.05",
+            "battersFaced": 38,
+            "outs": 22,
+            "gamesPitched": 2,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 101,
+            "strikePercentage": ".620",
+            "hitBatsmen": 0,
+            "balks": 0,
+            "wildPitches": 0,
+            "pickoffs": 0,
+            "totalBases": 15,
+            "groundOutsToAirouts": "1.17",
+            "winPercentage": ".---",
+            "pitchesPerInning": "22.36",
+            "gamesFinished": 1,
+            "strikeoutWalkRatio": "2.50",
+            "strikeoutsPer9Inn": "12.27",
+            "walksPer9Inn": "4.91",
+            "hitsPer9Inn": "13.50",
+            "runsScoredPer9": "6.14",
+            "homeRunsPer9": "0.00",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 0,
+            "sacFlies": 1
+          },
+          "team": {
+            "id": 114,
+            "name": "Cleveland Guardians",
+            "link": "/api/v1/teams/114"
+          },
+          "player": {
+            "id": 671106,
+            "fullName": "Logan Allen",
+            "link": "/api/v1/people/671106"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

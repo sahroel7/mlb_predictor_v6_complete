@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 25,
+            "gamesPlayed": 20,
+            "gamesStarted": 20,
+            "groundOuts": 133,
+            "airOuts": 118,
+            "runs": 40,
+            "doubles": 21,
+            "triples": 2,
+            "homeRuns": 15,
+            "strikeOuts": 74,
+            "baseOnBalls": 27,
+            "intentionalWalks": 0,
+            "hits": 102,
+            "hitByPitch": 0,
+            "avg": ".241",
+            "atBats": 424,
+            "obp": ".284",
+            "slg": ".406",
+            "ops": ".690",
+            "caughtStealing": 1,
+            "stolenBases": 3,
+            "stolenBasePercentage": ".750",
+            "caughtStealingPercentage": ".250",
+            "groundIntoDoublePlay": 12,
+            "numberOfPitches": 1777,
+            "era": "3.07",
+            "inningsPitched": "114.1",
+            "wins": 4,
+            "losses": 8,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 39,
+            "whip": "1.13",
+            "battersFaced": 454,
+            "outs": 343,
+            "gamesPitched": 20,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 1104,
+            "strikePercentage": ".620",
+            "hitBatsmen": 0,
+            "balks": 0,
+            "wildPitches": 2,
+            "pickoffs": 1,
+            "totalBases": 172,
+            "groundOutsToAirouts": "1.13",
+            "winPercentage": ".333",
+            "pitchesPerInning": "15.54",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "2.74",
+            "strikeoutsPer9Inn": "5.83",
+            "walksPer9Inn": "2.13",
+            "hitsPer9Inn": "8.03",
+            "runsScoredPer9": "3.15",
+            "homeRunsPer9": "1.18",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 0,
+            "sacFlies": 3
+          },
+          "team": {
+            "id": 138,
+            "name": "St. Louis Cardinals",
+            "link": "/api/v1/teams/138"
+          },
+          "player": {
+            "id": 700241,
+            "fullName": "Michael McGreevy",
+            "link": "/api/v1/people/700241"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

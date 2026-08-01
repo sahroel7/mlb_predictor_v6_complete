@@ -1,0 +1,85 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "gamesPlayed": 105,
+            "gamesStarted": 105,
+            "groundOuts": 811,
+            "airOuts": 1046,
+            "runs": 530,
+            "doubles": 185,
+            "triples": 13,
+            "homeRuns": 126,
+            "strikeOuts": 863,
+            "baseOnBalls": 382,
+            "intentionalWalks": 8,
+            "hits": 905,
+            "hitByPitch": 50,
+            "avg": ".253",
+            "atBats": 3572,
+            "obp": ".331",
+            "slg": ".418",
+            "ops": ".749",
+            "caughtStealing": 15,
+            "stolenBases": 95,
+            "stolenBasePercentage": ".864",
+            "caughtStealingPercentage": ".136",
+            "groundIntoDoublePlay": 65,
+            "numberOfPitches": 15792,
+            "era": "4.69",
+            "inningsPitched": "927.1",
+            "wins": 51,
+            "losses": 54,
+            "saves": 29,
+            "saveOpportunities": 41,
+            "holds": 66,
+            "blownSaves": 12,
+            "earnedRuns": 483,
+            "whip": "1.39",
+            "battersFaced": 4060,
+            "outs": 2782,
+            "gamesPitched": 105,
+            "completeGames": 1,
+            "shutouts": 2,
+            "strikes": 10013,
+            "strikePercentage": ".630",
+            "hitBatsmen": 50,
+            "balks": 6,
+            "wildPitches": 31,
+            "pickoffs": 5,
+            "totalBases": 1494,
+            "groundOutsToAirouts": "0.78",
+            "winPercentage": ".486",
+            "pitchesPerInning": "17.03",
+            "gamesFinished": 104,
+            "strikeoutWalkRatio": "2.26",
+            "strikeoutsPer9Inn": "8.38",
+            "walksPer9Inn": "3.71",
+            "hitsPer9Inn": "8.78",
+            "runsScoredPer9": "5.14",
+            "homeRunsPer9": "1.22",
+            "catchersInterference": 3,
+            "sacBunts": 20,
+            "sacFlies": 33
+          },
+          "team": {
+            "id": 142,
+            "name": "Minnesota Twins",
+            "link": "/api/v1/teams/142"
+          }
+        }
+      ]
+    }
+  ]
+}

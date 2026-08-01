@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 25,
+            "gamesPlayed": 3,
+            "gamesStarted": 3,
+            "groundOuts": 14,
+            "airOuts": 18,
+            "runs": 8,
+            "doubles": 2,
+            "triples": 0,
+            "homeRuns": 3,
+            "strikeOuts": 13,
+            "baseOnBalls": 8,
+            "intentionalWalks": 0,
+            "hits": 14,
+            "hitByPitch": 0,
+            "avg": ".237",
+            "atBats": 59,
+            "obp": ".328",
+            "slg": ".424",
+            "ops": ".752",
+            "caughtStealing": 0,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".---",
+            "caughtStealingPercentage": ".---",
+            "groundIntoDoublePlay": 1,
+            "numberOfPitches": 250,
+            "era": "4.60",
+            "inningsPitched": "15.2",
+            "wins": 2,
+            "losses": 1,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 8,
+            "whip": "1.40",
+            "battersFaced": 67,
+            "outs": 47,
+            "gamesPitched": 3,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 158,
+            "strikePercentage": ".630",
+            "hitBatsmen": 0,
+            "balks": 0,
+            "wildPitches": 2,
+            "pickoffs": 0,
+            "totalBases": 25,
+            "groundOutsToAirouts": "0.78",
+            "winPercentage": ".667",
+            "pitchesPerInning": "15.96",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "1.63",
+            "strikeoutsPer9Inn": "7.47",
+            "walksPer9Inn": "4.60",
+            "hitsPer9Inn": "8.04",
+            "runsScoredPer9": "4.60",
+            "homeRunsPer9": "1.72",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 0,
+            "sacFlies": 0
+          },
+          "team": {
+            "id": 137,
+            "name": "San Francisco Giants",
+            "link": "/api/v1/teams/137"
+          },
+          "player": {
+            "id": 687931,
+            "fullName": "Carson Whisenhunt",
+            "link": "/api/v1/people/687931"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

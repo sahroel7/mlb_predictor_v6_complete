@@ -1,0 +1,59 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "gamesPlayed": 103,
+            "groundOuts": 827,
+            "airOuts": 944,
+            "runs": 432,
+            "doubles": 149,
+            "triples": 16,
+            "homeRuns": 119,
+            "strikeOuts": 862,
+            "baseOnBalls": 330,
+            "intentionalWalks": 5,
+            "hits": 851,
+            "hitByPitch": 50,
+            "avg": ".247",
+            "atBats": 3446,
+            "obp": ".320",
+            "slg": ".403",
+            "ops": ".723",
+            "caughtStealing": 12,
+            "stolenBases": 47,
+            "stolenBasePercentage": ".797",
+            "caughtStealingPercentage": ".203",
+            "groundIntoDoublePlay": 73,
+            "numberOfPitches": 14821,
+            "plateAppearances": 3865,
+            "totalBases": 1389,
+            "rbi": 416,
+            "leftOnBase": 721,
+            "sacBunts": 17,
+            "sacFlies": 21,
+            "babip": ".294",
+            "groundOutsToAirouts": "0.88",
+            "catchersInterference": 1,
+            "atBatsPerHomeRun": "28.96"
+          },
+          "team": {
+            "id": 140,
+            "name": "Texas Rangers",
+            "link": "/api/v1/teams/140"
+          }
+        }
+      ]
+    }
+  ]
+}

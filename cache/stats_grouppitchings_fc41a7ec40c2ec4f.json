@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 33,
+            "gamesPlayed": 19,
+            "gamesStarted": 16,
+            "groundOuts": 89,
+            "airOuts": 112,
+            "runs": 60,
+            "doubles": 20,
+            "triples": 2,
+            "homeRuns": 14,
+            "strikeOuts": 84,
+            "baseOnBalls": 30,
+            "intentionalWalks": 0,
+            "hits": 96,
+            "hitByPitch": 5,
+            "avg": ".257",
+            "atBats": 373,
+            "obp": ".318",
+            "slg": ".434",
+            "ops": ".752",
+            "caughtStealing": 3,
+            "stolenBases": 7,
+            "stolenBasePercentage": ".700",
+            "caughtStealingPercentage": ".300",
+            "groundIntoDoublePlay": 0,
+            "numberOfPitches": 1677,
+            "era": "4.85",
+            "inningsPitched": "94.2",
+            "wins": 3,
+            "losses": 9,
+            "saves": 0,
+            "saveOpportunities": 1,
+            "holds": 1,
+            "blownSaves": 1,
+            "earnedRuns": 51,
+            "whip": "1.33",
+            "battersFaced": 417,
+            "outs": 284,
+            "gamesPitched": 19,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 1111,
+            "strikePercentage": ".660",
+            "hitBatsmen": 5,
+            "balks": 0,
+            "wildPitches": 2,
+            "pickoffs": 1,
+            "totalBases": 162,
+            "groundOutsToAirouts": "0.79",
+            "winPercentage": ".250",
+            "pitchesPerInning": "17.71",
+            "gamesFinished": 2,
+            "strikeoutWalkRatio": "2.80",
+            "strikeoutsPer9Inn": "7.99",
+            "walksPer9Inn": "2.85",
+            "hitsPer9Inn": "9.13",
+            "runsScoredPer9": "5.70",
+            "homeRunsPer9": "1.33",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 1,
+            "sacBunts": 4,
+            "sacFlies": 4
+          },
+          "team": {
+            "id": 136,
+            "name": "Seattle Mariners",
+            "link": "/api/v1/teams/136"
+          },
+          "player": {
+            "id": 622491,
+            "fullName": "Luis Castillo",
+            "link": "/api/v1/people/622491"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

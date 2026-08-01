@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 25,
+            "gamesPlayed": 21,
+            "gamesStarted": 21,
+            "groundOuts": 121,
+            "airOuts": 122,
+            "runs": 39,
+            "doubles": 19,
+            "triples": 4,
+            "homeRuns": 11,
+            "strikeOuts": 122,
+            "baseOnBalls": 36,
+            "intentionalWalks": 2,
+            "hits": 94,
+            "hitByPitch": 1,
+            "avg": ".208",
+            "atBats": 453,
+            "obp": ".266",
+            "slg": ".340",
+            "ops": ".606",
+            "caughtStealing": 0,
+            "stolenBases": 2,
+            "stolenBasePercentage": "1.000",
+            "caughtStealingPercentage": ".000",
+            "groundIntoDoublePlay": 6,
+            "numberOfPitches": 1917,
+            "era": "2.59",
+            "inningsPitched": "125.1",
+            "wins": 8,
+            "losses": 6,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 36,
+            "whip": "1.04",
+            "battersFaced": 496,
+            "outs": 376,
+            "gamesPitched": 21,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 1226,
+            "strikePercentage": ".640",
+            "hitBatsmen": 1,
+            "balks": 1,
+            "wildPitches": 5,
+            "pickoffs": 2,
+            "totalBases": 154,
+            "groundOutsToAirouts": "0.99",
+            "winPercentage": ".571",
+            "pitchesPerInning": "15.30",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "3.39",
+            "strikeoutsPer9Inn": "8.76",
+            "walksPer9Inn": "2.59",
+            "hitsPer9Inn": "6.75",
+            "runsScoredPer9": "2.80",
+            "homeRunsPer9": "0.79",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 3,
+            "sacFlies": 3
+          },
+          "team": {
+            "id": 114,
+            "name": "Cleveland Guardians",
+            "link": "/api/v1/teams/114"
+          },
+          "player": {
+            "id": 800048,
+            "fullName": "Parker Messick",
+            "link": "/api/v1/people/800048"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

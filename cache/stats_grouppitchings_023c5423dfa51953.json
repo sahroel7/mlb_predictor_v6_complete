@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 33,
+            "gamesPlayed": 21,
+            "gamesStarted": 21,
+            "groundOuts": 95,
+            "airOuts": 110,
+            "runs": 72,
+            "doubles": 23,
+            "triples": 3,
+            "homeRuns": 25,
+            "strikeOuts": 112,
+            "baseOnBalls": 36,
+            "intentionalWalks": 2,
+            "hits": 121,
+            "hitByPitch": 1,
+            "avg": ".280",
+            "atBats": 432,
+            "obp": ".334",
+            "slg": ".521",
+            "ops": ".855",
+            "caughtStealing": 3,
+            "stolenBases": 7,
+            "stolenBasePercentage": ".700",
+            "caughtStealingPercentage": ".300",
+            "groundIntoDoublePlay": 5,
+            "numberOfPitches": 1882,
+            "era": "5.82",
+            "inningsPitched": "108.1",
+            "wins": 3,
+            "losses": 8,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 70,
+            "whip": "1.45",
+            "battersFaced": 475,
+            "outs": 325,
+            "gamesPitched": 21,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 1200,
+            "strikePercentage": ".640",
+            "hitBatsmen": 1,
+            "balks": 0,
+            "wildPitches": 2,
+            "pickoffs": 0,
+            "totalBases": 225,
+            "groundOutsToAirouts": "0.86",
+            "winPercentage": ".273",
+            "pitchesPerInning": "17.37",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "3.11",
+            "strikeoutsPer9Inn": "9.30",
+            "walksPer9Inn": "2.99",
+            "hitsPer9Inn": "10.05",
+            "runsScoredPer9": "5.98",
+            "homeRunsPer9": "2.08",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 2,
+            "sacFlies": 4
+          },
+          "team": {
+            "id": 143,
+            "name": "Philadelphia Phillies",
+            "link": "/api/v1/teams/143"
+          },
+          "player": {
+            "id": 605400,
+            "fullName": "Aaron Nola",
+            "link": "/api/v1/people/605400"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

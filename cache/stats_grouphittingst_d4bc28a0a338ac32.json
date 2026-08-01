@@ -1,0 +1,59 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "gamesPlayed": 104,
+            "groundOuts": 816,
+            "airOuts": 907,
+            "runs": 478,
+            "doubles": 160,
+            "triples": 13,
+            "homeRuns": 122,
+            "strikeOuts": 957,
+            "baseOnBalls": 402,
+            "intentionalWalks": 9,
+            "hits": 827,
+            "hitByPitch": 38,
+            "avg": ".239",
+            "atBats": 3464,
+            "obp": ".322",
+            "slg": ".398",
+            "ops": ".720",
+            "caughtStealing": 23,
+            "stolenBases": 57,
+            "stolenBasePercentage": ".713",
+            "caughtStealingPercentage": ".288",
+            "groundIntoDoublePlay": 68,
+            "numberOfPitches": 15732,
+            "plateAppearances": 3949,
+            "totalBases": 1379,
+            "rbi": 460,
+            "leftOnBase": 715,
+            "sacBunts": 14,
+            "sacFlies": 29,
+            "babip": ".292",
+            "groundOutsToAirouts": "0.90",
+            "catchersInterference": 2,
+            "atBatsPerHomeRun": "28.39"
+          },
+          "team": {
+            "id": 110,
+            "name": "Baltimore Orioles",
+            "link": "/api/v1/teams/110"
+          }
+        }
+      ]
+    }
+  ]
+}

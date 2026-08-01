@@ -1,0 +1,85 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "gamesPlayed": 105,
+            "gamesStarted": 105,
+            "groundOuts": 889,
+            "airOuts": 1052,
+            "runs": 598,
+            "doubles": 241,
+            "triples": 31,
+            "homeRuns": 150,
+            "strikeOuts": 743,
+            "baseOnBalls": 341,
+            "intentionalWalks": 17,
+            "hits": 1057,
+            "hitByPitch": 43,
+            "avg": ".287",
+            "atBats": 3681,
+            "obp": ".351",
+            "slg": ".492",
+            "ops": ".843",
+            "caughtStealing": 16,
+            "stolenBases": 75,
+            "stolenBasePercentage": ".824",
+            "caughtStealingPercentage": ".176",
+            "groundIntoDoublePlay": 64,
+            "numberOfPitches": 15601,
+            "era": "5.47",
+            "inningsPitched": "923.1",
+            "wins": 42,
+            "losses": 63,
+            "saves": 25,
+            "saveOpportunities": 41,
+            "holds": 38,
+            "blownSaves": 16,
+            "earnedRuns": 561,
+            "whip": "1.51",
+            "battersFaced": 4127,
+            "outs": 2770,
+            "gamesPitched": 105,
+            "completeGames": 0,
+            "shutouts": 1,
+            "strikes": 9922,
+            "strikePercentage": ".640",
+            "hitBatsmen": 43,
+            "balks": 4,
+            "wildPitches": 29,
+            "pickoffs": 11,
+            "totalBases": 1810,
+            "groundOutsToAirouts": "0.85",
+            "winPercentage": ".400",
+            "pitchesPerInning": "16.90",
+            "gamesFinished": 105,
+            "strikeoutWalkRatio": "2.18",
+            "strikeoutsPer9Inn": "7.24",
+            "walksPer9Inn": "3.32",
+            "hitsPer9Inn": "10.30",
+            "runsScoredPer9": "5.83",
+            "homeRunsPer9": "1.46",
+            "catchersInterference": 2,
+            "sacBunts": 15,
+            "sacFlies": 45
+          },
+          "team": {
+            "id": 115,
+            "name": "Colorado Rockies",
+            "link": "/api/v1/teams/115"
+          }
+        }
+      ]
+    }
+  ]
+}

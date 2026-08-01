@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 26,
+            "gamesPlayed": 19,
+            "gamesStarted": 17,
+            "groundOuts": 97,
+            "airOuts": 99,
+            "runs": 45,
+            "doubles": 13,
+            "triples": 3,
+            "homeRuns": 12,
+            "strikeOuts": 86,
+            "baseOnBalls": 36,
+            "intentionalWalks": 0,
+            "hits": 90,
+            "hitByPitch": 3,
+            "avg": ".244",
+            "atBats": 369,
+            "obp": ".314",
+            "slg": ".393",
+            "ops": ".707",
+            "caughtStealing": 1,
+            "stolenBases": 11,
+            "stolenBasePercentage": ".917",
+            "caughtStealingPercentage": ".083",
+            "groundIntoDoublePlay": 6,
+            "numberOfPitches": 1598,
+            "era": "4.13",
+            "inningsPitched": "96.0",
+            "wins": 3,
+            "losses": 8,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 44,
+            "whip": "1.31",
+            "battersFaced": 411,
+            "outs": 288,
+            "gamesPitched": 19,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 990,
+            "strikePercentage": ".620",
+            "hitBatsmen": 3,
+            "balks": 0,
+            "wildPitches": 6,
+            "pickoffs": 0,
+            "totalBases": 145,
+            "groundOutsToAirouts": "0.98",
+            "winPercentage": ".273",
+            "pitchesPerInning": "16.65",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "2.39",
+            "strikeoutsPer9Inn": "8.06",
+            "walksPer9Inn": "3.38",
+            "hitsPer9Inn": "8.44",
+            "runsScoredPer9": "4.22",
+            "homeRunsPer9": "1.13",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 0,
+            "sacFlies": 3
+          },
+          "team": {
+            "id": 140,
+            "name": "Texas Rangers",
+            "link": "/api/v1/teams/140"
+          },
+          "player": {
+            "id": 677958,
+            "fullName": "Kumar Rocker",
+            "link": "/api/v1/people/677958"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

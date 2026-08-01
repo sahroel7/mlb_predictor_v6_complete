@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 25,
+            "gamesPlayed": 2,
+            "gamesStarted": 2,
+            "groundOuts": 3,
+            "airOuts": 17,
+            "runs": 5,
+            "doubles": 2,
+            "triples": 1,
+            "homeRuns": 2,
+            "strikeOuts": 6,
+            "baseOnBalls": 4,
+            "intentionalWalks": 0,
+            "hits": 9,
+            "hitByPitch": 1,
+            "avg": ".257",
+            "atBats": 35,
+            "obp": ".350",
+            "slg": ".543",
+            "ops": ".893",
+            "caughtStealing": 0,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".---",
+            "caughtStealingPercentage": ".---",
+            "groundIntoDoublePlay": 1,
+            "numberOfPitches": 149,
+            "era": "5.00",
+            "inningsPitched": "9.0",
+            "wins": 0,
+            "losses": 0,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 5,
+            "whip": "1.44",
+            "battersFaced": 40,
+            "outs": 27,
+            "gamesPitched": 2,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 88,
+            "strikePercentage": ".590",
+            "hitBatsmen": 1,
+            "balks": 0,
+            "wildPitches": 0,
+            "pickoffs": 0,
+            "totalBases": 19,
+            "groundOutsToAirouts": "0.18",
+            "winPercentage": ".---",
+            "pitchesPerInning": "16.56",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "1.50",
+            "strikeoutsPer9Inn": "6.00",
+            "walksPer9Inn": "4.00",
+            "hitsPer9Inn": "9.00",
+            "runsScoredPer9": "5.00",
+            "homeRunsPer9": "2.00",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 0,
+            "sacFlies": 0
+          },
+          "team": {
+            "id": 109,
+            "name": "Arizona Diamondbacks",
+            "link": "/api/v1/teams/109"
+          },
+          "player": {
+            "id": 684442,
+            "fullName": "Kohl Drake",
+            "link": "/api/v1/people/684442"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 26,
+            "gamesPlayed": 20,
+            "gamesStarted": 20,
+            "groundOuts": 97,
+            "airOuts": 97,
+            "runs": 57,
+            "doubles": 14,
+            "triples": 2,
+            "homeRuns": 17,
+            "strikeOuts": 122,
+            "baseOnBalls": 30,
+            "intentionalWalks": 0,
+            "hits": 107,
+            "hitByPitch": 3,
+            "avg": ".255",
+            "atBats": 419,
+            "obp": ".308",
+            "slg": ".420",
+            "ops": ".728",
+            "caughtStealing": 4,
+            "stolenBases": 1,
+            "stolenBasePercentage": ".200",
+            "caughtStealingPercentage": ".800",
+            "groundIntoDoublePlay": 6,
+            "numberOfPitches": 1814,
+            "era": "4.25",
+            "inningsPitched": "108.0",
+            "wins": 4,
+            "losses": 7,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 51,
+            "whip": "1.27",
+            "battersFaced": 456,
+            "outs": 324,
+            "gamesPitched": 20,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 1159,
+            "strikePercentage": ".640",
+            "hitBatsmen": 3,
+            "balks": 0,
+            "wildPitches": 5,
+            "pickoffs": 2,
+            "totalBases": 176,
+            "groundOutsToAirouts": "1.00",
+            "winPercentage": ".364",
+            "pitchesPerInning": "16.80",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "4.07",
+            "strikeoutsPer9Inn": "10.17",
+            "walksPer9Inn": "2.50",
+            "hitsPer9Inn": "8.92",
+            "runsScoredPer9": "4.75",
+            "homeRunsPer9": "1.42",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 1,
+            "sacFlies": 3
+          },
+          "team": {
+            "id": 147,
+            "name": "New York Yankees",
+            "link": "/api/v1/teams/147"
+          },
+          "player": {
+            "id": 677960,
+            "fullName": "Ryan Weathers",
+            "link": "/api/v1/people/677960"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 22,
+            "gamesPlayed": 4,
+            "gamesStarted": 4,
+            "groundOuts": 13,
+            "airOuts": 22,
+            "runs": 11,
+            "doubles": 4,
+            "triples": 1,
+            "homeRuns": 4,
+            "strikeOuts": 10,
+            "baseOnBalls": 11,
+            "intentionalWalks": 0,
+            "hits": 20,
+            "hitByPitch": 1,
+            "avg": ".308",
+            "atBats": 65,
+            "obp": ".416",
+            "slg": ".585",
+            "ops": "1.001",
+            "caughtStealing": 2,
+            "stolenBases": 3,
+            "stolenBasePercentage": ".600",
+            "caughtStealingPercentage": ".400",
+            "groundIntoDoublePlay": 1,
+            "numberOfPitches": 288,
+            "era": "6.32",
+            "inningsPitched": "15.2",
+            "wins": 0,
+            "losses": 1,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 11,
+            "whip": "1.98",
+            "battersFaced": 77,
+            "outs": 47,
+            "gamesPitched": 4,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 178,
+            "strikePercentage": ".620",
+            "hitBatsmen": 1,
+            "balks": 0,
+            "wildPitches": 0,
+            "pickoffs": 0,
+            "totalBases": 38,
+            "groundOutsToAirouts": "0.59",
+            "winPercentage": ".000",
+            "pitchesPerInning": "18.38",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "0.91",
+            "strikeoutsPer9Inn": "5.74",
+            "walksPer9Inn": "6.32",
+            "hitsPer9Inn": "11.49",
+            "runsScoredPer9": "6.32",
+            "homeRunsPer9": "2.30",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 0,
+            "sacFlies": 0
+          },
+          "team": {
+            "id": 109,
+            "name": "Arizona Diamondbacks",
+            "link": "/api/v1/teams/109"
+          },
+          "player": {
+            "id": 683352,
+            "fullName": "Mitch Bratt",
+            "link": "/api/v1/people/683352"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 29,
+            "gamesPlayed": 11,
+            "gamesStarted": 11,
+            "groundOuts": 41,
+            "airOuts": 53,
+            "runs": 34,
+            "doubles": 10,
+            "triples": 0,
+            "homeRuns": 7,
+            "strikeOuts": 58,
+            "baseOnBalls": 22,
+            "intentionalWalks": 0,
+            "hits": 48,
+            "hitByPitch": 6,
+            "avg": ".241",
+            "atBats": 199,
+            "obp": ".333",
+            "slg": ".397",
+            "ops": ".730",
+            "caughtStealing": 1,
+            "stolenBases": 6,
+            "stolenBasePercentage": ".857",
+            "caughtStealingPercentage": ".143",
+            "groundIntoDoublePlay": 2,
+            "numberOfPitches": 949,
+            "era": "5.23",
+            "inningsPitched": "51.2",
+            "wins": 2,
+            "losses": 4,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 30,
+            "whip": "1.35",
+            "battersFaced": 228,
+            "outs": 155,
+            "gamesPitched": 11,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 596,
+            "strikePercentage": ".630",
+            "hitBatsmen": 6,
+            "balks": 0,
+            "wildPitches": 1,
+            "pickoffs": 2,
+            "totalBases": 79,
+            "groundOutsToAirouts": "0.77",
+            "winPercentage": ".333",
+            "pitchesPerInning": "18.37",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "2.64",
+            "strikeoutsPer9Inn": "10.10",
+            "walksPer9Inn": "3.83",
+            "hitsPer9Inn": "8.36",
+            "runsScoredPer9": "5.92",
+            "homeRunsPer9": "1.22",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 0,
+            "sacFlies": 1
+          },
+          "team": {
+            "id": 120,
+            "name": "Washington Nationals",
+            "link": "/api/v1/teams/120"
+          },
+          "player": {
+            "id": 663623,
+            "fullName": "Jake Irvin",
+            "link": "/api/v1/people/663623"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

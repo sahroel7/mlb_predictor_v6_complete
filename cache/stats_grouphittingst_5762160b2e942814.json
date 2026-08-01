@@ -1,0 +1,59 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "gamesPlayed": 104,
+            "groundOuts": 724,
+            "airOuts": 1052,
+            "runs": 439,
+            "doubles": 151,
+            "triples": 19,
+            "homeRuns": 126,
+            "strikeOuts": 907,
+            "baseOnBalls": 363,
+            "intentionalWalks": 5,
+            "hits": 814,
+            "hitByPitch": 37,
+            "avg": ".235",
+            "atBats": 3462,
+            "obp": ".312",
+            "slg": ".399",
+            "ops": ".711",
+            "caughtStealing": 16,
+            "stolenBases": 33,
+            "stolenBasePercentage": ".673",
+            "caughtStealingPercentage": ".327",
+            "groundIntoDoublePlay": 57,
+            "numberOfPitches": 15410,
+            "plateAppearances": 3902,
+            "totalBases": 1381,
+            "rbi": 419,
+            "leftOnBase": 715,
+            "sacBunts": 6,
+            "sacFlies": 29,
+            "babip": ".280",
+            "groundOutsToAirouts": "0.69",
+            "catchersInterference": 5,
+            "atBatsPerHomeRun": "27.48"
+          },
+          "team": {
+            "id": 116,
+            "name": "Detroit Tigers",
+            "link": "/api/v1/teams/116"
+          }
+        }
+      ]
+    }
+  ]
+}

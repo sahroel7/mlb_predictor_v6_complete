@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 26,
+            "gamesPlayed": 21,
+            "gamesStarted": 21,
+            "groundOuts": 86,
+            "airOuts": 134,
+            "runs": 57,
+            "doubles": 20,
+            "triples": 2,
+            "homeRuns": 13,
+            "strikeOuts": 136,
+            "baseOnBalls": 37,
+            "intentionalWalks": 0,
+            "hits": 95,
+            "hitByPitch": 4,
+            "avg": ".214",
+            "atBats": 443,
+            "obp": ".277",
+            "slg": ".357",
+            "ops": ".634",
+            "caughtStealing": 2,
+            "stolenBases": 11,
+            "stolenBasePercentage": ".846",
+            "caughtStealingPercentage": ".154",
+            "groundIntoDoublePlay": 7,
+            "numberOfPitches": 1965,
+            "era": "4.05",
+            "inningsPitched": "120.0",
+            "wins": 3,
+            "losses": 7,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 54,
+            "whip": "1.10",
+            "battersFaced": 493,
+            "outs": 360,
+            "gamesPitched": 21,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 1284,
+            "strikePercentage": ".650",
+            "hitBatsmen": 4,
+            "balks": 0,
+            "wildPitches": 3,
+            "pickoffs": 1,
+            "totalBases": 158,
+            "groundOutsToAirouts": "0.64",
+            "winPercentage": ".300",
+            "pitchesPerInning": "16.38",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "3.68",
+            "strikeoutsPer9Inn": "10.20",
+            "walksPer9Inn": "2.78",
+            "hitsPer9Inn": "7.13",
+            "runsScoredPer9": "4.28",
+            "homeRunsPer9": "0.98",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 1,
+            "sacBunts": 1,
+            "sacFlies": 7
+          },
+          "team": {
+            "id": 108,
+            "name": "Los Angeles Angels",
+            "link": "/api/v1/teams/108"
+          },
+          "player": {
+            "id": 672282,
+            "fullName": "Reid Detmers",
+            "link": "/api/v1/people/672282"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

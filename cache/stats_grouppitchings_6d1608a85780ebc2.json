@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 25,
+            "gamesPlayed": 49,
+            "gamesStarted": 7,
+            "groundOuts": 48,
+            "airOuts": 45,
+            "runs": 26,
+            "doubles": 7,
+            "triples": 1,
+            "homeRuns": 6,
+            "strikeOuts": 52,
+            "baseOnBalls": 25,
+            "intentionalWalks": 2,
+            "hits": 38,
+            "hitByPitch": 3,
+            "avg": ".212",
+            "atBats": 179,
+            "obp": ".314",
+            "slg": ".363",
+            "ops": ".677",
+            "caughtStealing": 1,
+            "stolenBases": 1,
+            "stolenBasePercentage": ".500",
+            "caughtStealingPercentage": ".500",
+            "groundIntoDoublePlay": 5,
+            "numberOfPitches": 834,
+            "era": "3.83",
+            "inningsPitched": "51.2",
+            "wins": 3,
+            "losses": 3,
+            "saves": 1,
+            "saveOpportunities": 1,
+            "holds": 8,
+            "blownSaves": 0,
+            "earnedRuns": 22,
+            "whip": "1.22",
+            "battersFaced": 211,
+            "outs": 155,
+            "gamesPitched": 49,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 533,
+            "strikePercentage": ".640",
+            "hitBatsmen": 3,
+            "balks": 0,
+            "wildPitches": 2,
+            "pickoffs": 2,
+            "totalBases": 65,
+            "groundOutsToAirouts": "1.07",
+            "winPercentage": ".500",
+            "pitchesPerInning": "16.14",
+            "gamesFinished": 7,
+            "strikeoutWalkRatio": "2.08",
+            "strikeoutsPer9Inn": "9.06",
+            "walksPer9Inn": "4.35",
+            "hitsPer9Inn": "6.62",
+            "runsScoredPer9": "4.53",
+            "homeRunsPer9": "1.05",
+            "inheritedRunners": 21,
+            "inheritedRunnersScored": 5,
+            "catchersInterference": 0,
+            "sacBunts": 1,
+            "sacFlies": 3
+          },
+          "team": {
+            "id": 141,
+            "name": "Toronto Blue Jays",
+            "link": "/api/v1/teams/141"
+          },
+          "player": {
+            "id": 680755,
+            "fullName": "Braydon Fisher",
+            "link": "/api/v1/people/680755"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

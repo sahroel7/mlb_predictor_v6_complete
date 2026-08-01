@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 35,
+            "gamesPlayed": 11,
+            "gamesStarted": 11,
+            "groundOuts": 41,
+            "airOuts": 77,
+            "runs": 27,
+            "doubles": 12,
+            "triples": 1,
+            "homeRuns": 11,
+            "strikeOuts": 66,
+            "baseOnBalls": 12,
+            "intentionalWalks": 0,
+            "hits": 56,
+            "hitByPitch": 1,
+            "avg": ".233",
+            "atBats": 240,
+            "obp": ".273",
+            "slg": ".429",
+            "ops": ".702",
+            "caughtStealing": 1,
+            "stolenBases": 3,
+            "stolenBasePercentage": ".750",
+            "caughtStealingPercentage": ".250",
+            "groundIntoDoublePlay": 0,
+            "numberOfPitches": 966,
+            "era": "3.92",
+            "inningsPitched": "62.0",
+            "wins": 3,
+            "losses": 5,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 27,
+            "whip": "1.10",
+            "battersFaced": 255,
+            "outs": 186,
+            "gamesPitched": 11,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 661,
+            "strikePercentage": ".680",
+            "hitBatsmen": 1,
+            "balks": 1,
+            "wildPitches": 0,
+            "pickoffs": 1,
+            "totalBases": 103,
+            "groundOutsToAirouts": "0.53",
+            "winPercentage": ".375",
+            "pitchesPerInning": "15.58",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "5.50",
+            "strikeoutsPer9Inn": "9.58",
+            "walksPer9Inn": "1.74",
+            "hitsPer9Inn": "8.13",
+            "runsScoredPer9": "3.92",
+            "homeRunsPer9": "1.60",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 2,
+            "sacBunts": 0,
+            "sacFlies": 0
+          },
+          "team": {
+            "id": 147,
+            "name": "New York Yankees",
+            "link": "/api/v1/teams/147"
+          },
+          "player": {
+            "id": 543037,
+            "fullName": "Gerrit Cole",
+            "link": "/api/v1/people/543037"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 36,
+            "gamesPlayed": 20,
+            "gamesStarted": 20,
+            "groundOuts": 126,
+            "airOuts": 101,
+            "runs": 58,
+            "doubles": 18,
+            "triples": 1,
+            "homeRuns": 22,
+            "strikeOuts": 130,
+            "baseOnBalls": 29,
+            "intentionalWalks": 0,
+            "hits": 114,
+            "hitByPitch": 6,
+            "avg": ".244",
+            "atBats": 468,
+            "obp": ".295",
+            "slg": ".427",
+            "ops": ".722",
+            "caughtStealing": 4,
+            "stolenBases": 3,
+            "stolenBasePercentage": ".429",
+            "caughtStealingPercentage": ".571",
+            "groundIntoDoublePlay": 6,
+            "numberOfPitches": 1827,
+            "era": "4.05",
+            "inningsPitched": "122.1",
+            "wins": 10,
+            "losses": 8,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 55,
+            "whip": "1.17",
+            "battersFaced": 507,
+            "outs": 367,
+            "gamesPitched": 20,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 1229,
+            "strikePercentage": ".670",
+            "hitBatsmen": 6,
+            "balks": 0,
+            "wildPitches": 5,
+            "pickoffs": 0,
+            "totalBases": 200,
+            "groundOutsToAirouts": "1.25",
+            "winPercentage": ".556",
+            "pitchesPerInning": "14.93",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "4.48",
+            "strikeoutsPer9Inn": "9.56",
+            "walksPer9Inn": "2.13",
+            "hitsPer9Inn": "8.39",
+            "runsScoredPer9": "4.27",
+            "homeRunsPer9": "1.62",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 1,
+            "sacBunts": 1,
+            "sacFlies": 2
+          },
+          "team": {
+            "id": 140,
+            "name": "Texas Rangers",
+            "link": "/api/v1/teams/140"
+          },
+          "player": {
+            "id": 543135,
+            "fullName": "Nathan Eovaldi",
+            "link": "/api/v1/people/543135"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

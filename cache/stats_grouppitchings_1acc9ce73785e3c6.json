@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 27,
+            "gamesPlayed": 20,
+            "gamesStarted": 20,
+            "groundOuts": 113,
+            "airOuts": 107,
+            "runs": 59,
+            "doubles": 23,
+            "triples": 0,
+            "homeRuns": 15,
+            "strikeOuts": 82,
+            "baseOnBalls": 34,
+            "intentionalWalks": 1,
+            "hits": 116,
+            "hitByPitch": 3,
+            "avg": ".282",
+            "atBats": 411,
+            "obp": ".337",
+            "slg": ".448",
+            "ops": ".785",
+            "caughtStealing": 1,
+            "stolenBases": 8,
+            "stolenBasePercentage": ".889",
+            "caughtStealingPercentage": ".111",
+            "groundIntoDoublePlay": 9,
+            "numberOfPitches": 1697,
+            "era": "4.60",
+            "inningsPitched": "103.2",
+            "wins": 4,
+            "losses": 7,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 53,
+            "whip": "1.45",
+            "battersFaced": 455,
+            "outs": 311,
+            "gamesPitched": 20,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 1081,
+            "strikePercentage": ".640",
+            "hitBatsmen": 3,
+            "balks": 0,
+            "wildPitches": 3,
+            "pickoffs": 0,
+            "totalBases": 184,
+            "groundOutsToAirouts": "1.06",
+            "winPercentage": ".364",
+            "pitchesPerInning": "16.37",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "2.41",
+            "strikeoutsPer9Inn": "7.12",
+            "walksPer9Inn": "2.95",
+            "hitsPer9Inn": "10.07",
+            "runsScoredPer9": "5.12",
+            "homeRunsPer9": "1.30",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 1,
+            "sacFlies": 6
+          },
+          "team": {
+            "id": 114,
+            "name": "Cleveland Guardians",
+            "link": "/api/v1/teams/114"
+          },
+          "player": {
+            "id": 677944,
+            "fullName": "Slade Cecconi",
+            "link": "/api/v1/people/677944"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

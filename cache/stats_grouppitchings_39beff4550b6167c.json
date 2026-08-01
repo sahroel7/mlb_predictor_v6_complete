@@ -1,0 +1,85 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "gamesPlayed": 105,
+            "gamesStarted": 105,
+            "groundOuts": 895,
+            "airOuts": 957,
+            "runs": 540,
+            "doubles": 193,
+            "triples": 19,
+            "homeRuns": 140,
+            "strikeOuts": 794,
+            "baseOnBalls": 396,
+            "intentionalWalks": 10,
+            "hits": 929,
+            "hitByPitch": 40,
+            "avg": ".263",
+            "atBats": 3537,
+            "obp": ".342",
+            "slg": ".447",
+            "ops": ".789",
+            "caughtStealing": 29,
+            "stolenBases": 54,
+            "stolenBasePercentage": ".651",
+            "caughtStealingPercentage": ".349",
+            "groundIntoDoublePlay": 85,
+            "numberOfPitches": 15609,
+            "era": "4.90",
+            "inningsPitched": "923.2",
+            "wins": 43,
+            "losses": 62,
+            "saves": 25,
+            "saveOpportunities": 44,
+            "holds": 44,
+            "blownSaves": 19,
+            "earnedRuns": 503,
+            "whip": "1.43",
+            "battersFaced": 4011,
+            "outs": 2771,
+            "gamesPitched": 105,
+            "completeGames": 1,
+            "shutouts": 5,
+            "strikes": 9773,
+            "strikePercentage": ".630",
+            "hitBatsmen": 40,
+            "balks": 3,
+            "wildPitches": 37,
+            "pickoffs": 15,
+            "totalBases": 1580,
+            "groundOutsToAirouts": "0.94",
+            "winPercentage": ".410",
+            "pitchesPerInning": "16.90",
+            "gamesFinished": 104,
+            "strikeoutWalkRatio": "2.01",
+            "strikeoutsPer9Inn": "7.74",
+            "walksPer9Inn": "3.86",
+            "hitsPer9Inn": "9.05",
+            "runsScoredPer9": "5.26",
+            "homeRunsPer9": "1.36",
+            "catchersInterference": 0,
+            "sacBunts": 14,
+            "sacFlies": 24
+          },
+          "team": {
+            "id": 118,
+            "name": "Kansas City Royals",
+            "link": "/api/v1/teams/118"
+          }
+        }
+      ]
+    }
+  ]
+}

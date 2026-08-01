@@ -1,0 +1,59 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "gamesPlayed": 104,
+            "groundOuts": 839,
+            "airOuts": 952,
+            "runs": 459,
+            "doubles": 175,
+            "triples": 24,
+            "homeRuns": 106,
+            "strikeOuts": 854,
+            "baseOnBalls": 347,
+            "intentionalWalks": 9,
+            "hits": 870,
+            "hitByPitch": 56,
+            "avg": ".251",
+            "atBats": 3466,
+            "obp": ".326",
+            "slg": ".407",
+            "ops": ".733",
+            "caughtStealing": 31,
+            "stolenBases": 109,
+            "stolenBasePercentage": ".779",
+            "caughtStealingPercentage": ".221",
+            "groundIntoDoublePlay": 63,
+            "numberOfPitches": 14922,
+            "plateAppearances": 3919,
+            "totalBases": 1411,
+            "rbi": 442,
+            "leftOnBase": 727,
+            "sacBunts": 14,
+            "sacFlies": 35,
+            "babip": ".301",
+            "groundOutsToAirouts": "0.88",
+            "catchersInterference": 1,
+            "atBatsPerHomeRun": "32.70"
+          },
+          "team": {
+            "id": 146,
+            "name": "Miami Marlins",
+            "link": "/api/v1/teams/146"
+          }
+        }
+      ]
+    }
+  ]
+}

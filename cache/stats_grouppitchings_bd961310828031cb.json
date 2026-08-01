@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 24,
+            "gamesPlayed": 41,
+            "gamesStarted": 0,
+            "groundOuts": 46,
+            "airOuts": 33,
+            "runs": 19,
+            "doubles": 6,
+            "triples": 1,
+            "homeRuns": 1,
+            "strikeOuts": 42,
+            "baseOnBalls": 19,
+            "intentionalWalks": 0,
+            "hits": 25,
+            "hitByPitch": 4,
+            "avg": ".174",
+            "atBats": 144,
+            "obp": ".287",
+            "slg": ".250",
+            "ops": ".537",
+            "caughtStealing": 1,
+            "stolenBases": 2,
+            "stolenBasePercentage": ".667",
+            "caughtStealingPercentage": ".333",
+            "groundIntoDoublePlay": 6,
+            "numberOfPitches": 665,
+            "era": "2.79",
+            "inningsPitched": "42.0",
+            "wins": 4,
+            "losses": 1,
+            "saves": 1,
+            "saveOpportunities": 2,
+            "holds": 7,
+            "blownSaves": 1,
+            "earnedRuns": 13,
+            "whip": "1.05",
+            "battersFaced": 169,
+            "outs": 126,
+            "gamesPitched": 41,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 414,
+            "strikePercentage": ".620",
+            "hitBatsmen": 4,
+            "balks": 1,
+            "wildPitches": 2,
+            "pickoffs": 1,
+            "totalBases": 36,
+            "groundOutsToAirouts": "1.39",
+            "winPercentage": ".800",
+            "pitchesPerInning": "15.83",
+            "gamesFinished": 6,
+            "strikeoutWalkRatio": "2.21",
+            "strikeoutsPer9Inn": "9.00",
+            "walksPer9Inn": "4.07",
+            "hitsPer9Inn": "5.36",
+            "runsScoredPer9": "4.07",
+            "homeRunsPer9": "0.21",
+            "inheritedRunners": 7,
+            "inheritedRunnersScored": 2,
+            "catchersInterference": 0,
+            "sacBunts": 2,
+            "sacFlies": 0
+          },
+          "team": {
+            "id": 119,
+            "name": "Los Angeles Dodgers",
+            "link": "/api/v1/teams/119"
+          },
+          "player": {
+            "id": 683618,
+            "fullName": "Edgardo Henriquez",
+            "link": "/api/v1/people/683618"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

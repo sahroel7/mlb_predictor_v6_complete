@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 37,
+            "gamesPlayed": 19,
+            "gamesStarted": 19,
+            "groundOuts": 92,
+            "airOuts": 98,
+            "runs": 32,
+            "doubles": 12,
+            "triples": 0,
+            "homeRuns": 8,
+            "strikeOuts": 134,
+            "baseOnBalls": 26,
+            "intentionalWalks": 0,
+            "hits": 91,
+            "hitByPitch": 10,
+            "avg": ".221",
+            "atBats": 412,
+            "obp": ".282",
+            "slg": ".308",
+            "ops": ".590",
+            "caughtStealing": 2,
+            "stolenBases": 6,
+            "stolenBasePercentage": ".750",
+            "caughtStealingPercentage": ".250",
+            "groundIntoDoublePlay": 9,
+            "numberOfPitches": 1772,
+            "era": "2.19",
+            "inningsPitched": "111.0",
+            "wins": 11,
+            "losses": 6,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 27,
+            "whip": "1.05",
+            "battersFaced": 451,
+            "outs": 333,
+            "gamesPitched": 19,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 1203,
+            "strikePercentage": ".680",
+            "hitBatsmen": 10,
+            "balks": 0,
+            "wildPitches": 0,
+            "pickoffs": 1,
+            "totalBases": 127,
+            "groundOutsToAirouts": "0.94",
+            "winPercentage": ".647",
+            "pitchesPerInning": "15.96",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "5.15",
+            "strikeoutsPer9Inn": "10.86",
+            "walksPer9Inn": "2.11",
+            "hitsPer9Inn": "7.38",
+            "runsScoredPer9": "2.59",
+            "homeRunsPer9": "0.65",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 1,
+            "sacFlies": 2
+          },
+          "team": {
+            "id": 144,
+            "name": "Atlanta Braves",
+            "link": "/api/v1/teams/144"
+          },
+          "player": {
+            "id": 519242,
+            "fullName": "Chris Sale",
+            "link": "/api/v1/people/519242"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

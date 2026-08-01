@@ -1,0 +1,85 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "gamesPlayed": 104,
+            "gamesStarted": 104,
+            "groundOuts": 888,
+            "airOuts": 988,
+            "runs": 492,
+            "doubles": 189,
+            "triples": 16,
+            "homeRuns": 113,
+            "strikeOuts": 824,
+            "baseOnBalls": 347,
+            "intentionalWalks": 8,
+            "hits": 889,
+            "hitByPitch": 27,
+            "avg": ".251",
+            "atBats": 3542,
+            "obp": ".319",
+            "slg": ".409",
+            "ops": ".728",
+            "caughtStealing": 26,
+            "stolenBases": 54,
+            "stolenBasePercentage": ".675",
+            "caughtStealingPercentage": ".325",
+            "groundIntoDoublePlay": 62,
+            "numberOfPitches": 15110,
+            "era": "4.18",
+            "inningsPitched": "924.2",
+            "wins": 50,
+            "losses": 54,
+            "saves": 25,
+            "saveOpportunities": 39,
+            "holds": 53,
+            "blownSaves": 14,
+            "earnedRuns": 429,
+            "whip": "1.34",
+            "battersFaced": 3964,
+            "outs": 2774,
+            "gamesPitched": 104,
+            "completeGames": 0,
+            "shutouts": 2,
+            "strikes": 9693,
+            "strikePercentage": ".640",
+            "hitBatsmen": 27,
+            "balks": 1,
+            "wildPitches": 30,
+            "pickoffs": 3,
+            "totalBases": 1449,
+            "groundOutsToAirouts": "0.90",
+            "winPercentage": ".481",
+            "pitchesPerInning": "16.34",
+            "gamesFinished": 104,
+            "strikeoutWalkRatio": "2.37",
+            "strikeoutsPer9Inn": "8.02",
+            "walksPer9Inn": "3.38",
+            "hitsPer9Inn": "8.65",
+            "runsScoredPer9": "4.79",
+            "homeRunsPer9": "1.10",
+            "catchersInterference": 1,
+            "sacBunts": 9,
+            "sacFlies": 38
+          },
+          "team": {
+            "id": 110,
+            "name": "Baltimore Orioles",
+            "link": "/api/v1/teams/110"
+          }
+        }
+      ]
+    }
+  ]
+}

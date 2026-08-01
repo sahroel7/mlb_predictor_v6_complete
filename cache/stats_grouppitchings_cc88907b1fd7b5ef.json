@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 29,
+            "gamesPlayed": 22,
+            "gamesStarted": 22,
+            "groundOuts": 158,
+            "airOuts": 92,
+            "runs": 48,
+            "doubles": 25,
+            "triples": 0,
+            "homeRuns": 12,
+            "strikeOuts": 157,
+            "baseOnBalls": 28,
+            "intentionalWalks": 0,
+            "hits": 139,
+            "hitByPitch": 4,
+            "avg": ".256",
+            "atBats": 544,
+            "obp": ".296",
+            "slg": ".368",
+            "ops": ".664",
+            "caughtStealing": 3,
+            "stolenBases": 4,
+            "stolenBasePercentage": ".571",
+            "caughtStealingPercentage": ".429",
+            "groundIntoDoublePlay": 8,
+            "numberOfPitches": 2103,
+            "era": "2.73",
+            "inningsPitched": "138.2",
+            "wins": 13,
+            "losses": 4,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 42,
+            "whip": "1.20",
+            "battersFaced": 578,
+            "outs": 416,
+            "gamesPitched": 22,
+            "completeGames": 1,
+            "shutouts": 1,
+            "strikes": 1421,
+            "strikePercentage": ".680",
+            "hitBatsmen": 4,
+            "balks": 0,
+            "wildPitches": 3,
+            "pickoffs": 1,
+            "totalBases": 200,
+            "groundOutsToAirouts": "1.72",
+            "winPercentage": ".765",
+            "pitchesPerInning": "15.17",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "5.61",
+            "strikeoutsPer9Inn": "10.19",
+            "walksPer9Inn": "1.82",
+            "hitsPer9Inn": "9.02",
+            "runsScoredPer9": "3.12",
+            "homeRunsPer9": "0.78",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 1,
+            "sacFlies": 1
+          },
+          "team": {
+            "id": 143,
+            "name": "Philadelphia Phillies",
+            "link": "/api/v1/teams/143"
+          },
+          "player": {
+            "id": 650911,
+            "fullName": "Cristopher S\u00e1nchez",
+            "link": "/api/v1/people/650911"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 30,
+            "gamesPlayed": 15,
+            "gamesStarted": 11,
+            "groundOuts": 56,
+            "airOuts": 56,
+            "runs": 49,
+            "doubles": 10,
+            "triples": 0,
+            "homeRuns": 12,
+            "strikeOuts": 63,
+            "baseOnBalls": 32,
+            "intentionalWalks": 0,
+            "hits": 69,
+            "hitByPitch": 2,
+            "avg": ".286",
+            "atBats": 241,
+            "obp": ".372",
+            "slg": ".477",
+            "ops": ".849",
+            "caughtStealing": 2,
+            "stolenBases": 1,
+            "stolenBasePercentage": ".333",
+            "caughtStealingPercentage": ".667",
+            "groundIntoDoublePlay": 5,
+            "numberOfPitches": 1108,
+            "era": "6.97",
+            "inningsPitched": "62.0",
+            "wins": 1,
+            "losses": 9,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 48,
+            "whip": "1.63",
+            "battersFaced": 279,
+            "outs": 186,
+            "gamesPitched": 15,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 661,
+            "strikePercentage": ".600",
+            "hitBatsmen": 2,
+            "balks": 0,
+            "wildPitches": 2,
+            "pickoffs": 2,
+            "totalBases": 115,
+            "groundOutsToAirouts": "1.00",
+            "winPercentage": ".100",
+            "pitchesPerInning": "17.87",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "1.97",
+            "strikeoutsPer9Inn": "9.15",
+            "walksPer9Inn": "4.65",
+            "hitsPer9Inn": "10.02",
+            "runsScoredPer9": "7.11",
+            "homeRunsPer9": "1.74",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 1,
+            "sacBunts": 1,
+            "sacFlies": 2
+          },
+          "team": {
+            "id": 135,
+            "name": "San Diego Padres",
+            "link": "/api/v1/teams/135"
+          },
+          "player": {
+            "id": 656288,
+            "fullName": "Griffin Canning",
+            "link": "/api/v1/people/656288"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

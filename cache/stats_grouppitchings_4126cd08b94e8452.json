@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 31,
+            "gamesPlayed": 21,
+            "gamesStarted": 5,
+            "groundOuts": 45,
+            "airOuts": 78,
+            "runs": 28,
+            "doubles": 7,
+            "triples": 0,
+            "homeRuns": 8,
+            "strikeOuts": 32,
+            "baseOnBalls": 17,
+            "intentionalWalks": 1,
+            "hits": 53,
+            "hitByPitch": 5,
+            "avg": ".256",
+            "atBats": 207,
+            "obp": ".326",
+            "slg": ".406",
+            "ops": ".732",
+            "caughtStealing": 0,
+            "stolenBases": 7,
+            "stolenBasePercentage": "1.000",
+            "caughtStealingPercentage": ".000",
+            "groundIntoDoublePlay": 6,
+            "numberOfPitches": 873,
+            "era": "4.05",
+            "inningsPitched": "53.1",
+            "wins": 3,
+            "losses": 3,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 24,
+            "whip": "1.31",
+            "battersFaced": 230,
+            "outs": 160,
+            "gamesPitched": 21,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 551,
+            "strikePercentage": ".630",
+            "hitBatsmen": 5,
+            "balks": 0,
+            "wildPitches": 1,
+            "pickoffs": 0,
+            "totalBases": 84,
+            "groundOutsToAirouts": "0.58",
+            "winPercentage": ".500",
+            "pitchesPerInning": "16.37",
+            "gamesFinished": 7,
+            "strikeoutWalkRatio": "1.88",
+            "strikeoutsPer9Inn": "5.40",
+            "walksPer9Inn": "2.87",
+            "hitsPer9Inn": "8.94",
+            "runsScoredPer9": "4.72",
+            "homeRunsPer9": "1.35",
+            "inheritedRunners": 8,
+            "inheritedRunnersScored": 2,
+            "catchersInterference": 0,
+            "sacBunts": 0,
+            "sacFlies": 1
+          },
+          "team": {
+            "id": 140,
+            "name": "Texas Rangers",
+            "link": "/api/v1/teams/140"
+          },
+          "player": {
+            "id": 615698,
+            "fullName": "Cal Quantrill",
+            "link": "/api/v1/people/615698"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

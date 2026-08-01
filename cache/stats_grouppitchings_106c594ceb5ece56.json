@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 29,
+            "gamesPlayed": 15,
+            "gamesStarted": 15,
+            "groundOuts": 89,
+            "airOuts": 63,
+            "runs": 30,
+            "doubles": 17,
+            "triples": 1,
+            "homeRuns": 10,
+            "strikeOuts": 110,
+            "baseOnBalls": 13,
+            "intentionalWalks": 0,
+            "hits": 70,
+            "hitByPitch": 4,
+            "avg": ".213",
+            "atBats": 329,
+            "obp": ".251",
+            "slg": ".362",
+            "ops": ".613",
+            "caughtStealing": 1,
+            "stolenBases": 4,
+            "stolenBasePercentage": ".800",
+            "caughtStealingPercentage": ".200",
+            "groundIntoDoublePlay": 12,
+            "numberOfPitches": 1339,
+            "era": "2.70",
+            "inningsPitched": "90.0",
+            "wins": 7,
+            "losses": 5,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 27,
+            "whip": "0.92",
+            "battersFaced": 349,
+            "outs": 270,
+            "gamesPitched": 15,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 921,
+            "strikePercentage": ".690",
+            "hitBatsmen": 4,
+            "balks": 0,
+            "wildPitches": 0,
+            "pickoffs": 0,
+            "totalBases": 119,
+            "groundOutsToAirouts": "1.41",
+            "winPercentage": ".583",
+            "pitchesPerInning": "14.88",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "8.46",
+            "strikeoutsPer9Inn": "11.00",
+            "walksPer9Inn": "1.30",
+            "hitsPer9Inn": "7.00",
+            "runsScoredPer9": "3.00",
+            "homeRunsPer9": "1.00",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 2,
+            "sacFlies": 1
+          },
+          "team": {
+            "id": 116,
+            "name": "Detroit Tigers",
+            "link": "/api/v1/teams/116"
+          },
+          "player": {
+            "id": 669373,
+            "fullName": "Tarik Skubal",
+            "link": "/api/v1/people/669373"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

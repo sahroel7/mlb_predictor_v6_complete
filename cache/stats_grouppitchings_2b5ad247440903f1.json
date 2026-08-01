@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 27,
+            "gamesPlayed": 20,
+            "gamesStarted": 20,
+            "groundOuts": 99,
+            "airOuts": 109,
+            "runs": 39,
+            "doubles": 17,
+            "triples": 2,
+            "homeRuns": 11,
+            "strikeOuts": 121,
+            "baseOnBalls": 41,
+            "intentionalWalks": 0,
+            "hits": 85,
+            "hitByPitch": 7,
+            "avg": ".207",
+            "atBats": 410,
+            "obp": ".289",
+            "slg": ".339",
+            "ops": ".628",
+            "caughtStealing": 6,
+            "stolenBases": 7,
+            "stolenBasePercentage": ".538",
+            "caughtStealingPercentage": ".462",
+            "groundIntoDoublePlay": 5,
+            "numberOfPitches": 1789,
+            "era": "2.68",
+            "inningsPitched": "111.0",
+            "wins": 9,
+            "losses": 1,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 33,
+            "whip": "1.14",
+            "battersFaced": 462,
+            "outs": 333,
+            "gamesPitched": 20,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 1143,
+            "strikePercentage": ".640",
+            "hitBatsmen": 7,
+            "balks": 0,
+            "wildPitches": 5,
+            "pickoffs": 0,
+            "totalBases": 139,
+            "groundOutsToAirouts": "0.91",
+            "winPercentage": ".900",
+            "pitchesPerInning": "16.12",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "2.95",
+            "strikeoutsPer9Inn": "9.81",
+            "walksPer9Inn": "3.32",
+            "hitsPer9Inn": "6.89",
+            "runsScoredPer9": "3.16",
+            "homeRunsPer9": "0.89",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 1,
+            "sacFlies": 3
+          },
+          "team": {
+            "id": 146,
+            "name": "Miami Marlins",
+            "link": "/api/v1/teams/146"
+          },
+          "player": {
+            "id": 676974,
+            "fullName": "Max Meyer",
+            "link": "/api/v1/people/676974"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 30,
+            "gamesPlayed": 6,
+            "gamesStarted": 5,
+            "groundOuts": 27,
+            "airOuts": 32,
+            "runs": 14,
+            "doubles": 3,
+            "triples": 0,
+            "homeRuns": 5,
+            "strikeOuts": 23,
+            "baseOnBalls": 9,
+            "intentionalWalks": 0,
+            "hits": 24,
+            "hitByPitch": 0,
+            "avg": ".226",
+            "atBats": 106,
+            "obp": ".287",
+            "slg": ".396",
+            "ops": ".683",
+            "caughtStealing": 0,
+            "stolenBases": 1,
+            "stolenBasePercentage": "1.000",
+            "caughtStealingPercentage": ".000",
+            "groundIntoDoublePlay": 3,
+            "numberOfPitches": 434,
+            "era": "3.86",
+            "inningsPitched": "28.0",
+            "wins": 3,
+            "losses": 3,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 12,
+            "whip": "1.18",
+            "battersFaced": 116,
+            "outs": 84,
+            "gamesPitched": 6,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 266,
+            "strikePercentage": ".610",
+            "hitBatsmen": 0,
+            "balks": 0,
+            "wildPitches": 0,
+            "pickoffs": 0,
+            "totalBases": 42,
+            "groundOutsToAirouts": "0.84",
+            "winPercentage": ".500",
+            "pitchesPerInning": "15.50",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "2.56",
+            "strikeoutsPer9Inn": "7.39",
+            "walksPer9Inn": "2.89",
+            "hitsPer9Inn": "7.71",
+            "runsScoredPer9": "4.50",
+            "homeRunsPer9": "1.61",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 1,
+            "sacBunts": 0,
+            "sacFlies": 0
+          },
+          "team": {
+            "id": 135,
+            "name": "San Diego Padres",
+            "link": "/api/v1/teams/135"
+          },
+          "player": {
+            "id": 676664,
+            "fullName": "JP Sears",
+            "link": "/api/v1/people/676664"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

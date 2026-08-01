@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 24,
+            "gamesPlayed": 20,
+            "gamesStarted": 11,
+            "groundOuts": 72,
+            "airOuts": 55,
+            "runs": 37,
+            "doubles": 16,
+            "triples": 1,
+            "homeRuns": 6,
+            "strikeOuts": 59,
+            "baseOnBalls": 39,
+            "intentionalWalks": 0,
+            "hits": 67,
+            "hitByPitch": 2,
+            "avg": ".269",
+            "atBats": 249,
+            "obp": ".370",
+            "slg": ".414",
+            "ops": ".784",
+            "caughtStealing": 5,
+            "stolenBases": 4,
+            "stolenBasePercentage": ".444",
+            "caughtStealingPercentage": ".556",
+            "groundIntoDoublePlay": 7,
+            "numberOfPitches": 1233,
+            "era": "4.95",
+            "inningsPitched": "67.1",
+            "wins": 5,
+            "losses": 3,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 37,
+            "whip": "1.57",
+            "battersFaced": 294,
+            "outs": 202,
+            "gamesPitched": 20,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 735,
+            "strikePercentage": ".600",
+            "hitBatsmen": 2,
+            "balks": 1,
+            "wildPitches": 1,
+            "pickoffs": 2,
+            "totalBases": 103,
+            "groundOutsToAirouts": "1.31",
+            "winPercentage": ".625",
+            "pitchesPerInning": "18.31",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "1.51",
+            "strikeoutsPer9Inn": "7.89",
+            "walksPer9Inn": "5.21",
+            "hitsPer9Inn": "8.96",
+            "runsScoredPer9": "4.95",
+            "homeRunsPer9": "0.80",
+            "inheritedRunners": 3,
+            "inheritedRunnersScored": 3,
+            "catchersInterference": 0,
+            "sacBunts": 2,
+            "sacFlies": 2
+          },
+          "team": {
+            "id": 118,
+            "name": "Kansas City Royals",
+            "link": "/api/v1/teams/118"
+          },
+          "player": {
+            "id": 679883,
+            "fullName": "Luinder Avila",
+            "link": "/api/v1/people/679883"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

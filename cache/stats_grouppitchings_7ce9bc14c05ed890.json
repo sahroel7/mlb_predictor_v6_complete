@@ -1,0 +1,85 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "gamesPlayed": 103,
+            "gamesStarted": 103,
+            "groundOuts": 768,
+            "airOuts": 916,
+            "runs": 386,
+            "doubles": 150,
+            "triples": 11,
+            "homeRuns": 102,
+            "strikeOuts": 1005,
+            "baseOnBalls": 325,
+            "intentionalWalks": 14,
+            "hits": 750,
+            "hitByPitch": 41,
+            "avg": ".220",
+            "atBats": 3406,
+            "obp": ".294",
+            "slg": ".361",
+            "ops": ".655",
+            "caughtStealing": 24,
+            "stolenBases": 37,
+            "stolenBasePercentage": ".607",
+            "caughtStealingPercentage": ".393",
+            "groundIntoDoublePlay": 68,
+            "numberOfPitches": 14989,
+            "era": "3.45",
+            "inningsPitched": "922.2",
+            "wins": 64,
+            "losses": 39,
+            "saves": 32,
+            "saveOpportunities": 47,
+            "holds": 50,
+            "blownSaves": 15,
+            "earnedRuns": 354,
+            "whip": "1.17",
+            "battersFaced": 3805,
+            "outs": 2768,
+            "gamesPitched": 103,
+            "completeGames": 1,
+            "shutouts": 8,
+            "strikes": 9766,
+            "strikePercentage": ".650",
+            "hitBatsmen": 41,
+            "balks": 4,
+            "wildPitches": 35,
+            "pickoffs": 10,
+            "totalBases": 1228,
+            "groundOutsToAirouts": "0.84",
+            "winPercentage": ".621",
+            "pitchesPerInning": "16.25",
+            "gamesFinished": 102,
+            "strikeoutWalkRatio": "3.09",
+            "strikeoutsPer9Inn": "9.80",
+            "walksPer9Inn": "3.17",
+            "hitsPer9Inn": "7.32",
+            "runsScoredPer9": "3.77",
+            "homeRunsPer9": "0.99",
+            "catchersInterference": 0,
+            "sacBunts": 14,
+            "sacFlies": 19
+          },
+          "team": {
+            "id": 158,
+            "name": "Milwaukee Brewers",
+            "link": "/api/v1/teams/158"
+          }
+        }
+      ]
+    }
+  ]
+}

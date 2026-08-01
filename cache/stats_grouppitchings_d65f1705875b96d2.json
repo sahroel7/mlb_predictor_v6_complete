@@ -1,0 +1,85 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "gamesPlayed": 102,
+            "gamesStarted": 102,
+            "groundOuts": 844,
+            "airOuts": 929,
+            "runs": 385,
+            "doubles": 156,
+            "triples": 7,
+            "homeRuns": 103,
+            "strikeOuts": 865,
+            "baseOnBalls": 294,
+            "intentionalWalks": 3,
+            "hits": 813,
+            "hitByPitch": 40,
+            "avg": ".238",
+            "atBats": 3412,
+            "obp": ".304",
+            "slg": ".379",
+            "ops": ".683",
+            "caughtStealing": 13,
+            "stolenBases": 67,
+            "stolenBasePercentage": ".838",
+            "caughtStealingPercentage": ".163",
+            "groundIntoDoublePlay": 60,
+            "numberOfPitches": 14267,
+            "era": "3.56",
+            "inningsPitched": "904.1",
+            "wins": 53,
+            "losses": 49,
+            "saves": 28,
+            "saveOpportunities": 38,
+            "holds": 62,
+            "blownSaves": 10,
+            "earnedRuns": 358,
+            "whip": "1.22",
+            "battersFaced": 3786,
+            "outs": 2713,
+            "gamesPitched": 102,
+            "completeGames": 0,
+            "shutouts": 10,
+            "strikes": 9293,
+            "strikePercentage": ".650",
+            "hitBatsmen": 40,
+            "balks": 3,
+            "wildPitches": 21,
+            "pickoffs": 2,
+            "totalBases": 1292,
+            "groundOutsToAirouts": "0.91",
+            "winPercentage": ".520",
+            "pitchesPerInning": "15.78",
+            "gamesFinished": 102,
+            "strikeoutWalkRatio": "2.94",
+            "strikeoutsPer9Inn": "8.61",
+            "walksPer9Inn": "2.93",
+            "hitsPer9Inn": "8.09",
+            "runsScoredPer9": "3.83",
+            "homeRunsPer9": "1.03",
+            "catchersInterference": 1,
+            "sacBunts": 14,
+            "sacFlies": 25
+          },
+          "team": {
+            "id": 111,
+            "name": "Boston Red Sox",
+            "link": "/api/v1/teams/111"
+          }
+        }
+      ]
+    }
+  ]
+}

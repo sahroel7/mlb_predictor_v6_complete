@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 27,
+            "gamesPlayed": 21,
+            "gamesStarted": 21,
+            "groundOuts": 111,
+            "airOuts": 136,
+            "runs": 64,
+            "doubles": 38,
+            "triples": 2,
+            "homeRuns": 9,
+            "strikeOuts": 107,
+            "baseOnBalls": 44,
+            "intentionalWalks": 1,
+            "hits": 125,
+            "hitByPitch": 3,
+            "avg": ".267",
+            "atBats": 468,
+            "obp": ".327",
+            "slg": ".415",
+            "ops": ".742",
+            "caughtStealing": 0,
+            "stolenBases": 6,
+            "stolenBasePercentage": "1.000",
+            "caughtStealingPercentage": ".000",
+            "groundIntoDoublePlay": 10,
+            "numberOfPitches": 2015,
+            "era": "3.98",
+            "inningsPitched": "122.0",
+            "wins": 4,
+            "losses": 9,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 54,
+            "whip": "1.39",
+            "battersFaced": 526,
+            "outs": 366,
+            "gamesPitched": 21,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 1292,
+            "strikePercentage": ".640",
+            "hitBatsmen": 3,
+            "balks": 0,
+            "wildPitches": 5,
+            "pickoffs": 0,
+            "totalBases": 194,
+            "groundOutsToAirouts": "0.82",
+            "winPercentage": ".308",
+            "pitchesPerInning": "16.52",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "2.43",
+            "strikeoutsPer9Inn": "7.89",
+            "walksPer9Inn": "3.25",
+            "hitsPer9Inn": "9.22",
+            "runsScoredPer9": "4.72",
+            "homeRunsPer9": "0.66",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 0,
+            "sacFlies": 11
+          },
+          "team": {
+            "id": 110,
+            "name": "Baltimore Orioles",
+            "link": "/api/v1/teams/110"
+          },
+          "player": {
+            "id": 669358,
+            "fullName": "Shane Baz",
+            "link": "/api/v1/people/669358"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

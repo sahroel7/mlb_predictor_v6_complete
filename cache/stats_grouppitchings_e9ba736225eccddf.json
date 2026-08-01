@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 30,
+            "gamesPlayed": 20,
+            "gamesStarted": 20,
+            "groundOuts": 104,
+            "airOuts": 127,
+            "runs": 64,
+            "doubles": 23,
+            "triples": 2,
+            "homeRuns": 13,
+            "strikeOuts": 83,
+            "baseOnBalls": 37,
+            "intentionalWalks": 0,
+            "hits": 105,
+            "hitByPitch": 8,
+            "avg": ".252",
+            "atBats": 417,
+            "obp": ".323",
+            "slg": ".410",
+            "ops": ".733",
+            "caughtStealing": 3,
+            "stolenBases": 12,
+            "stolenBasePercentage": ".800",
+            "caughtStealingPercentage": ".200",
+            "groundIntoDoublePlay": 10,
+            "numberOfPitches": 1735,
+            "era": "4.90",
+            "inningsPitched": "108.1",
+            "wins": 6,
+            "losses": 7,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 59,
+            "whip": "1.31",
+            "battersFaced": 464,
+            "outs": 325,
+            "gamesPitched": 20,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 1113,
+            "strikePercentage": ".640",
+            "hitBatsmen": 8,
+            "balks": 1,
+            "wildPitches": 4,
+            "pickoffs": 1,
+            "totalBases": 171,
+            "groundOutsToAirouts": "0.82",
+            "winPercentage": ".462",
+            "pitchesPerInning": "16.02",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "2.24",
+            "strikeoutsPer9Inn": "6.90",
+            "walksPer9Inn": "3.07",
+            "hitsPer9Inn": "8.72",
+            "runsScoredPer9": "5.32",
+            "homeRunsPer9": "1.08",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 0,
+            "sacFlies": 2
+          },
+          "team": {
+            "id": 134,
+            "name": "Pittsburgh Pirates",
+            "link": "/api/v1/teams/134"
+          },
+          "player": {
+            "id": 656605,
+            "fullName": "Mitch Keller",
+            "link": "/api/v1/people/656605"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

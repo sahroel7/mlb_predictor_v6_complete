@@ -1,0 +1,59 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "gamesPlayed": 104,
+            "groundOuts": 871,
+            "airOuts": 841,
+            "runs": 545,
+            "doubles": 164,
+            "triples": 12,
+            "homeRuns": 132,
+            "strikeOuts": 991,
+            "baseOnBalls": 385,
+            "intentionalWalks": 7,
+            "hits": 941,
+            "hitByPitch": 54,
+            "avg": ".260",
+            "atBats": 3614,
+            "obp": ".338",
+            "slg": ".422",
+            "ops": ".760",
+            "caughtStealing": 17,
+            "stolenBases": 91,
+            "stolenBasePercentage": ".843",
+            "caughtStealingPercentage": ".157",
+            "groundIntoDoublePlay": 80,
+            "numberOfPitches": 16028,
+            "plateAppearances": 4086,
+            "totalBases": 1525,
+            "rbi": 521,
+            "leftOnBase": 776,
+            "sacBunts": 5,
+            "sacFlies": 25,
+            "babip": ".322",
+            "groundOutsToAirouts": "1.04",
+            "catchersInterference": 3,
+            "atBatsPerHomeRun": "27.38"
+          },
+          "team": {
+            "id": 134,
+            "name": "Pittsburgh Pirates",
+            "link": "/api/v1/teams/134"
+          }
+        }
+      ]
+    }
+  ]
+}

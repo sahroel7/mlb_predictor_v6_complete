@@ -1,0 +1,59 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "gamesPlayed": 102,
+            "groundOuts": 831,
+            "airOuts": 894,
+            "runs": 488,
+            "doubles": 160,
+            "triples": 10,
+            "homeRuns": 131,
+            "strikeOuts": 914,
+            "baseOnBalls": 346,
+            "intentionalWalks": 14,
+            "hits": 817,
+            "hitByPitch": 59,
+            "avg": ".240",
+            "atBats": 3407,
+            "obp": ".318",
+            "slg": ".408",
+            "ops": ".726",
+            "caughtStealing": 27,
+            "stolenBases": 63,
+            "stolenBasePercentage": ".700",
+            "caughtStealingPercentage": ".300",
+            "groundIntoDoublePlay": 46,
+            "numberOfPitches": 14863,
+            "plateAppearances": 3863,
+            "totalBases": 1390,
+            "rbi": 468,
+            "leftOnBase": 675,
+            "sacBunts": 23,
+            "sacFlies": 26,
+            "babip": ".287",
+            "groundOutsToAirouts": "0.93",
+            "catchersInterference": 2,
+            "atBatsPerHomeRun": "26.01"
+          },
+          "team": {
+            "id": 145,
+            "name": "Chicago White Sox",
+            "link": "/api/v1/teams/145"
+          }
+        }
+      ]
+    }
+  ]
+}

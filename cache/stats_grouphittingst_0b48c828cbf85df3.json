@@ -1,0 +1,59 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "gamesPlayed": 103,
+            "groundOuts": 892,
+            "airOuts": 889,
+            "runs": 460,
+            "doubles": 158,
+            "triples": 10,
+            "homeRuns": 127,
+            "strikeOuts": 893,
+            "baseOnBalls": 360,
+            "intentionalWalks": 18,
+            "hits": 867,
+            "hitByPitch": 47,
+            "avg": ".247",
+            "atBats": 3509,
+            "obp": ".324",
+            "slg": ".406",
+            "ops": ".730",
+            "caughtStealing": 20,
+            "stolenBases": 52,
+            "stolenBasePercentage": ".722",
+            "caughtStealingPercentage": ".278",
+            "groundIntoDoublePlay": 80,
+            "numberOfPitches": 15082,
+            "plateAppearances": 3949,
+            "totalBases": 1426,
+            "rbi": 441,
+            "leftOnBase": 737,
+            "sacBunts": 13,
+            "sacFlies": 19,
+            "babip": ".295",
+            "groundOutsToAirouts": "1.00",
+            "catchersInterference": 1,
+            "atBatsPerHomeRun": "27.63"
+          },
+          "team": {
+            "id": 133,
+            "name": "Athletics",
+            "link": "/api/v1/teams/133"
+          }
+        }
+      ]
+    }
+  ]
+}

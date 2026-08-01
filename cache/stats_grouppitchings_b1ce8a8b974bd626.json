@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 25,
+            "gamesPlayed": 22,
+            "gamesStarted": 22,
+            "groundOuts": 112,
+            "airOuts": 119,
+            "runs": 37,
+            "doubles": 20,
+            "triples": 2,
+            "homeRuns": 12,
+            "strikeOuts": 157,
+            "baseOnBalls": 25,
+            "intentionalWalks": 0,
+            "hits": 96,
+            "hitByPitch": 5,
+            "avg": ".200",
+            "atBats": 479,
+            "obp": ".246",
+            "slg": ".326",
+            "ops": ".572",
+            "caughtStealing": 2,
+            "stolenBases": 4,
+            "stolenBasePercentage": ".667",
+            "caughtStealingPercentage": ".333",
+            "groundIntoDoublePlay": 7,
+            "numberOfPitches": 2017,
+            "era": "2.07",
+            "inningsPitched": "130.1",
+            "wins": 10,
+            "losses": 6,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 30,
+            "whip": "0.93",
+            "battersFaced": 515,
+            "outs": 391,
+            "gamesPitched": 22,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 1370,
+            "strikePercentage": ".680",
+            "hitBatsmen": 5,
+            "balks": 0,
+            "wildPitches": 0,
+            "pickoffs": 0,
+            "totalBases": 156,
+            "groundOutsToAirouts": "0.94",
+            "winPercentage": ".625",
+            "pitchesPerInning": "15.48",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "6.28",
+            "strikeoutsPer9Inn": "10.84",
+            "walksPer9Inn": "1.73",
+            "hitsPer9Inn": "6.63",
+            "runsScoredPer9": "2.55",
+            "homeRunsPer9": "0.83",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 1,
+            "sacBunts": 2,
+            "sacFlies": 3
+          },
+          "team": {
+            "id": 147,
+            "name": "New York Yankees",
+            "link": "/api/v1/teams/147"
+          },
+          "player": {
+            "id": 693645,
+            "fullName": "Cam Schlittler",
+            "link": "/api/v1/people/693645"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

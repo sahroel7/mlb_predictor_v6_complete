@@ -1,0 +1,59 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "gamesPlayed": 103,
+            "groundOuts": 793,
+            "airOuts": 1020,
+            "runs": 523,
+            "doubles": 164,
+            "triples": 18,
+            "homeRuns": 129,
+            "strikeOuts": 879,
+            "baseOnBalls": 451,
+            "intentionalWalks": 14,
+            "hits": 859,
+            "hitByPitch": 57,
+            "avg": ".244",
+            "atBats": 3517,
+            "obp": ".337",
+            "slg": ".411",
+            "ops": ".748",
+            "caughtStealing": 15,
+            "stolenBases": 71,
+            "stolenBasePercentage": ".826",
+            "caughtStealingPercentage": ".174",
+            "groundIntoDoublePlay": 67,
+            "numberOfPitches": 16115,
+            "plateAppearances": 4060,
+            "totalBases": 1446,
+            "rbi": 489,
+            "leftOnBase": 806,
+            "sacBunts": 5,
+            "sacFlies": 29,
+            "babip": ".288",
+            "groundOutsToAirouts": "0.78",
+            "catchersInterference": 1,
+            "atBatsPerHomeRun": "27.26"
+          },
+          "team": {
+            "id": 112,
+            "name": "Chicago Cubs",
+            "link": "/api/v1/teams/112"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "gamesPlayed": 104,
+            "gamesStarted": 104,
+            "groundOuts": 873,
+            "airOuts": 909,
+            "runs": 487,
+            "doubles": 186,
+            "triples": 18,
+            "homeRuns": 115,
+            "strikeOuts": 943,
+            "baseOnBalls": 372,
+            "intentionalWalks": 7,
+            "hits": 839,
+            "hitByPitch": 48,
+            "avg": ".238",
+            "atBats": 3524,
+            "obp": ".317",
+            "slg": ".399",
+            "ops": ".716",
+            "caughtStealing": 20,
+            "stolenBases": 45,
+            "stolenBasePercentage": ".692",
+            "caughtStealingPercentage": ".308",
+            "groundIntoDoublePlay": 52,
+            "numberOfPitches": 15644,
+            "era": "4.23",
+            "inningsPitched": "925.2",
+            "wins": 43,
+            "losses": 61,
+            "saves": 17,
+            "saveOpportunities": 30,
+            "holds": 41,
+            "blownSaves": 13,
+            "earnedRuns": 435,
+            "whip": "1.31",
+            "battersFaced": 3985,
+            "outs": 2777,
+            "gamesPitched": 104,
+            "completeGames": 0,
+            "shutouts": 5,
+            "strikes": 10003,
+            "strikePercentage": ".640",
+            "hitBatsmen": 48,
+            "balks": 3,
+            "wildPitches": 24,
+            "pickoffs": 8,
+            "totalBases": 1406,
+            "groundOutsToAirouts": "0.96",
+            "winPercentage": ".413",
+            "pitchesPerInning": "16.90",
+            "gamesFinished": 104,
+            "strikeoutWalkRatio": "2.53",
+            "strikeoutsPer9Inn": "9.17",
+            "walksPer9Inn": "3.62",
+            "hitsPer9Inn": "8.16",
+            "runsScoredPer9": "4.73",
+            "homeRunsPer9": "1.12",
+            "catchersInterference": 1,
+            "sacBunts": 17,
+            "sacFlies": 23
+          },
+          "team": {
+            "id": 121,
+            "name": "New York Mets",
+            "link": "/api/v1/teams/121"
+          }
+        }
+      ]
+    }
+  ]
+}

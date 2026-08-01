@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 30,
+            "gamesPlayed": 22,
+            "gamesStarted": 22,
+            "groundOuts": 154,
+            "airOuts": 150,
+            "runs": 69,
+            "doubles": 21,
+            "triples": 2,
+            "homeRuns": 17,
+            "strikeOuts": 110,
+            "baseOnBalls": 38,
+            "intentionalWalks": 0,
+            "hits": 139,
+            "hitByPitch": 7,
+            "avg": ".253",
+            "atBats": 549,
+            "obp": ".308",
+            "slg": ".392",
+            "ops": ".700",
+            "caughtStealing": 6,
+            "stolenBases": 12,
+            "stolenBasePercentage": ".667",
+            "caughtStealingPercentage": ".333",
+            "groundIntoDoublePlay": 11,
+            "numberOfPitches": 2160,
+            "era": "4.01",
+            "inningsPitched": "143.2",
+            "wins": 10,
+            "losses": 6,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 64,
+            "whip": "1.23",
+            "battersFaced": 598,
+            "outs": 431,
+            "gamesPitched": 22,
+            "completeGames": 1,
+            "shutouts": 1,
+            "strikes": 1452,
+            "strikePercentage": ".670",
+            "hitBatsmen": 7,
+            "balks": 1,
+            "wildPitches": 1,
+            "pickoffs": 0,
+            "totalBases": 215,
+            "groundOutsToAirouts": "1.03",
+            "winPercentage": ".625",
+            "pitchesPerInning": "15.03",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "2.89",
+            "strikeoutsPer9Inn": "6.89",
+            "walksPer9Inn": "2.38",
+            "hitsPer9Inn": "8.71",
+            "runsScoredPer9": "4.32",
+            "homeRunsPer9": "1.06",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 1,
+            "sacFlies": 3
+          },
+          "team": {
+            "id": 146,
+            "name": "Miami Marlins",
+            "link": "/api/v1/teams/146"
+          },
+          "player": {
+            "id": 645261,
+            "fullName": "Sandy Alcantara",
+            "link": "/api/v1/people/645261"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

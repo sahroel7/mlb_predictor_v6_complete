@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 29,
+            "gamesPlayed": 19,
+            "gamesStarted": 19,
+            "groundOuts": 95,
+            "airOuts": 101,
+            "runs": 40,
+            "doubles": 15,
+            "triples": 1,
+            "homeRuns": 7,
+            "strikeOuts": 88,
+            "baseOnBalls": 33,
+            "intentionalWalks": 0,
+            "hits": 76,
+            "hitByPitch": 3,
+            "avg": ".212",
+            "atBats": 359,
+            "obp": ".284",
+            "slg": ".318",
+            "ops": ".602",
+            "caughtStealing": 3,
+            "stolenBases": 13,
+            "stolenBasePercentage": ".813",
+            "caughtStealingPercentage": ".188",
+            "groundIntoDoublePlay": 5,
+            "numberOfPitches": 1498,
+            "era": "3.09",
+            "inningsPitched": "96.0",
+            "wins": 9,
+            "losses": 6,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 33,
+            "whip": "1.14",
+            "battersFaced": 397,
+            "outs": 288,
+            "gamesPitched": 19,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 978,
+            "strikePercentage": ".650",
+            "hitBatsmen": 3,
+            "balks": 0,
+            "wildPitches": 3,
+            "pickoffs": 1,
+            "totalBases": 114,
+            "groundOutsToAirouts": "0.94",
+            "winPercentage": ".600",
+            "pitchesPerInning": "15.60",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "2.67",
+            "strikeoutsPer9Inn": "8.25",
+            "walksPer9Inn": "3.09",
+            "hitsPer9Inn": "7.13",
+            "runsScoredPer9": "3.75",
+            "homeRunsPer9": "0.66",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 1,
+            "sacBunts": 1,
+            "sacFlies": 0
+          },
+          "team": {
+            "id": 139,
+            "name": "Tampa Bay Rays",
+            "link": "/api/v1/teams/139"
+          },
+          "player": {
+            "id": 663556,
+            "fullName": "Shane McClanahan",
+            "link": "/api/v1/people/663556"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

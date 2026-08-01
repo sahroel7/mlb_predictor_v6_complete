@@ -1,0 +1,59 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "gamesPlayed": 102,
+            "groundOuts": 786,
+            "airOuts": 932,
+            "runs": 427,
+            "doubles": 154,
+            "triples": 10,
+            "homeRuns": 135,
+            "strikeOuts": 948,
+            "baseOnBalls": 368,
+            "intentionalWalks": 6,
+            "hits": 788,
+            "hitByPitch": 32,
+            "avg": ".230",
+            "atBats": 3420,
+            "obp": ".309",
+            "slg": ".400",
+            "ops": ".709",
+            "caughtStealing": 22,
+            "stolenBases": 72,
+            "stolenBasePercentage": ".766",
+            "caughtStealingPercentage": ".234",
+            "groundIntoDoublePlay": 59,
+            "numberOfPitches": 15056,
+            "plateAppearances": 3857,
+            "totalBases": 1367,
+            "rbi": 408,
+            "leftOnBase": 711,
+            "sacBunts": 13,
+            "sacFlies": 21,
+            "babip": ".277",
+            "groundOutsToAirouts": "0.84",
+            "catchersInterference": 3,
+            "atBatsPerHomeRun": "25.33"
+          },
+          "team": {
+            "id": 113,
+            "name": "Cincinnati Reds",
+            "link": "/api/v1/teams/113"
+          }
+        }
+      ]
+    }
+  ]
+}

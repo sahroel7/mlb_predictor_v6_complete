@@ -1,0 +1,59 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "gamesPlayed": 102,
+            "groundOuts": 875,
+            "airOuts": 910,
+            "runs": 432,
+            "doubles": 180,
+            "triples": 18,
+            "homeRuns": 98,
+            "strikeOuts": 835,
+            "baseOnBalls": 304,
+            "intentionalWalks": 5,
+            "hits": 834,
+            "hitByPitch": 58,
+            "avg": ".245",
+            "atBats": 3405,
+            "obp": ".315",
+            "slg": ".395",
+            "ops": ".710",
+            "caughtStealing": 27,
+            "stolenBases": 76,
+            "stolenBasePercentage": ".738",
+            "caughtStealingPercentage": ".262",
+            "groundIntoDoublePlay": 62,
+            "numberOfPitches": 14584,
+            "plateAppearances": 3818,
+            "totalBases": 1344,
+            "rbi": 414,
+            "leftOnBase": 688,
+            "sacBunts": 19,
+            "sacFlies": 30,
+            "babip": ".294",
+            "groundOutsToAirouts": "0.96",
+            "catchersInterference": 2,
+            "atBatsPerHomeRun": "34.74"
+          },
+          "team": {
+            "id": 111,
+            "name": "Boston Red Sox",
+            "link": "/api/v1/teams/111"
+          }
+        }
+      ]
+    }
+  ]
+}

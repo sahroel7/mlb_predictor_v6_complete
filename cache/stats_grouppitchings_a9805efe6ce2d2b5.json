@@ -1,0 +1,85 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "gamesPlayed": 103,
+            "gamesStarted": 103,
+            "groundOuts": 961,
+            "airOuts": 892,
+            "runs": 487,
+            "doubles": 156,
+            "triples": 19,
+            "homeRuns": 105,
+            "strikeOuts": 782,
+            "baseOnBalls": 380,
+            "intentionalWalks": 11,
+            "hits": 848,
+            "hitByPitch": 42,
+            "avg": ".247",
+            "atBats": 3432,
+            "obp": ".327",
+            "slg": ".395",
+            "ops": ".722",
+            "caughtStealing": 26,
+            "stolenBases": 90,
+            "stolenBasePercentage": ".776",
+            "caughtStealingPercentage": ".224",
+            "groundIntoDoublePlay": 76,
+            "numberOfPitches": 15207,
+            "era": "4.41",
+            "inningsPitched": "907.2",
+            "wins": 43,
+            "losses": 60,
+            "saves": 19,
+            "saveOpportunities": 34,
+            "holds": 49,
+            "blownSaves": 15,
+            "earnedRuns": 445,
+            "whip": "1.35",
+            "battersFaced": 3908,
+            "outs": 2723,
+            "gamesPitched": 103,
+            "completeGames": 1,
+            "shutouts": 7,
+            "strikes": 9455,
+            "strikePercentage": ".620",
+            "hitBatsmen": 42,
+            "balks": 3,
+            "wildPitches": 35,
+            "pickoffs": 5,
+            "totalBases": 1357,
+            "groundOutsToAirouts": "1.08",
+            "winPercentage": ".417",
+            "pitchesPerInning": "16.75",
+            "gamesFinished": 102,
+            "strikeoutWalkRatio": "2.06",
+            "strikeoutsPer9Inn": "7.75",
+            "walksPer9Inn": "3.77",
+            "hitsPer9Inn": "8.41",
+            "runsScoredPer9": "4.83",
+            "homeRunsPer9": "1.04",
+            "catchersInterference": 3,
+            "sacBunts": 19,
+            "sacFlies": 32
+          },
+          "team": {
+            "id": 137,
+            "name": "San Francisco Giants",
+            "link": "/api/v1/teams/137"
+          }
+        }
+      ]
+    }
+  ]
+}

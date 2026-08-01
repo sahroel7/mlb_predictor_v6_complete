@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 28,
+            "gamesPlayed": 16,
+            "gamesStarted": 13,
+            "groundOuts": 48,
+            "airOuts": 90,
+            "runs": 45,
+            "doubles": 14,
+            "triples": 0,
+            "homeRuns": 11,
+            "strikeOuts": 53,
+            "baseOnBalls": 40,
+            "intentionalWalks": 0,
+            "hits": 68,
+            "hitByPitch": 3,
+            "avg": ".269",
+            "atBats": 253,
+            "obp": ".370",
+            "slg": ".455",
+            "ops": ".825",
+            "caughtStealing": 2,
+            "stolenBases": 13,
+            "stolenBasePercentage": ".867",
+            "caughtStealingPercentage": ".133",
+            "groundIntoDoublePlay": 1,
+            "numberOfPitches": 1228,
+            "era": "6.12",
+            "inningsPitched": "64.2",
+            "wins": 5,
+            "losses": 4,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 1,
+            "blownSaves": 0,
+            "earnedRuns": 44,
+            "whip": "1.67",
+            "battersFaced": 302,
+            "outs": 194,
+            "gamesPitched": 16,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 737,
+            "strikePercentage": ".600",
+            "hitBatsmen": 3,
+            "balks": 0,
+            "wildPitches": 0,
+            "pickoffs": 1,
+            "totalBases": 115,
+            "groundOutsToAirouts": "0.53",
+            "winPercentage": ".556",
+            "pitchesPerInning": "18.99",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "1.33",
+            "strikeoutsPer9Inn": "7.38",
+            "walksPer9Inn": "5.57",
+            "hitsPer9Inn": "9.46",
+            "runsScoredPer9": "6.26",
+            "homeRunsPer9": "1.53",
+            "inheritedRunners": 1,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 2,
+            "sacFlies": 4
+          },
+          "team": {
+            "id": 133,
+            "name": "Athletics",
+            "link": "/api/v1/teams/133"
+          },
+          "player": {
+            "id": 682052,
+            "fullName": "Jacob Lopez",
+            "link": "/api/v1/people/682052"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

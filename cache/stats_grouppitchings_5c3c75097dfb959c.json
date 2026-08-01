@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 25,
+            "gamesPlayed": 19,
+            "gamesStarted": 17,
+            "groundOuts": 73,
+            "airOuts": 80,
+            "runs": 50,
+            "doubles": 15,
+            "triples": 0,
+            "homeRuns": 16,
+            "strikeOuts": 91,
+            "baseOnBalls": 43,
+            "intentionalWalks": 0,
+            "hits": 77,
+            "hitByPitch": 9,
+            "avg": ".241",
+            "atBats": 319,
+            "obp": ".348",
+            "slg": ".439",
+            "ops": ".787",
+            "caughtStealing": 7,
+            "stolenBases": 9,
+            "stolenBasePercentage": ".563",
+            "caughtStealingPercentage": ".438",
+            "groundIntoDoublePlay": 7,
+            "numberOfPitches": 1557,
+            "era": "5.09",
+            "inningsPitched": "86.2",
+            "wins": 3,
+            "losses": 5,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 49,
+            "whip": "1.38",
+            "battersFaced": 373,
+            "outs": 260,
+            "gamesPitched": 19,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 965,
+            "strikePercentage": ".620",
+            "hitBatsmen": 9,
+            "balks": 0,
+            "wildPitches": 6,
+            "pickoffs": 4,
+            "totalBases": 140,
+            "groundOutsToAirouts": "0.91",
+            "winPercentage": ".375",
+            "pitchesPerInning": "17.97",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "2.12",
+            "strikeoutsPer9Inn": "9.45",
+            "walksPer9Inn": "4.47",
+            "hitsPer9Inn": "8.00",
+            "runsScoredPer9": "5.19",
+            "homeRunsPer9": "1.66",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 2,
+            "sacFlies": 0
+          },
+          "team": {
+            "id": 158,
+            "name": "Milwaukee Brewers",
+            "link": "/api/v1/teams/158"
+          },
+          "player": {
+            "id": 687075,
+            "fullName": "Brandon Sproat",
+            "link": "/api/v1/people/687075"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

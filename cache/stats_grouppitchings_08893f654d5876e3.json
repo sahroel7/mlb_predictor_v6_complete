@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 26,
+            "gamesPlayed": 9,
+            "gamesStarted": 9,
+            "groundOuts": 30,
+            "airOuts": 52,
+            "runs": 39,
+            "doubles": 17,
+            "triples": 1,
+            "homeRuns": 7,
+            "strikeOuts": 30,
+            "baseOnBalls": 19,
+            "intentionalWalks": 2,
+            "hits": 51,
+            "hitByPitch": 4,
+            "avg": ".323",
+            "atBats": 158,
+            "obp": ".398",
+            "slg": ".576",
+            "ops": ".974",
+            "caughtStealing": 1,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".000",
+            "caughtStealingPercentage": "1.000",
+            "groundIntoDoublePlay": 6,
+            "numberOfPitches": 740,
+            "era": "8.54",
+            "inningsPitched": "39.0",
+            "wins": 3,
+            "losses": 3,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 37,
+            "whip": "1.79",
+            "battersFaced": 186,
+            "outs": 117,
+            "gamesPitched": 9,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 465,
+            "strikePercentage": ".630",
+            "hitBatsmen": 4,
+            "balks": 0,
+            "wildPitches": 0,
+            "pickoffs": 0,
+            "totalBases": 91,
+            "groundOutsToAirouts": "0.58",
+            "winPercentage": ".500",
+            "pitchesPerInning": "18.97",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "1.58",
+            "strikeoutsPer9Inn": "6.92",
+            "walksPer9Inn": "4.38",
+            "hitsPer9Inn": "11.77",
+            "runsScoredPer9": "9.00",
+            "homeRunsPer9": "1.62",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 0,
+            "sacFlies": 5
+          },
+          "team": {
+            "id": 108,
+            "name": "Los Angeles Angels",
+            "link": "/api/v1/teams/108"
+          },
+          "player": {
+            "id": 680570,
+            "fullName": "Grayson Rodriguez",
+            "link": "/api/v1/people/680570"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

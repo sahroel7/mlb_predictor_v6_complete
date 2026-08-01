@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 34,
+            "gamesPlayed": 20,
+            "gamesStarted": 19,
+            "groundOuts": 87,
+            "airOuts": 137,
+            "runs": 49,
+            "doubles": 15,
+            "triples": 1,
+            "homeRuns": 15,
+            "strikeOuts": 96,
+            "baseOnBalls": 54,
+            "intentionalWalks": 0,
+            "hits": 91,
+            "hitByPitch": 0,
+            "avg": ".226",
+            "atBats": 403,
+            "obp": ".313",
+            "slg": ".380",
+            "ops": ".693",
+            "caughtStealing": 7,
+            "stolenBases": 17,
+            "stolenBasePercentage": ".708",
+            "caughtStealingPercentage": ".292",
+            "groundIntoDoublePlay": 8,
+            "numberOfPitches": 1895,
+            "era": "3.33",
+            "inningsPitched": "110.2",
+            "wins": 8,
+            "losses": 6,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 41,
+            "whip": "1.31",
+            "battersFaced": 465,
+            "outs": 332,
+            "gamesPitched": 20,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 1140,
+            "strikePercentage": ".600",
+            "hitBatsmen": 0,
+            "balks": 0,
+            "wildPitches": 3,
+            "pickoffs": 4,
+            "totalBases": 153,
+            "groundOutsToAirouts": "0.64",
+            "winPercentage": ".571",
+            "pitchesPerInning": "17.12",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "1.78",
+            "strikeoutsPer9Inn": "7.81",
+            "walksPer9Inn": "4.39",
+            "hitsPer9Inn": "7.40",
+            "runsScoredPer9": "3.98",
+            "homeRunsPer9": "1.22",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 2,
+            "sacFlies": 6
+          },
+          "team": {
+            "id": 137,
+            "name": "San Francisco Giants",
+            "link": "/api/v1/teams/137"
+          },
+          "player": {
+            "id": 592662,
+            "fullName": "Robbie Ray",
+            "link": "/api/v1/people/592662"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

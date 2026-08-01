@@ -1,0 +1,85 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "gamesPlayed": 103,
+            "gamesStarted": 103,
+            "groundOuts": 801,
+            "airOuts": 987,
+            "runs": 461,
+            "doubles": 154,
+            "triples": 15,
+            "homeRuns": 127,
+            "strikeOuts": 872,
+            "baseOnBalls": 300,
+            "intentionalWalks": 15,
+            "hits": 854,
+            "hitByPitch": 41,
+            "avg": ".245",
+            "atBats": 3483,
+            "obp": ".311",
+            "slg": ".407",
+            "ops": ".718",
+            "caughtStealing": 16,
+            "stolenBases": 63,
+            "stolenBasePercentage": ".797",
+            "caughtStealingPercentage": ".203",
+            "groundIntoDoublePlay": 55,
+            "numberOfPitches": 14850,
+            "era": "4.32",
+            "inningsPitched": "904.1",
+            "wins": 52,
+            "losses": 51,
+            "saves": 31,
+            "saveOpportunities": 42,
+            "holds": 53,
+            "blownSaves": 11,
+            "earnedRuns": 434,
+            "whip": "1.28",
+            "battersFaced": 3857,
+            "outs": 2713,
+            "gamesPitched": 103,
+            "completeGames": 0,
+            "shutouts": 9,
+            "strikes": 9614,
+            "strikePercentage": ".650",
+            "hitBatsmen": 41,
+            "balks": 1,
+            "wildPitches": 35,
+            "pickoffs": 3,
+            "totalBases": 1419,
+            "groundOutsToAirouts": "0.81",
+            "winPercentage": ".505",
+            "pitchesPerInning": "16.42",
+            "gamesFinished": 103,
+            "strikeoutWalkRatio": "2.91",
+            "strikeoutsPer9Inn": "8.68",
+            "walksPer9Inn": "2.99",
+            "hitsPer9Inn": "8.50",
+            "runsScoredPer9": "4.59",
+            "homeRunsPer9": "1.26",
+            "catchersInterference": 2,
+            "sacBunts": 11,
+            "sacFlies": 20
+          },
+          "team": {
+            "id": 140,
+            "name": "Texas Rangers",
+            "link": "/api/v1/teams/140"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 26,
+            "gamesPlayed": 6,
+            "gamesStarted": 4,
+            "groundOuts": 27,
+            "airOuts": 26,
+            "runs": 10,
+            "doubles": 5,
+            "triples": 1,
+            "homeRuns": 3,
+            "strikeOuts": 28,
+            "baseOnBalls": 10,
+            "intentionalWalks": 0,
+            "hits": 27,
+            "hitByPitch": 1,
+            "avg": ".250",
+            "atBats": 108,
+            "obp": ".319",
+            "slg": ".398",
+            "ops": ".717",
+            "caughtStealing": 0,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".---",
+            "caughtStealingPercentage": ".---",
+            "groundIntoDoublePlay": 3,
+            "numberOfPitches": 484,
+            "era": "3.18",
+            "inningsPitched": "28.1",
+            "wins": 2,
+            "losses": 1,
+            "saves": 1,
+            "saveOpportunities": 1,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 10,
+            "whip": "1.31",
+            "battersFaced": 119,
+            "outs": 85,
+            "gamesPitched": 6,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 305,
+            "strikePercentage": ".630",
+            "hitBatsmen": 1,
+            "balks": 0,
+            "wildPitches": 0,
+            "pickoffs": 0,
+            "totalBases": 43,
+            "groundOutsToAirouts": "1.04",
+            "winPercentage": ".667",
+            "pitchesPerInning": "17.08",
+            "gamesFinished": 2,
+            "strikeoutWalkRatio": "2.80",
+            "strikeoutsPer9Inn": "8.89",
+            "walksPer9Inn": "3.18",
+            "hitsPer9Inn": "8.58",
+            "runsScoredPer9": "3.18",
+            "homeRunsPer9": "0.95",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 0,
+            "sacFlies": 0
+          },
+          "team": {
+            "id": 138,
+            "name": "St. Louis Cardinals",
+            "link": "/api/v1/teams/138"
+          },
+          "player": {
+            "id": 690928,
+            "fullName": "Hunter Dobbins",
+            "link": "/api/v1/people/690928"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

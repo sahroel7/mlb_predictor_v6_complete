@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 30,
+            "gamesPlayed": 22,
+            "gamesStarted": 22,
+            "groundOuts": 106,
+            "airOuts": 120,
+            "runs": 71,
+            "doubles": 31,
+            "triples": 1,
+            "homeRuns": 17,
+            "strikeOuts": 113,
+            "baseOnBalls": 48,
+            "intentionalWalks": 0,
+            "hits": 120,
+            "hitByPitch": 5,
+            "avg": ".264",
+            "atBats": 455,
+            "obp": ".339",
+            "slg": ".448",
+            "ops": ".787",
+            "caughtStealing": 1,
+            "stolenBases": 4,
+            "stolenBasePercentage": ".800",
+            "caughtStealingPercentage": ".200",
+            "groundIntoDoublePlay": 3,
+            "numberOfPitches": 2093,
+            "era": "4.99",
+            "inningsPitched": "113.2",
+            "wins": 5,
+            "losses": 9,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 63,
+            "whip": "1.48",
+            "battersFaced": 512,
+            "outs": 341,
+            "gamesPitched": 22,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 1267,
+            "strikePercentage": ".610",
+            "hitBatsmen": 5,
+            "balks": 0,
+            "wildPitches": 7,
+            "pickoffs": 0,
+            "totalBases": 204,
+            "groundOutsToAirouts": "0.88",
+            "winPercentage": ".357",
+            "pitchesPerInning": "18.41",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "2.35",
+            "strikeoutsPer9Inn": "8.95",
+            "walksPer9Inn": "3.80",
+            "hitsPer9Inn": "9.50",
+            "runsScoredPer9": "5.62",
+            "homeRunsPer9": "1.35",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 2,
+            "sacFlies": 2
+          },
+          "team": {
+            "id": 121,
+            "name": "New York Mets",
+            "link": "/api/v1/teams/121"
+          },
+          "player": {
+            "id": 642547,
+            "fullName": "Freddy Peralta",
+            "link": "/api/v1/people/642547"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "gamesPlayed": 103,
+            "gamesStarted": 103,
+            "groundOuts": 936,
+            "airOuts": 936,
+            "runs": 462,
+            "doubles": 175,
+            "triples": 9,
+            "homeRuns": 102,
+            "strikeOuts": 781,
+            "baseOnBalls": 346,
+            "intentionalWalks": 7,
+            "hits": 885,
+            "hitByPitch": 52,
+            "avg": ".253",
+            "atBats": 3496,
+            "obp": ".327",
+            "slg": ".396",
+            "ops": ".723",
+            "caughtStealing": 17,
+            "stolenBases": 71,
+            "stolenBasePercentage": ".807",
+            "caughtStealingPercentage": ".193",
+            "groundIntoDoublePlay": 85,
+            "numberOfPitches": 15221,
+            "era": "4.17",
+            "inningsPitched": "918.1",
+            "wins": 52,
+            "losses": 51,
+            "saves": 31,
+            "saveOpportunities": 50,
+            "holds": 68,
+            "blownSaves": 19,
+            "earnedRuns": 426,
+            "whip": "1.34",
+            "battersFaced": 3940,
+            "outs": 2755,
+            "gamesPitched": 103,
+            "completeGames": 1,
+            "shutouts": 6,
+            "strikes": 9544,
+            "strikePercentage": ".630",
+            "hitBatsmen": 52,
+            "balks": 2,
+            "wildPitches": 43,
+            "pickoffs": 8,
+            "totalBases": 1384,
+            "groundOutsToAirouts": "1.00",
+            "winPercentage": ".505",
+            "pitchesPerInning": "16.57",
+            "gamesFinished": 102,
+            "strikeoutWalkRatio": "2.26",
+            "strikeoutsPer9Inn": "7.65",
+            "walksPer9Inn": "3.39",
+            "hitsPer9Inn": "8.67",
+            "runsScoredPer9": "4.53",
+            "homeRunsPer9": "1.00",
+            "catchersInterference": 4,
+            "sacBunts": 10,
+            "sacFlies": 32
+          },
+          "team": {
+            "id": 138,
+            "name": "St. Louis Cardinals",
+            "link": "/api/v1/teams/138"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 29,
+            "gamesPlayed": 16,
+            "gamesStarted": 16,
+            "groundOuts": 61,
+            "airOuts": 108,
+            "runs": 27,
+            "doubles": 22,
+            "triples": 1,
+            "homeRuns": 5,
+            "strikeOuts": 85,
+            "baseOnBalls": 19,
+            "intentionalWalks": 0,
+            "hits": 67,
+            "hitByPitch": 1,
+            "avg": ".213",
+            "atBats": 315,
+            "obp": ".257",
+            "slg": ".337",
+            "ops": ".594",
+            "caughtStealing": 5,
+            "stolenBases": 9,
+            "stolenBasePercentage": ".643",
+            "caughtStealingPercentage": ".357",
+            "groundIntoDoublePlay": 4,
+            "numberOfPitches": 1318,
+            "era": "2.70",
+            "inningsPitched": "86.2",
+            "wins": 4,
+            "losses": 6,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 26,
+            "whip": "0.99",
+            "battersFaced": 341,
+            "outs": 260,
+            "gamesPitched": 16,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 856,
+            "strikePercentage": ".650",
+            "hitBatsmen": 1,
+            "balks": 0,
+            "wildPitches": 1,
+            "pickoffs": 0,
+            "totalBases": 106,
+            "groundOutsToAirouts": "0.56",
+            "winPercentage": ".400",
+            "pitchesPerInning": "15.21",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "4.47",
+            "strikeoutsPer9Inn": "8.83",
+            "walksPer9Inn": "1.97",
+            "hitsPer9Inn": "6.96",
+            "runsScoredPer9": "2.80",
+            "homeRunsPer9": "0.52",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 2,
+            "sacFlies": 4
+          },
+          "team": {
+            "id": 116,
+            "name": "Detroit Tigers",
+            "link": "/api/v1/teams/116"
+          },
+          "player": {
+            "id": 663554,
+            "fullName": "Casey Mize",
+            "link": "/api/v1/people/663554"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

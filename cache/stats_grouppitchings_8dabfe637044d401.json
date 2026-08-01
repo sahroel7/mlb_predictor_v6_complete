@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 32,
+            "gamesPlayed": 21,
+            "gamesStarted": 21,
+            "groundOuts": 140,
+            "airOuts": 103,
+            "runs": 63,
+            "doubles": 18,
+            "triples": 2,
+            "homeRuns": 12,
+            "strikeOuts": 92,
+            "baseOnBalls": 41,
+            "intentionalWalks": 0,
+            "hits": 115,
+            "hitByPitch": 12,
+            "avg": ".257",
+            "atBats": 447,
+            "obp": ".334",
+            "slg": ".387",
+            "ops": ".721",
+            "caughtStealing": 0,
+            "stolenBases": 13,
+            "stolenBasePercentage": "1.000",
+            "caughtStealingPercentage": ".000",
+            "groundIntoDoublePlay": 9,
+            "numberOfPitches": 1834,
+            "era": "4.53",
+            "inningsPitched": "113.1",
+            "wins": 5,
+            "losses": 7,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 57,
+            "whip": "1.38",
+            "battersFaced": 503,
+            "outs": 340,
+            "gamesPitched": 21,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 1186,
+            "strikePercentage": ".650",
+            "hitBatsmen": 12,
+            "balks": 0,
+            "wildPitches": 3,
+            "pickoffs": 0,
+            "totalBases": 173,
+            "groundOutsToAirouts": "1.36",
+            "winPercentage": ".417",
+            "pitchesPerInning": "16.18",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "2.24",
+            "strikeoutsPer9Inn": "7.31",
+            "walksPer9Inn": "3.26",
+            "hitsPer9Inn": "9.13",
+            "runsScoredPer9": "5.00",
+            "homeRunsPer9": "0.95",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 0,
+            "sacFlies": 3
+          },
+          "team": {
+            "id": 116,
+            "name": "Detroit Tigers",
+            "link": "/api/v1/teams/116"
+          },
+          "player": {
+            "id": 664285,
+            "fullName": "Framber Valdez",
+            "link": "/api/v1/people/664285"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

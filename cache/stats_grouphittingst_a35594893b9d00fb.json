@@ -1,0 +1,59 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "gamesPlayed": 105,
+            "groundOuts": 794,
+            "airOuts": 1069,
+            "runs": 442,
+            "doubles": 195,
+            "triples": 11,
+            "homeRuns": 105,
+            "strikeOuts": 848,
+            "baseOnBalls": 331,
+            "intentionalWalks": 10,
+            "hits": 872,
+            "hitByPitch": 40,
+            "avg": ".247",
+            "atBats": 3533,
+            "obp": ".316",
+            "slg": ".397",
+            "ops": ".713",
+            "caughtStealing": 23,
+            "stolenBases": 81,
+            "stolenBasePercentage": ".779",
+            "caughtStealingPercentage": ".221",
+            "groundIntoDoublePlay": 62,
+            "numberOfPitches": 15040,
+            "plateAppearances": 3954,
+            "totalBases": 1404,
+            "rbi": 422,
+            "leftOnBase": 726,
+            "sacBunts": 16,
+            "sacFlies": 34,
+            "babip": ".293",
+            "groundOutsToAirouts": "0.74",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "33.65"
+          },
+          "team": {
+            "id": 118,
+            "name": "Kansas City Royals",
+            "link": "/api/v1/teams/118"
+          }
+        }
+      ]
+    }
+  ]
+}

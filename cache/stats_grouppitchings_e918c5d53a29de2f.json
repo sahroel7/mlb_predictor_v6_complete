@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 27,
+            "gamesPlayed": 22,
+            "gamesStarted": 22,
+            "groundOuts": 112,
+            "airOuts": 151,
+            "runs": 56,
+            "doubles": 16,
+            "triples": 1,
+            "homeRuns": 20,
+            "strikeOuts": 97,
+            "baseOnBalls": 37,
+            "intentionalWalks": 0,
+            "hits": 111,
+            "hitByPitch": 2,
+            "avg": ".239",
+            "atBats": 465,
+            "obp": ".295",
+            "slg": ".406",
+            "ops": ".701",
+            "caughtStealing": 1,
+            "stolenBases": 5,
+            "stolenBasePercentage": ".833",
+            "caughtStealingPercentage": ".167",
+            "groundIntoDoublePlay": 8,
+            "numberOfPitches": 1953,
+            "era": "3.89",
+            "inningsPitched": "125.0",
+            "wins": 4,
+            "losses": 10,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 54,
+            "whip": "1.18",
+            "battersFaced": 510,
+            "outs": 375,
+            "gamesPitched": 22,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 1243,
+            "strikePercentage": ".640",
+            "hitBatsmen": 2,
+            "balks": 0,
+            "wildPitches": 2,
+            "pickoffs": 3,
+            "totalBases": 189,
+            "groundOutsToAirouts": "0.74",
+            "winPercentage": ".286",
+            "pitchesPerInning": "15.62",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "2.62",
+            "strikeoutsPer9Inn": "6.98",
+            "walksPer9Inn": "2.66",
+            "hitsPer9Inn": "7.99",
+            "runsScoredPer9": "4.03",
+            "homeRunsPer9": "1.44",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 1,
+            "sacFlies": 5
+          },
+          "team": {
+            "id": 114,
+            "name": "Cleveland Guardians",
+            "link": "/api/v1/teams/114"
+          },
+          "player": {
+            "id": 676440,
+            "fullName": "Tanner Bibee",
+            "link": "/api/v1/people/676440"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

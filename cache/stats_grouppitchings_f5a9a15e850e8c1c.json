@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 28,
+            "gamesPlayed": 14,
+            "gamesStarted": 14,
+            "groundOuts": 50,
+            "airOuts": 48,
+            "runs": 36,
+            "doubles": 7,
+            "triples": 0,
+            "homeRuns": 9,
+            "strikeOuts": 71,
+            "baseOnBalls": 36,
+            "intentionalWalks": 0,
+            "hits": 49,
+            "hitByPitch": 4,
+            "avg": ".227",
+            "atBats": 216,
+            "obp": ".346",
+            "slg": ".384",
+            "ops": ".730",
+            "caughtStealing": 1,
+            "stolenBases": 6,
+            "stolenBasePercentage": ".857",
+            "caughtStealingPercentage": ".143",
+            "groundIntoDoublePlay": 4,
+            "numberOfPitches": 1118,
+            "era": "5.59",
+            "inningsPitched": "58.0",
+            "wins": 6,
+            "losses": 4,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 36,
+            "whip": "1.47",
+            "battersFaced": 258,
+            "outs": 174,
+            "gamesPitched": 14,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 660,
+            "strikePercentage": ".590",
+            "hitBatsmen": 4,
+            "balks": 2,
+            "wildPitches": 1,
+            "pickoffs": 0,
+            "totalBases": 83,
+            "groundOutsToAirouts": "1.04",
+            "winPercentage": ".600",
+            "pitchesPerInning": "19.28",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "1.97",
+            "strikeoutsPer9Inn": "11.02",
+            "walksPer9Inn": "5.59",
+            "hitsPer9Inn": "7.60",
+            "runsScoredPer9": "5.59",
+            "homeRunsPer9": "1.40",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 1,
+            "sacFlies": 1
+          },
+          "team": {
+            "id": 117,
+            "name": "Houston Astros",
+            "link": "/api/v1/teams/117"
+          },
+          "player": {
+            "id": 837227,
+            "fullName": "Tatsuya Imai",
+            "link": "/api/v1/people/837227"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

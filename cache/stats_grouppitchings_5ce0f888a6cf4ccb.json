@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 26,
+            "gamesPlayed": 13,
+            "gamesStarted": 13,
+            "groundOuts": 75,
+            "airOuts": 83,
+            "runs": 46,
+            "doubles": 15,
+            "triples": 1,
+            "homeRuns": 15,
+            "strikeOuts": 59,
+            "baseOnBalls": 24,
+            "intentionalWalks": 0,
+            "hits": 76,
+            "hitByPitch": 2,
+            "avg": ".262",
+            "atBats": 290,
+            "obp": ".320",
+            "slg": ".476",
+            "ops": ".796",
+            "caughtStealing": 0,
+            "stolenBases": 5,
+            "stolenBasePercentage": "1.000",
+            "caughtStealingPercentage": ".000",
+            "groundIntoDoublePlay": 7,
+            "numberOfPitches": 1202,
+            "era": "5.21",
+            "inningsPitched": "76.0",
+            "wins": 4,
+            "losses": 8,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 44,
+            "whip": "1.32",
+            "battersFaced": 319,
+            "outs": 228,
+            "gamesPitched": 13,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 764,
+            "strikePercentage": ".640",
+            "hitBatsmen": 2,
+            "balks": 2,
+            "wildPitches": 3,
+            "pickoffs": 0,
+            "totalBases": 138,
+            "groundOutsToAirouts": "0.90",
+            "winPercentage": ".333",
+            "pitchesPerInning": "15.82",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "2.46",
+            "strikeoutsPer9Inn": "6.99",
+            "walksPer9Inn": "2.84",
+            "hitsPer9Inn": "9.00",
+            "runsScoredPer9": "5.45",
+            "homeRunsPer9": "1.78",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 0,
+            "sacFlies": 3
+          },
+          "team": {
+            "id": 142,
+            "name": "Minnesota Twins",
+            "link": "/api/v1/teams/142"
+          },
+          "player": {
+            "id": 805673,
+            "fullName": "Zebby Matthews",
+            "link": "/api/v1/people/805673"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

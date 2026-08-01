@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 37,
+            "gamesPlayed": 22,
+            "gamesStarted": 9,
+            "groundOuts": 125,
+            "airOuts": 121,
+            "runs": 69,
+            "doubles": 19,
+            "triples": 0,
+            "homeRuns": 23,
+            "strikeOuts": 52,
+            "baseOnBalls": 21,
+            "intentionalWalks": 0,
+            "hits": 115,
+            "hitByPitch": 1,
+            "avg": ".283",
+            "atBats": 407,
+            "obp": ".315",
+            "slg": ".499",
+            "ops": ".814",
+            "caughtStealing": 1,
+            "stolenBases": 7,
+            "stolenBasePercentage": ".875",
+            "caughtStealingPercentage": ".125",
+            "groundIntoDoublePlay": 8,
+            "numberOfPitches": 1601,
+            "era": "5.65",
+            "inningsPitched": "102.0",
+            "wins": 3,
+            "losses": 7,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 64,
+            "whip": "1.33",
+            "battersFaced": 435,
+            "outs": 306,
+            "gamesPitched": 22,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 1054,
+            "strikePercentage": ".660",
+            "hitBatsmen": 1,
+            "balks": 0,
+            "wildPitches": 1,
+            "pickoffs": 0,
+            "totalBases": 203,
+            "groundOutsToAirouts": "1.03",
+            "winPercentage": ".300",
+            "pitchesPerInning": "15.70",
+            "gamesFinished": 1,
+            "strikeoutWalkRatio": "2.48",
+            "strikeoutsPer9Inn": "4.59",
+            "walksPer9Inn": "1.85",
+            "hitsPer9Inn": "10.15",
+            "runsScoredPer9": "6.09",
+            "homeRunsPer9": "2.03",
+            "inheritedRunners": 6,
+            "inheritedRunnersScored": 2,
+            "catchersInterference": 0,
+            "sacBunts": 0,
+            "sacFlies": 6
+          },
+          "team": {
+            "id": 120,
+            "name": "Washington Nationals",
+            "link": "/api/v1/teams/120"
+          },
+          "player": {
+            "id": 571945,
+            "fullName": "Miles Mikolas",
+            "link": "/api/v1/people/571945"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

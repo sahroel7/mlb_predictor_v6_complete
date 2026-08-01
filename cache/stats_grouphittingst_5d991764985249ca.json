@@ -1,0 +1,59 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "gamesPlayed": 105,
+            "groundOuts": 875,
+            "airOuts": 987,
+            "runs": 482,
+            "doubles": 158,
+            "triples": 8,
+            "homeRuns": 143,
+            "strikeOuts": 850,
+            "baseOnBalls": 345,
+            "intentionalWalks": 23,
+            "hits": 856,
+            "hitByPitch": 47,
+            "avg": ".243",
+            "atBats": 3527,
+            "obp": ".316",
+            "slg": ".414",
+            "ops": ".730",
+            "caughtStealing": 14,
+            "stolenBases": 37,
+            "stolenBasePercentage": ".725",
+            "caughtStealingPercentage": ".275",
+            "groundIntoDoublePlay": 78,
+            "numberOfPitches": 15391,
+            "plateAppearances": 3962,
+            "totalBases": 1459,
+            "rbi": 461,
+            "leftOnBase": 699,
+            "sacBunts": 15,
+            "sacFlies": 26,
+            "babip": ".279",
+            "groundOutsToAirouts": "0.89",
+            "catchersInterference": 2,
+            "atBatsPerHomeRun": "24.66"
+          },
+          "team": {
+            "id": 117,
+            "name": "Houston Astros",
+            "link": "/api/v1/teams/117"
+          }
+        }
+      ]
+    }
+  ]
+}

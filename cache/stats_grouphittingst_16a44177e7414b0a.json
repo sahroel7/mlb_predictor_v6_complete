@@ -1,0 +1,59 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "gamesPlayed": 103,
+            "groundOuts": 846,
+            "airOuts": 988,
+            "runs": 515,
+            "doubles": 164,
+            "triples": 8,
+            "homeRuns": 138,
+            "strikeOuts": 835,
+            "baseOnBalls": 310,
+            "intentionalWalks": 8,
+            "hits": 879,
+            "hitByPitch": 43,
+            "avg": ".250",
+            "atBats": 3511,
+            "obp": ".316",
+            "slg": ".420",
+            "ops": ".736",
+            "caughtStealing": 17,
+            "stolenBases": 51,
+            "stolenBasePercentage": ".750",
+            "caughtStealingPercentage": ".250",
+            "groundIntoDoublePlay": 44,
+            "numberOfPitches": 15188,
+            "plateAppearances": 3904,
+            "totalBases": 1473,
+            "rbi": 497,
+            "leftOnBase": 682,
+            "sacBunts": 4,
+            "sacFlies": 33,
+            "babip": ".288",
+            "groundOutsToAirouts": "0.86",
+            "catchersInterference": 3,
+            "atBatsPerHomeRun": "25.44"
+          },
+          "team": {
+            "id": 144,
+            "name": "Atlanta Braves",
+            "link": "/api/v1/teams/144"
+          }
+        }
+      ]
+    }
+  ]
+}

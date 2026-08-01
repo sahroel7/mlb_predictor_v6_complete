@@ -1,0 +1,59 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "gamesPlayed": 104,
+            "groundOuts": 941,
+            "airOuts": 865,
+            "runs": 430,
+            "doubles": 153,
+            "triples": 10,
+            "homeRuns": 116,
+            "strikeOuts": 868,
+            "baseOnBalls": 357,
+            "intentionalWalks": 14,
+            "hits": 784,
+            "hitByPitch": 37,
+            "avg": ".229",
+            "atBats": 3419,
+            "obp": ".307",
+            "slg": ".382",
+            "ops": ".689",
+            "caughtStealing": 26,
+            "stolenBases": 107,
+            "stolenBasePercentage": ".805",
+            "caughtStealingPercentage": ".195",
+            "groundIntoDoublePlay": 74,
+            "numberOfPitches": 15173,
+            "plateAppearances": 3853,
+            "totalBases": 1305,
+            "rbi": 419,
+            "leftOnBase": 671,
+            "sacBunts": 15,
+            "sacFlies": 24,
+            "babip": ".272",
+            "groundOutsToAirouts": "1.09",
+            "catchersInterference": 1,
+            "atBatsPerHomeRun": "29.47"
+          },
+          "team": {
+            "id": 135,
+            "name": "San Diego Padres",
+            "link": "/api/v1/teams/135"
+          }
+        }
+      ]
+    }
+  ]
+}

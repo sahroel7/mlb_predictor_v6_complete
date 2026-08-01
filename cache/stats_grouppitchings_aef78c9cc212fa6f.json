@@ -1,0 +1,104 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 23,
+            "gamesPlayed": 9,
+            "gamesStarted": 3,
+            "groundOuts": 16,
+            "airOuts": 21,
+            "runs": 8,
+            "doubles": 4,
+            "triples": 0,
+            "homeRuns": 1,
+            "strikeOuts": 24,
+            "baseOnBalls": 18,
+            "intentionalWalks": 0,
+            "hits": 16,
+            "hitByPitch": 1,
+            "avg": ".213",
+            "atBats": 75,
+            "obp": ".372",
+            "slg": ".307",
+            "ops": ".679",
+            "caughtStealing": 0,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".---",
+            "caughtStealingPercentage": ".---",
+            "groundIntoDoublePlay": 3,
+            "numberOfPitches": 389,
+            "era": "3.32",
+            "inningsPitched": "21.2",
+            "wins": 1,
+            "losses": 1,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 1,
+            "blownSaves": 0,
+            "earnedRuns": 8,
+            "whip": "1.57",
+            "battersFaced": 96,
+            "outs": 65,
+            "gamesPitched": 9,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 225,
+            "strikePercentage": ".580",
+            "hitBatsmen": 1,
+            "balks": 0,
+            "wildPitches": 1,
+            "pickoffs": 0,
+            "totalBases": 23,
+            "groundOutsToAirouts": "0.76",
+            "winPercentage": ".500",
+            "pitchesPerInning": "17.95",
+            "gamesFinished": 2,
+            "strikeoutWalkRatio": "1.33",
+            "strikeoutsPer9Inn": "9.97",
+            "walksPer9Inn": "7.48",
+            "hitsPer9Inn": "6.65",
+            "runsScoredPer9": "3.32",
+            "homeRunsPer9": "0.42",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 2,
+            "sacFlies": 0
+          },
+          "team": {
+            "id": 142,
+            "name": "Minnesota Twins",
+            "link": "/api/v1/teams/142"
+          },
+          "player": {
+            "id": 696070,
+            "fullName": "Kendry Rojas",
+            "link": "/api/v1/people/696070"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}
