@@ -1905,50 +1905,6 @@
         {
           "season": "2026",
           "stat": {
-            "gamesPlayed": 86,
-            "groundOuts": 822,
-            "airOuts": 692,
-            "runs": 507,
-            "doubles": 159,
-            "triples": 9,
-            "homeRuns": 127,
-            "strikeOuts": 594,
-            "baseOnBalls": 254,
-            "intentionalWalks": 10,
-            "hits": 905,
-            "hitByPitch": 32,
-            "avg": ".305",
-            "atBats": 2971,
-            "obp": ".363",
-            "slg": ".492",
-            "ops": ".855",
-            "caughtStealing": 19,
-            "stolenBases": 35,
-            "stolenBasePercentage": ".648",
-            "caughtStealingPercentage": ".352",
-            "groundIntoDoublePlay": 70,
-            "numberOfPitches": 12405,
-            "plateAppearances": 3300,
-            "totalBases": 1463,
-            "rbi": 471,
-            "leftOnBase": 582,
-            "sacBunts": 20,
-            "sacFlies": 22,
-            "babip": ".342",
-            "groundOutsToAirouts": "1.19",
-            "catchersInterference": 1,
-            "atBatsPerHomeRun": "23.39"
-          },
-          "team": {
-            "id": 6303,
-            "name": "Conspiradores de Queretaro",
-            "link": "/api/v1/teams/6303"
-          },
-          "rank": 44
-        },
-        {
-          "season": "2026",
-          "stat": {
             "gamesPlayed": 10,
             "groundOuts": 72,
             "airOuts": 99,
@@ -1988,7 +1944,7 @@
             "name": "Kansas State Wildcats",
             "link": "/api/v1/teams/6011"
           },
-          "rank": 45
+          "rank": 44
         },
         {
           "season": "2026",
@@ -2031,6 +1987,50 @@
             "id": 245,
             "name": "Texas Longhorns",
             "link": "/api/v1/teams/245"
+          },
+          "rank": 45
+        },
+        {
+          "season": "2026",
+          "stat": {
+            "gamesPlayed": 87,
+            "groundOuts": 830,
+            "airOuts": 698,
+            "runs": 511,
+            "doubles": 161,
+            "triples": 9,
+            "homeRuns": 129,
+            "strikeOuts": 613,
+            "baseOnBalls": 256,
+            "intentionalWalks": 11,
+            "hits": 913,
+            "hitByPitch": 33,
+            "avg": ".303",
+            "atBats": 3012,
+            "obp": ".362",
+            "slg": ".491",
+            "ops": ".853",
+            "caughtStealing": 19,
+            "stolenBases": 35,
+            "stolenBasePercentage": ".648",
+            "caughtStealingPercentage": ".352",
+            "groundIntoDoublePlay": 71,
+            "numberOfPitches": 12595,
+            "plateAppearances": 3344,
+            "totalBases": 1479,
+            "rbi": 474,
+            "leftOnBase": 589,
+            "sacBunts": 20,
+            "sacFlies": 22,
+            "babip": ".342",
+            "groundOutsToAirouts": "1.19",
+            "catchersInterference": 1,
+            "atBatsPerHomeRun": "23.35"
+          },
+          "team": {
+            "id": 6303,
+            "name": "Conspiradores de Queretaro",
+            "link": "/api/v1/teams/6303"
           },
           "rank": 46
         },
@@ -2125,50 +2125,6 @@
         {
           "season": "2026",
           "stat": {
-            "gamesPlayed": 85,
-            "groundOuts": 783,
-            "airOuts": 696,
-            "runs": 485,
-            "doubles": 170,
-            "triples": 23,
-            "homeRuns": 94,
-            "strikeOuts": 602,
-            "baseOnBalls": 308,
-            "intentionalWalks": 7,
-            "hits": 870,
-            "hitByPitch": 42,
-            "avg": ".302",
-            "atBats": 2877,
-            "obp": ".373",
-            "slg": ".475",
-            "ops": ".848",
-            "caughtStealing": 43,
-            "stolenBases": 130,
-            "stolenBasePercentage": ".751",
-            "caughtStealingPercentage": ".249",
-            "groundIntoDoublePlay": 61,
-            "numberOfPitches": 12640,
-            "plateAppearances": 3301,
-            "totalBases": 1368,
-            "rbi": 465,
-            "leftOnBase": 634,
-            "sacBunts": 33,
-            "sacFlies": 41,
-            "babip": ".349",
-            "groundOutsToAirouts": "1.13",
-            "catchersInterference": 0,
-            "atBatsPerHomeRun": "30.61"
-          },
-          "team": {
-            "id": 520,
-            "name": "Pericos de Puebla",
-            "link": "/api/v1/teams/520"
-          },
-          "rank": 49
-        },
-        {
-          "season": "2026",
-          "stat": {
             "gamesPlayed": 2,
             "groundOuts": 21,
             "airOuts": 15,
@@ -2207,6 +2163,50 @@
             "id": 4767,
             "name": "Southern Jaguars",
             "link": "/api/v1/teams/4767"
+          },
+          "rank": 49
+        },
+        {
+          "season": "2026",
+          "stat": {
+            "gamesPlayed": 86,
+            "groundOuts": 793,
+            "airOuts": 703,
+            "runs": 486,
+            "doubles": 171,
+            "triples": 23,
+            "homeRuns": 94,
+            "strikeOuts": 612,
+            "baseOnBalls": 311,
+            "intentionalWalks": 7,
+            "hits": 876,
+            "hitByPitch": 43,
+            "avg": ".301",
+            "atBats": 2910,
+            "obp": ".372",
+            "slg": ".473",
+            "ops": ".845",
+            "caughtStealing": 43,
+            "stolenBases": 134,
+            "stolenBasePercentage": ".757",
+            "caughtStealingPercentage": ".243",
+            "groundIntoDoublePlay": 61,
+            "numberOfPitches": 12794,
+            "plateAppearances": 3338,
+            "totalBases": 1375,
+            "rbi": 466,
+            "leftOnBase": 643,
+            "sacBunts": 33,
+            "sacFlies": 41,
+            "babip": ".348",
+            "groundOutsToAirouts": "1.13",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "30.96"
+          },
+          "team": {
+            "id": 520,
+            "name": "Pericos de Puebla",
+            "link": "/api/v1/teams/520"
           },
           "rank": 50
         }

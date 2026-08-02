@@ -29,6 +29,7 @@ from game_fetcher import fetch_morning_data, fetch_afternoon_data, compare_morni
 from backtester import run_backtest, save_backtest_results
 from output_formatter import print_predictions, format_backtest_summary, format_verification_report
 from database import save_predictions_to_db, verify_predictions
+from live_integration import run_live_monitoring
 
 
 def cmd_predict(date_str: Optional[str] = None, verbose: bool = False):
@@ -67,6 +68,12 @@ def cmd_predict(date_str: Optional[str] = None, verbose: bool = False):
         pred = model.predict(game, standings)
         pred["date"] = target_date
         predictions.append(pred)
+
+    # Setelah generate prediksi
+    monitor_choice = input("Start live monitoring? (y/n): ").strip().lower()
+    if monitor_choice == "y":
+        print("Starting live monitoring...")
+        run_live_monitoring(predictions, duration_minutes=180)
 
     # Display results
     print_predictions(predictions, verbose=verbose)
@@ -163,6 +170,66 @@ def cmd_tune(num_games: int = 300):
     save_backtest_results(results, "backtest_tuned.json")
 
 
+def cmd_live_monitor_today(date_str: Optional[str] = None, duration: int = 0):
+    """Run live play-by-play monitoring for active/today's games (auto-detects US time & active live games)"""
+    print_section("MLB Live Game Monitor v1.0")
+    
+    from datetime import datetime, timedelta, timezone
+    us_date_str = (datetime.now(timezone.utc) - timedelta(hours=4)).strftime("%Y-%m-%d")
+    local_date_str = get_today_date()
+    
+    target_date = date_str or us_date_str
+    print(f"Detecting MLB Active Schedule for US Date: {target_date} (Local Date: {local_date_str})")
+    
+    pred_file = os.path.join(DATA_DIR, f"predictions_{target_date.replace('/', '')}.json")
+
+    # Jika file prediksi untuk tanggal US belum ada, coba periksa tanggal lokal
+    if not os.path.exists(pred_file) and local_date_str != target_date:
+        local_pred_file = os.path.join(DATA_DIR, f"predictions_{local_date_str.replace('/', '')}.json")
+        if os.path.exists(local_pred_file):
+            pred_file = local_pred_file
+            target_date = local_date_str
+
+    if not os.path.exists(pred_file):
+        print(f"\n❌ Prediksi untuk tanggal {target_date} belum ditemukan. Membuat prediksi otomatis...")
+        cmd_predict(target_date)
+
+    if os.path.exists(pred_file):
+        from config import load_json
+        predictions = load_json(pred_file)
+        if predictions:
+            run_live_monitoring(predictions, duration_minutes=duration)
+        else:
+            print("❌ File prediksi kosong.")
+
+
+def cmd_live_monitor_manual():
+    """Manual live monitoring by entering Game PK and pick team"""
+    print_section("MLB Live Game Monitor (Manual Input)")
+    game_pk_str = input("Masukkan Game PK (contoh: 824651 atau pisahkan koma): ").strip()
+    if not game_pk_str:
+        print("❌ Game PK tidak boleh kosong.")
+        return
+
+    from live_integration import LiveGameMonitor
+    monitor = LiveGameMonitor()
+
+    pks = [p.strip() for p in game_pk_str.split(",") if p.strip().isdigit()]
+    if not pks:
+        print("❌ Game PK tidak valid.")
+        return
+
+    for pk in pks:
+        pick = input(f"Masukkan nama tim pilihan (Pick) untuk Game PK {pk}: ").strip()
+        away = input(f"Masukkan nama Away Team untuk Game PK {pk}: ").strip()
+        home = input(f"Masukkan nama Home Team untuk Game PK {pk}: ").strip()
+        monitor.add_game(int(pk), pick or "Pick", away or "Away", home or "Home")
+
+    dur = input("Durasi monitoring dalam menit (default 180): ").strip()
+    duration = int(dur) if dur and dur.isdigit() else 180
+    monitor.start(duration_minutes=duration)
+
+
 def cmd_interactive():
     """Interactive mode with numbered menu options"""
     while True:
@@ -174,16 +241,18 @@ def cmd_interactive():
         print("  2. Predict Specific Date (Save/Update DB)")
         print("  3. Verify Today's Predictions (Database Report)")
         print("  4. Verify Specific Date Predictions (Database Report)")
-        print("  5. Backtest Simulation (No DB Save)")
-        print("  6. Compare Morning vs Afternoon Data")
-        print("  7. Tune Model Weights")
-        print("  8. Clear Cache Data")
-        print("  9. Exit / Quit")
+        print("  5. Live Monitor Today's Predictions (Real-Time Play-by-Play)")
+        print("  6. Live Monitor Manual Game PK (Real-Time Input Custom)")
+        print("  7. Backtest Simulation (No DB Save)")
+        print("  8. Compare Morning vs Afternoon Data")
+        print("  9. Tune Model Weights")
+        print(" 10. Clear Cache Data")
+        print(" 11. Exit / Quit")
         print("=" * 65)
 
-        choice = input("\nPilih opsi (1-9): ").strip().lower()
+        choice = input("\nPilih opsi (1-11): ").strip().lower()
 
-        if choice in ["9", "exit", "quit", "q"]:
+        if choice in ["11", "exit", "quit", "q"]:
             print("Goodbye!")
             break
         elif choice == "1":
@@ -205,24 +274,28 @@ def cmd_interactive():
                 continue
             cmd_verify(date)
         elif choice == "5":
+            cmd_live_monitor_today()
+        elif choice == "6":
+            cmd_live_monitor_manual()
+        elif choice == "7":
             n = input("Jumlah game simulasi backtest (default 300): ").strip()
             cmd_backtest(int(n) if n and n.isdigit() else 300)
-        elif choice == "6":
+        elif choice == "8":
             date = input("Tanggal komparasi (YYYY-MM-DD, blank=today): ").strip()
             cmd_compare(date or None)
-        elif choice == "7":
+        elif choice == "9":
             n = input("Jumlah game untuk tuning (default 300): ").strip()
             cmd_tune(int(n) if n and n.isdigit() else 300)
-        elif choice == "8":
+        elif choice == "10":
             clear_all_cache()
         else:
-            print("❌ Opsi tidak valid! Harap pilih angka antara 1-9.")
+            print("❌ Opsi tidak valid! Harap pilih angka antara 1-11.")
 
 
 def main():
     parser = argparse.ArgumentParser(description="MLB Prediction System v6.0")
     parser.add_argument("command", nargs="?", default="predict",
-                        choices=["predict", "verify", "backtest", "compare", "tune", "interactive"],
+                        choices=["predict", "verify", "backtest", "compare", "tune", "monitor", "interactive"],
                         help="Command to run")
     parser.add_argument("--date", "-d", help="Date for prediction (YYYY-MM-DD)")
     parser.add_argument("--games", "-g", type=int, default=300, help="Number of games for backtest")
@@ -241,6 +314,8 @@ def main():
         cmd_compare(args.date)
     elif args.command == "tune":
         cmd_tune(args.games)
+    elif args.command == "monitor":
+        cmd_live_monitor_today(args.date)
     elif args.command == "interactive":
         cmd_interactive()
     else:
@@ -249,4 +324,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
